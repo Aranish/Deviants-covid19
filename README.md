@@ -1,5 +1,28 @@
 ###### Dillinger
 ## Deviants-Covid19 WIL
+The CSV files follow a format of 1 row per location and date. 
+
+The variables represent all of our main data related to confirmed cases, deaths, vaccinations, and testing, as well as other variables of potential interest.It includes the following data: 
+
+|        COLUMN NAMES         |	                       CATEGORY                           |   DESCRIPTION      |
+|-----------------------------|-----------------------------------------------------------|--------------------|
+|            ISO		      |                        Others                             |International Organization for Standardization |
+|            REGION           |                        Others                             |Continent of the geographical location         |
+|            COUNTRY          |                        Others                             |Geographical location                          |
+|          month_year         |                        Others                             |Observation Month and Year                     |
+|          population         |                        Others                             |Population in 2020 for that specific year and month                     |
+|          new_cases         |                        Confirmed cases                             |Total confirmed cases of COVID-19 for the specific year and month                   |
+|          total_cases         |                       Confirmed cases                             |otal cumulative confirmed cases of COVID-19 until the specific year and month                 |
+|          new_deaths         |                        Confirmed deaths                            |Total deaths attributed to COVID-19 for the specific year and month |
+|          total_deaths         |                        Confirmed deaths                            |Total cumulative deaths attributed to COVID-19 until the specific year and month |
+|          partially_vaccinated         |                       Vaccinations                            |Total number of people who received at least one vaccine dose for the specific year and month                 |
+|          fully_vaccinated         |                       Vaccinations                            |Total number of people who received all doses prescribed by the vaccination protocol for the specific year and month|
+|          total_vaccinations         |                       Vaccinations                            |Total number of COVID-19 vaccination doses administered for the specific year and month                 |
+|          cumulative_vaccinations_count         |               Vaccinations                   |Total cumulative vaccinations for COVID-19 until the specific year and month                |
+|          stringency_index         |                       Policy responses                            |Government Response Stringency Index: composite measure based on 9 response indicators including school                  |
+|          total_tests         |                       Tests & positivity                           |Total cumulative tests for COVID-19 until the specific year and month                  |
+
+
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
