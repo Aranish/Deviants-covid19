@@ -1,1411 +1,176 @@
-COUNTRY,MAIN_MEASURES,STEPS_TAKEN,month_year,population,stringency_index,total_cases,total_deaths,total_tests,new_cases,new_deaths,partially_vaccinated,fully_vaccinated
-Argentina,Public health measures,Awareness campaigns,2020-02,45195777,11,0,0,517,0,0,0,0
-Argentina,Movement restrictions,International flights suspension,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Public health measures,Isolation and quarantine policies,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Movement restrictions,Visa restrictions,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Social distancing,Closure of businesses and public services,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Social distancing,Schools closure,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Public health measures,Strengthening the public health system,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Social distancing,Limit public gatherings,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Movement restrictions,Domestic travel restrictions,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Movement restrictions,Surveillance and monitoring,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Movement restrictions,Border closure,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Lockdown,Partial lockdown,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Governance and socio-economic measures,State of emergency declared,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Governance and socio-economic measures,Economic measures,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Public health measures,Requirement to wear protective gear in public,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Public health measures,General recommendations,2020-03,45195777,100,1054,27,7189,1054,27,0,0
-Argentina,Public health measures,Isolation and quarantine policies,2020-04,45195777,100,4428,218,70283,3374,191,0,0
-Argentina,Public health measures,Requirement to wear protective gear in public,2020-04,45195777,100,4428,218,70283,3374,191,0,0
-Argentina,Public health measures,Testing policy,2020-04,45195777,100,4428,218,70283,3374,191,0,0
-Argentina,Movement restrictions,Border closure,2020-04,45195777,100,4428,218,70283,3374,191,0,0
-Argentina,Lockdown,Partial lockdown,2020-04,45195777,100,4428,218,70283,3374,191,0,0
-Argentina,Movement restrictions,International flights suspension,2020-04,45195777,100,4428,218,70283,3374,191,0,0
-Argentina,Governance and socio-economic measures,Economic measures,2020-04,45195777,100,4428,218,70283,3374,191,0,0
-Argentina,Public health measures,Mass population testing,2020-05,45195777,94,16851,539,202421,12423,321,0,0
-Argentina,Public health measures,Isolation and quarantine policies,2020-05,45195777,94,16851,539,202421,12423,321,0,0
-Argentina,Social distancing,Closure of businesses and public services,2020-05,45195777,94,16851,539,202421,12423,321,0,0
-Argentina,Lockdown,Partial lockdown,2020-05,45195777,94,16851,539,202421,12423,321,0,0
-Argentina,Movement restrictions,Surveillance and monitoring,2020-05,45195777,94,16851,539,202421,12423,321,0,0
-Argentina,Governance and socio-economic measures,Economic measures,2020-05,45195777,94,16851,539,202421,12423,321,0,0
-Argentina,Public health measures,Isolation and quarantine policies,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Governance and socio-economic measures,Economic measures,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Movement restrictions,Visa restrictions,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Public health measures,Requirement to wear protective gear in public,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Movement restrictions,International flights suspension,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Social distancing,Closure of businesses and public services,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Social distancing,Limit public gatherings,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Social distancing,Schools closure,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Lockdown,Partial lockdown,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Movement restrictions,Domestic travel restrictions,2020-06,45195777,91,64530,1307,451600,47679,768,0,0
-Argentina,Movement restrictions,Visa restrictions,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Movement restrictions,Border closure,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Public health measures,Isolation and quarantine policies,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Movement restrictions,International flights suspension,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Social distancing,Schools closure,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Public health measures,Requirement to wear protective gear in public,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Social distancing,Limit public gatherings,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Public health measures,Other public health measures enforced,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Social distancing,Changes in prison-related policies,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Social distancing,Closure of businesses and public services,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Lockdown,Partial lockdown,2020-07,45195777,93,191302,3543,897932,126772,2236,0,0
-Argentina,Public health measures,Strengthening the public health system,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Movement restrictions,Domestic travel restrictions,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Movement restrictions,Checkpoints within the country,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Movement restrictions,Curfews,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Lockdown,Partial lockdown,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Public health measures,Requirement to wear protective gear in public,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Humanitarian exemption,Humanitarian exemptions,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Social distancing,Limit public gatherings,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Governance and socio-economic measures,Economic measures,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Social distancing,Closure of businesses and public services,2020-08,45195777,91,417735,8660,1557159,226433,5117,0,0
-Argentina,Movement restrictions,Additional health/documents requirements upon arrival,2020-09,45195777,88,751001,16937,2341345,333266,8277,0,0
-Argentina,Public health measures,Strengthening the public health system,2020-09,45195777,88,751001,16937,2341345,333266,8277,0,0
-Argentina,Governance and socio-economic measures,Economic measures,2020-09,45195777,88,751001,16937,2341345,333266,8277,0,0
-Argentina,Movement restrictions,International flights suspension,2020-09,45195777,88,751001,16937,2341345,333266,8277,0,0
-Argentina,Public health measures,Requirement to wear protective gear in public,2020-09,45195777,88,751001,16937,2341345,333266,8277,0,0
-Argentina,Social distancing,Limit public gatherings,2020-09,45195777,88,751001,16937,2341345,333266,8277,0,0
-Argentina,Movement restrictions,Domestic travel restrictions,2020-10,45195777,88,1166924,31002,3145538,415923,14065,0,0
-Argentina,Movement restrictions,International flights suspension,2020-10,45195777,88,1166924,31002,3145538,415923,14065,0,0
-Argentina,Movement restrictions,Visa restrictions,2020-10,45195777,88,1166924,31002,3145538,415923,14065,0,0
-Argentina,Movement restrictions,Additional health/documents requirements upon arrival,2020-10,45195777,88,1166924,31002,3145538,415923,14065,0,0
-Argentina,Public health measures,Requirement to wear protective gear in public,2020-10,45195777,88,1166924,31002,3145538,415923,14065,0,0
-Argentina,Public health measures,Isolation and quarantine policies,2020-11,45195777,82,1424533,38730,3747469,257609,7728,0,0
-Argentina,Social distancing,Closure of businesses and public services,2020-11,45195777,82,1424533,38730,3747469,257609,7728,0,0
-Argentina,Public health measures,Strengthening the public health system,2020-11,45195777,82,1424533,38730,3747469,257609,7728,0,0
-Australia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02,25499881,19,25,0,0,16,0,0,0
-Australia,Movement restrictions,Visa restrictions,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Social distancing,Changes in prison-related policies,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Movement restrictions,Border closure,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Social distancing,Schools closure,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Public health measures,General recommendations,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Social distancing,Closure of businesses and public services,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Movement restrictions,International flights suspension,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Public health measures,Psychological assistance and medical social work,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Public health measures,Testing policy,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Movement restrictions,Domestic travel restrictions,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Movement restrictions,Surveillance and monitoring,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Public health measures,Strengthening the public health system,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Lockdown,Partial lockdown,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Public health measures,Awareness campaigns,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Social distancing,Limit public gatherings,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-03,25499881,71,4559,18,211261,4534,18,0,0
-Australia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Movement restrictions,Border closure,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Movement restrictions,Domestic travel restrictions,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Governance and socio-economic measures,State of emergency declared,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Governance and socio-economic measures,Military deployment,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Public health measures,Testing policy,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Public health measures,Psychological assistance and medical social work,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Public health measures,Strengthening the public health system,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Public health measures,General recommendations,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Movement restrictions,Surveillance and monitoring,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Social distancing,Schools closure,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Public health measures,Other public health measures enforced,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Public health measures,Awareness campaigns,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Social distancing,Closure of businesses and public services,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Social distancing,Limit public gatherings,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Movement restrictions,Visa restrictions,2020-04,25499881,73,6766,93,563641,2207,75,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Movement restrictions,Surveillance and monitoring,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Public health measures,Testing policy,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Public health measures,Psychological assistance and medical social work,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Movement restrictions,Domestic travel restrictions,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Public health measures,Other public health measures enforced,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Social distancing,Schools closure,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Public health measures,Awareness campaigns,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Public health measures,Strengthening the public health system,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Social distancing,Closure of businesses and public services,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Social distancing,Limit public gatherings,2020-05,25499881,69,7202,103,1454568,436,10,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-06,25499881,62,7920,104,2455982,718,1,0,0
-Australia,Movement restrictions,Border closure,2020-06,25499881,62,7920,104,2455982,718,1,0,0
-Australia,Public health measures,General recommendations,2020-06,25499881,62,7920,104,2455982,718,1,0,0
-Australia,Public health measures,Other public health measures enforced,2020-06,25499881,62,7920,104,2455982,718,1,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-06,25499881,62,7920,104,2455982,718,1,0,0
-Australia,Social distancing,Limit public gatherings,2020-06,25499881,62,7920,104,2455982,718,1,0,0
-Australia,Social distancing,Closure of businesses and public services,2020-06,25499881,62,7920,104,2455982,718,1,0,0
-Australia,Public health measures,Strengthening the public health system,2020-06,25499881,62,7920,104,2455982,718,1,0,0
-Australia,Public health measures,Awareness campaigns,2020-06,25499881,62,7920,104,2455982,718,1,0,0
-Australia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Public health measures,Other public health measures enforced,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Social distancing,Limit public gatherings,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Social distancing,Closure of businesses and public services,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Public health measures,General recommendations,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Lockdown,Partial lockdown,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Movement restrictions,Domestic travel restrictions,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Movement restrictions,Surveillance and monitoring,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Movement restrictions,Border closure,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Social distancing,Schools closure,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Governance and socio-economic measures,Military deployment,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Public health measures,Strengthening the public health system,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-07,25499881,75,17280,201,4164454,9360,97,0,0
-Australia,Movement restrictions,Surveillance and monitoring,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Public health measures,Requirement to wear protective gear in public,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Movement restrictions,Curfews,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Social distancing,Limit public gatherings,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Lockdown,Partial lockdown,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Social distancing,Schools closure,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Social distancing,Closure of businesses and public services,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Public health measures,General recommendations,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Movement restrictions,Additional health/documents requirements upon arrival,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Public health measures,Other public health measures enforced,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Movement restrictions,Border closure,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Movement restrictions,Domestic travel restrictions,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Movement restrictions,International flights suspension,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Governance and socio-economic measures,State of emergency declared,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Public health measures,Psychological assistance and medical social work,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Movement restrictions,Visa restrictions,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Public health measures,Strengthening the public health system,2020-08,25499881,75,25819,657,6214453,8539,456,0,0
-Australia,Movement restrictions,Surveillance and monitoring,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Movement restrictions,Additional health/documents requirements upon arrival,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Governance and socio-economic measures,State of emergency declared,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Public health measures,Strengthening the public health system,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Movement restrictions,Checkpoints within the country,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Movement restrictions,Curfews,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Social distancing,Limit public gatherings,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Lockdown,Partial lockdown,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Social distancing,Schools closure,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Public health measures,Requirement to wear protective gear in public,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Movement restrictions,International flights suspension,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Public health measures,Other public health measures enforced,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Social distancing,Closure of businesses and public services,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Public health measures,General recommendations,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Movement restrictions,Border closure,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Movement restrictions,Domestic travel restrictions,2020-09,25499881,75,27096,888,7637403,1277,231,0,0
-Australia,Social distancing,Schools closure,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Governance and socio-economic measures,State of emergency declared,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,Psychological assistance and medical social work,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Movement restrictions,Border closure,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Movement restrictions,Additional health/documents requirements upon arrival,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Movement restrictions,International flights suspension,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,Requirement to wear protective gear in public,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Movement restrictions,Surveillance and monitoring,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,General recommendations,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Lockdown,Partial lockdown,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Movement restrictions,Domestic travel restrictions,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,Testing policy,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,Amendments to funeral and burial regulations,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Social distancing,Closure of businesses and public services,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Social distancing,Limit public gatherings,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,Other public health measures enforced,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,Awareness campaigns,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,Strengthening the public health system,2020-10,25499881,68,27595,907,8700911,499,19,0,0
-Australia,Public health measures,Psychological assistance and medical social work,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Public health measures,Awareness campaigns,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Movement restrictions,Visa restrictions,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Governance and socio-economic measures,State of emergency declared,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Public health measures,Strengthening the public health system,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Public health measures,General recommendations,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Lockdown,Partial lockdown,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Movement restrictions,Surveillance and monitoring,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Public health measures,Requirement to wear protective gear in public,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Social distancing,Schools closure,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Public health measures,Amendments to funeral and burial regulations,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Social distancing,Closure of businesses and public services,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Social distancing,Limit public gatherings,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Movement restrictions,Domestic travel restrictions,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Public health measures,Health screenings in airports and border crossings,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Public health measures,Other public health measures enforced,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Movement restrictions,Additional health/documents requirements upon arrival,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-11,25499881,55,27912,908,9996243,317,1,0,0
-Australia,Public health measures,General recommendations,2020-12,25499881,71,28425,909,11260636,513,1,0,0
-Australia,Public health measures,Strengthening the public health system,2020-12,25499881,71,28425,909,11260636,513,1,0,0
-Australia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-12,25499881,71,28425,909,11260636,513,1,0,0
-Australia,Public health measures,Requirement to wear protective gear in public,2020-12,25499881,71,28425,909,11260636,513,1,0,0
-Australia,Public health measures,Other public health measures enforced,2020-12,25499881,71,28425,909,11260636,513,1,0,0
-Australia,Public health measures,Isolation and quarantine policies,2020-12,25499881,71,28425,909,11260636,513,1,0,0
-Australia,Movement restrictions,Domestic travel restrictions,2020-12,25499881,71,28425,909,11260636,513,1,0,0
-Australia,Governance and socio-economic measures,Economic measures,2020-12,25499881,71,28425,909,11260636,513,1,0,0
-Australia,Social distancing,Limit public gatherings,2020-12,25499881,71,28425,909,11260636,513,1,0,0
-Australia,Governance and socio-economic measures,Economic measures,2021-01,25499881,71,28818,909,12951776,393,0,0,0
-Brazil,Public health measures,Health screenings in airports and border crossings,2020-03,212559409,75,5717,201,0,5715,201,0,0
-Brazil,Social distancing,Changes in prison-related policies,2020-03,212559409,75,5717,201,0,5715,201,0,0
-Brazil,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03,212559409,75,5717,201,0,5715,201,0,0
-Brazil,Public health measures,Isolation and quarantine policies,2020-03,212559409,75,5717,201,0,5715,201,0,0
-Brazil,Public health measures,Awareness campaigns,2020-03,212559409,75,5717,201,0,5715,201,0,0
-Brazil,Movement restrictions,Visa restrictions,2020-03,212559409,75,5717,201,0,5715,201,0,0
-Brazil,Movement restrictions,Border closure,2020-03,212559409,75,5717,201,0,5715,201,0,0
-Brazil,Governance and socio-economic measures,Economic measures,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Social distancing,Schools closure,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Social distancing,Closure of businesses and public services,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Movement restrictions,Border closure,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Social distancing,Limit public gatherings,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Public health measures,Health screenings in airports and border crossings,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Lockdown,Partial lockdown,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Movement restrictions,Domestic travel restrictions,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Public health measures,Other public health measures enforced,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Public health measures,Psychological assistance and medical social work,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Public health measures,Strengthening the public health system,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Movement restrictions,International flights suspension,2020-04,212559409,77,87187,6006,132467,81470,5805,0,0
-Brazil,Public health measures,Psychological assistance and medical social work,2020-05,212559409,81,514849,29314,485000,427662,23308,0,0
-Brazil,Movement restrictions,International flights suspension,2020-05,212559409,81,514849,29314,485000,427662,23308,0,0
-Brazil,Social distancing,Closure of businesses and public services,2020-05,212559409,81,514849,29314,485000,427662,23308,0,0
-Brazil,Lockdown,Partial lockdown,2020-05,212559409,81,514849,29314,485000,427662,23308,0,0
-Brazil,Movement restrictions,Border closure,2020-05,212559409,81,514849,29314,485000,427662,23308,0,0
-Brazil,Movement restrictions,Visa restrictions,2020-05,212559409,81,514849,29314,485000,427662,23308,0,0
-Brazil,Public health measures,Strengthening the public health system,2020-05,212559409,81,514849,29314,485000,427662,23308,0,0
-Brazil,Governance and socio-economic measures,Economic measures,2020-05,212559409,81,514849,29314,485000,427662,23308,0,0
-Brazil,Public health measures,Requirement to wear protective gear in public,2020-06,212559409,77,1402041,59594,1478671,887192,30280,0,0
-Brazil,Social distancing,Closure of businesses and public services,2020-06,212559409,77,1402041,59594,1478671,887192,30280,0,0
-Brazil,Public health measures,Strengthening the public health system,2020-06,212559409,77,1402041,59594,1478671,887192,30280,0,0
-Brazil,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06,212559409,77,1402041,59594,1478671,887192,30280,0,0
-Brazil,Public health measures,Isolation and quarantine policies,2020-06,212559409,77,1402041,59594,1478671,887192,30280,0,0
-Brazil,Movement restrictions,Visa restrictions,2020-06,212559409,77,1402041,59594,1478671,887192,30280,0,0
-Brazil,Movement restrictions,Border closure,2020-06,212559409,77,1402041,59594,1478671,887192,30280,0,0
-Brazil,Movement restrictions,Border closure,2020-07,212559409,81,2662485,92475,2678927,1260444,32881,0,0
-Brazil,Social distancing,Closure of businesses and public services,2020-07,212559409,81,2662485,92475,2678927,1260444,32881,0,0
-Brazil,Public health measures,Strengthening the public health system,2020-07,212559409,81,2662485,92475,2678927,1260444,32881,0,0
-Brazil,Movement restrictions,Additional health/documents requirements upon arrival,2020-07,212559409,81,2662485,92475,2678927,1260444,32881,0,0
-Brazil,Movement restrictions,International flights suspension,2020-07,212559409,81,2662485,92475,2678927,1260444,32881,0,0
-Brazil,Social distancing,Schools closure,2020-08,212559409,74,3908272,121381,5183751,1245787,28906,0,0
-Brazil,Social distancing,Closure of businesses and public services,2020-08,212559409,74,3908272,121381,5183751,1245787,28906,0,0
-Brazil,Public health measures,Requirement to wear protective gear in public,2020-08,212559409,74,3908272,121381,5183751,1245787,28906,0,0
-Brazil,Movement restrictions,Additional health/documents requirements upon arrival,2020-08,212559409,74,3908272,121381,5183751,1245787,28906,0,0
-Brazil,Movement restrictions,Visa restrictions,2020-08,212559409,74,3908272,121381,5183751,1245787,28906,0,0
-Brazil,Movement restrictions,Border checks,2020-10,212559409,67,5535605,159884,0,724670,15932,0,0
-Brazil,Movement restrictions,Border closure,2020-10,212559409,67,5535605,159884,0,724670,15932,0,0
-Brazil,Movement restrictions,Visa restrictions,2020-10,212559409,67,5535605,159884,0,724670,15932,0,0
-Brazil,Movement restrictions,Border closure,2020-11,212559409,61,6335878,173120,0,800273,13236,0,0
-Brazil,Movement restrictions,Visa restrictions,2020-11,212559409,61,6335878,173120,0,800273,13236,0,0
-Brazil,Public health measures,Requirement to wear protective gear in public,2020-11,212559409,61,6335878,173120,0,800273,13236,0,0
-Brazil,Public health measures,Strengthening the public health system,2020-11,212559409,61,6335878,173120,0,800273,13236,0,0
-Brazil,Movement restrictions,Border closure,2020-12,212559409,67,7675973,194949,0,1340095,21829,0,0
-Brazil,Social distancing,Closure of businesses and public services,2020-12,212559409,67,7675973,194949,0,1340095,21829,0,0
-Canada,Public health measures,Isolation and quarantine policies,2020-01,37742157,3,4,0,0,4,0,0,0
-Canada,Public health measures,Awareness campaigns,2020-01,37742157,3,4,0,0,4,0,0,0
-Canada,Public health measures,General recommendations,2020-01,37742157,3,4,0,0,4,0,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-01,37742157,3,4,0,0,4,0,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02,37742157,3,21,0,510,17,0,0,0
-Canada,Public health measures,Isolation and quarantine policies,2020-02,37742157,3,21,0,510,17,0,0,0
-Canada,Movement restrictions,Visa restrictions,2020-02,37742157,3,21,0,510,17,0,0,0
-Canada,Public health measures,Health screenings in airports and border crossings,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Social distancing,Schools closure,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Governance and socio-economic measures,State of emergency declared,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Movement restrictions,International flights suspension,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Movement restrictions,Border closure,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Social distancing,Limit public gatherings,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Governance and socio-economic measures,Economic measures,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Movement restrictions,Surveillance and monitoring,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Public health measures,Isolation and quarantine policies,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Public health measures,General recommendations,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Public health measures,Strengthening the public health system,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Public health measures,Awareness campaigns,2020-03,37742157,73,9246,152,178318,9225,152,0,0
-Canada,Social distancing,Limit public gatherings,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Public health measures,General recommendations,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Public health measures,Isolation and quarantine policies,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Public health measures,Requirement to wear protective gear in public,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Public health measures,Strengthening the public health system,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Governance and socio-economic measures,Military deployment,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Public health measures,Other public health measures enforced,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Governance and socio-economic measures,Economic measures,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Public health measures,Awareness campaigns,2020-04,37742157,75,56716,4179,692108,47470,4027,0,0
-Canada,Public health measures,Other public health measures enforced,2020-05,37742157,73,92488,7906,1655117,35772,3727,0,0
-Canada,Public health measures,Strengthening the public health system,2020-05,37742157,73,92488,7906,1655117,35772,3727,0,0
-Canada,Public health measures,Requirement to wear protective gear in public,2020-05,37742157,73,92488,7906,1655117,35772,3727,0,0
-Canada,Governance and socio-economic measures,Economic measures,2020-05,37742157,73,92488,7906,1655117,35772,3727,0,0
-Canada,Public health measures,Awareness campaigns,2020-05,37742157,73,92488,7906,1655117,35772,3727,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,37742157,73,92488,7906,1655117,35772,3727,0,0
-Canada,Movement restrictions,Border closure,2020-05,37742157,73,92488,7906,1655117,35772,3727,0,0
-Canada,Social distancing,Limit public gatherings,2020-05,37742157,73,92488,7906,1655117,35772,3727,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Public health measures,Strengthening the public health system,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Public health measures,Other public health measures enforced,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Public health measures,Psychological assistance and medical social work,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Social distancing,Closure of businesses and public services,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Movement restrictions,Border closure,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Movement restrictions,Visa restrictions,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Public health measures,Awareness campaigns,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Public health measures,Isolation and quarantine policies,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Public health measures,Health screenings in airports and border crossings,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Movement restrictions,Domestic travel restrictions,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Movement restrictions,International flights suspension,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Governance and socio-economic measures,Economic measures,2020-06,37742157,71,106029,8780,2894567,13541,874,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07,37742157,69,118297,9025,4398108,12268,245,0,0
-Canada,Social distancing,Closure of businesses and public services,2020-07,37742157,69,118297,9025,4398108,12268,245,0,0
-Canada,Movement restrictions,Border closure,2020-07,37742157,69,118297,9025,4398108,12268,245,0,0
-Canada,Movement restrictions,Visa restrictions,2020-07,37742157,69,118297,9025,4398108,12268,245,0,0
-Canada,Social distancing,Changes in prison-related policies,2020-07,37742157,69,118297,9025,4398108,12268,245,0,0
-Canada,Governance and socio-economic measures,Economic measures,2020-07,37742157,69,118297,9025,4398108,12268,245,0,0
-Canada,Social distancing,Changes in prison-related policies,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Public health measures,Requirement to wear protective gear in public,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Public health measures,Other public health measures enforced,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Public health measures,Health screenings in airports and border crossings,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Public health measures,General recommendations,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Governance and socio-economic measures,Military deployment,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Public health measures,Awareness campaigns,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Public health measures,Strengthening the public health system,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Public health measures,Psychological assistance and medical social work,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Governance and socio-economic measures,Economic measures,2020-08,37742157,67,130849,9193,6146834,12552,168,0,0
-Canada,Public health measures,Health screenings in airports and border crossings,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Movement restrictions,Additional health/documents requirements upon arrival,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Movement restrictions,Border closure,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Public health measures,Awareness campaigns,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Governance and socio-economic measures,Military deployment,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Public health measures,Mass population testing,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Public health measures,Strengthening the public health system,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Public health measures,Isolation and quarantine policies,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Governance and socio-economic measures,Economic measures,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-09,37742157,67,162736,9391,8446021,31887,198,0,0
-Canada,Public health measures,Awareness campaigns,2020-10,37742157,63,238191,10276,11329993,75455,885,0,0
-Canada,Movement restrictions,Border closure,2020-10,37742157,63,238191,10276,11329993,75455,885,0,0
-Canada,Public health measures,General recommendations,2020-10,37742157,63,238191,10276,11329993,75455,885,0,0
-Canada,Governance and socio-economic measures,Economic measures,2020-10,37742157,63,238191,10276,11329993,75455,885,0,0
-Canada,Movement restrictions,Surveillance and monitoring,2020-10,37742157,63,238191,10276,11329993,75455,885,0,0
-Canada,Public health measures,Isolation and quarantine policies,2020-10,37742157,63,238191,10276,11329993,75455,885,0,0
-Canada,Public health measures,Strengthening the public health system,2020-10,37742157,63,238191,10276,11329993,75455,885,0,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Movement restrictions,Additional health/documents requirements upon arrival,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Movement restrictions,Visa restrictions,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Public health measures,Isolation and quarantine policies,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Public health measures,Awareness campaigns,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Movement restrictions,Surveillance and monitoring,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Public health measures,Strengthening the public health system,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Governance and socio-economic measures,Military deployment,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Governance and socio-economic measures,Economic measures,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Public health measures,General recommendations,2020-11,37742157,71,382708,12239,14277692,144517,1963,0,0
-Canada,Movement restrictions,Border closure,2020-12,37742157,71,587429,15762,17965095,204721,3523,632446,0
-Canada,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-12,37742157,71,587429,15762,17965095,204721,3523,632446,0
-Canada,Governance and socio-economic measures,Economic measures,2020-12,37742157,71,587429,15762,17965095,204721,3523,632446,0
-Canada,Public health measures,Strengthening the public health system,2020-12,37742157,71,587429,15762,17965095,204721,3523,632446,0
-China,Governance and socio-economic measures,State of emergency declared,2020-01,1439323774,70,9790,213,0,9242,196,0,0
-China,Public health measures,Health screenings in airports and border crossings,2020-01,1439323774,70,9790,213,0,9242,196,0,0
-China,Movement restrictions,Domestic travel restrictions,2020-01,1439323774,70,9790,213,0,9242,196,0,0
-China,Social distancing,Limit public gatherings,2020-01,1439323774,70,9790,213,0,9242,196,0,0
-China,Public health measures,Strengthening the public health system,2020-02,1439323774,81,79261,2835,0,69471,2622,0,0
-China,Governance and socio-economic measures,Economic measures,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,General recommendations,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,Strengthening the public health system,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Movement restrictions,Additional health/documents requirements upon arrival,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,Other public health measures enforced,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Movement restrictions,Visa restrictions,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,Health screenings in airports and border crossings,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,Testing policy,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,Isolation and quarantine policies,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Movement restrictions,Domestic travel restrictions,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,Psychological assistance and medical social work,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Movement restrictions,International flights suspension,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Movement restrictions,Surveillance and monitoring,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,Requirement to wear protective gear in public,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,Awareness campaigns,2020-03,1439323774,82,81565,3305,0,2304,470,0,0
-China,Public health measures,Mass population testing,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Social distancing,Limit public gatherings,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Movement restrictions,Additional health/documents requirements upon arrival,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Movement restrictions,Domestic travel restrictions,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Social distancing,Schools closure,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Movement restrictions,Checkpoints within the country,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Movement restrictions,Border closure,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Public health measures,Testing policy,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Public health measures,Psychological assistance and medical social work,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Movement restrictions,Surveillance and monitoring,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Governance and socio-economic measures,Economic measures,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Public health measures,Health screenings in airports and border crossings,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Public health measures,Isolation and quarantine policies,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Public health measures,Strengthening the public health system,2020-04,1439323774,74,82919,4633,0,1354,1328,0,0
-China,Public health measures,Awareness campaigns,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Movement restrictions,Surveillance and monitoring,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Social distancing,Limit public gatherings,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Movement restrictions,Domestic travel restrictions,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Public health measures,Isolation and quarantine policies,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Public health measures,Strengthening the public health system,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Public health measures,Health screenings in airports and border crossings,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Lockdown,Partial lockdown,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Movement restrictions,Border closure,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Governance and socio-economic measures,Economic measures,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Public health measures,Requirement to wear protective gear in public,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Public health measures,General recommendations,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Public health measures,Testing policy,2020-05,1439323774,82,83062,4634,0,143,1,0,0
-China,Social distancing,Schools closure,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Public health measures,Mass population testing,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Public health measures,Isolation and quarantine policies,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Public health measures,Strengthening the public health system,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Lockdown,Partial lockdown,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Public health measures,Testing policy,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Public health measures,General recommendations,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Public health measures,Other public health measures enforced,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Public health measures,Requirement to wear protective gear in public,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Governance and socio-economic measures,Economic measures,2020-06,1439323774,82,83580,4634,90000000,518,0,0,0
-China,Governance and socio-economic measures,Limit product imports/exports,2020-07,1439323774,78,84383,4634,0,803,0,0,0
-China,Public health measures,Requirement to wear protective gear in public,2020-07,1439323774,78,84383,4634,0,803,0,0,0
-China,Movement restrictions,Checkpoints within the country,2020-07,1439323774,78,84383,4634,0,803,0,0,0
-China,Public health measures,Health screenings in airports and border crossings,2020-07,1439323774,78,84383,4634,0,803,0,0,0
-China,Social distancing,Closure of businesses and public services,2020-07,1439323774,78,84383,4634,0,803,0,0,0
-China,Movement restrictions,Surveillance and monitoring,2020-07,1439323774,78,84383,4634,0,803,0,0,0
-China,Public health measures,Testing policy,2020-07,1439323774,78,84383,4634,0,803,0,0,0
-China,Public health measures,Isolation and quarantine policies,2020-07,1439323774,78,84383,4634,0,803,0,0,0
-China,Public health measures,Other public health measures enforced,2020-07,1439323774,78,84383,4634,0,803,0,0,0
-China,Movement restrictions,Domestic travel restrictions,2020-08,1439323774,78,85104,4634,160000000,721,0,0,0
-China,Public health measures,Mass population testing,2020-08,1439323774,78,85104,4634,160000000,721,0,0,0
-China,Social distancing,Schools closure,2020-08,1439323774,78,85104,4634,160000000,721,0,0,0
-China,Public health measures,Strengthening the public health system,2020-08,1439323774,78,85104,4634,160000000,721,0,0,0
-China,Public health measures,Other public health measures enforced,2020-09,1439323774,82,85458,4634,0,354,0,0,0
-China,Public health measures,Mass population testing,2020-09,1439323774,82,85458,4634,0,354,0,0,0
-China,Public health measures,Strengthening the public health system,2020-09,1439323774,82,85458,4634,0,354,0,0,0
-France,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02,67564251,35,100,2,0,95,2,0,0
-France,Social distancing,Limit public gatherings,2020-02,67564251,35,100,2,0,95,2,0,0
-France,Movement restrictions,International flights suspension,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Social distancing,Limit public gatherings,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Social distancing,Schools closure,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Social distancing,Closure of businesses and public services,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Public health measures,Health screenings in airports and border crossings,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Governance and socio-economic measures,Military deployment,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Lockdown,Partial lockdown,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Public health measures,Isolation and quarantine policies,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Movement restrictions,Border closure,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Public health measures,General recommendations,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Public health measures,Amendments to funeral and burial regulations,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Governance and socio-economic measures,State of emergency declared,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Public health measures,Strengthening the public health system,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Lockdown,Lockdown of refugee/idp camps or other minorities,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Governance and socio-economic measures,Economic measures,2020-03,67564251,88,52278,3526,0,52178,3524,0,0
-France,Movement restrictions,Surveillance and monitoring,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Movement restrictions,Domestic travel restrictions,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Public health measures,Amendments to funeral and burial regulations,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Public health measures,Psychological assistance and medical social work,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Lockdown,Partial lockdown,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Movement restrictions,Border closure,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Public health measures,Other public health measures enforced,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Public health measures,Isolation and quarantine policies,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Governance and socio-economic measures,Limit product imports/exports,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Public health measures,Strengthening the public health system,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Movement restrictions,Visa restrictions,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Governance and socio-economic measures,Economic measures,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Social distancing,Limit public gatherings,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Public health measures,Awareness campaigns,2020-04,67564251,88,169098,24349,0,116583,20823,0,0
-France,Governance and socio-economic measures,State of emergency declared,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Public health measures,Psychological assistance and medical social work,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Public health measures,General recommendations,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Public health measures,Requirement to wear protective gear in public,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Public health measures,Amendments to funeral and burial regulations,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Lockdown,Partial lockdown,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Movement restrictions,Surveillance and monitoring,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Public health measures,Isolation and quarantine policies,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Public health measures,Other public health measures enforced,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Public health measures,Strengthening the public health system,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Social distancing,Schools closure,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Public health measures,Awareness campaigns,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Movement restrictions,Border checks,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Movement restrictions,Border closure,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Social distancing,Closure of businesses and public services,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Governance and socio-economic measures,Economic measures,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Social distancing,Limit public gatherings,2020-05,67564251,88,190975,28805,0,22114,4456,0,0
-France,Public health measures,Requirement to wear protective gear in public,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Movement restrictions,Domestic travel restrictions,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Movement restrictions,Surveillance and monitoring,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Governance and socio-economic measures,Economic measures,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Movement restrictions,Border closure,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Movement restrictions,Visa restrictions,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Public health measures,Strengthening the public health system,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Public health measures,Isolation and quarantine policies,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Social distancing,Closure of businesses and public services,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Public health measures,Other public health measures enforced,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Social distancing,Schools closure,2020-06,67564251,75,204244,29846,0,13269,1041,0,0
-France,Movement restrictions,Border closure,2020-07,67564251,52,227239,30268,0,22995,422,0,0
-France,Movement restrictions,Visa restrictions,2020-07,67564251,52,227239,30268,0,22995,422,0,0
-France,Governance and socio-economic measures,State of emergency declared,2020-07,67564251,52,227239,30268,0,22995,422,0,0
-France,Social distancing,Closure of businesses and public services,2020-07,67564251,52,227239,30268,0,22995,422,0,0
-France,Governance and socio-economic measures,Economic measures,2020-07,67564251,52,227239,30268,0,22995,422,0,0
-France,Social distancing,Limit public gatherings,2020-07,67564251,52,227239,30268,0,22995,422,0,0
-France,Public health measures,Requirement to wear protective gear in public,2020-07,67564251,52,227239,30268,0,22995,422,0,0
-France,Public health measures,Requirement to wear protective gear in public,2020-08,67564251,48,321160,30646,0,93921,378,0,0
-France,Governance and socio-economic measures,Military deployment,2020-08,67564251,48,321160,30646,0,93921,378,0,0
-France,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08,67564251,48,321160,30646,0,93921,378,0,0
-France,Public health measures,Requirement to wear protective gear in public,2020-09,67564251,50,605893,31978,0,284733,1332,0,0
-France,Governance and socio-economic measures,Economic measures,2020-09,67564251,50,605893,31978,0,284733,1332,0,0
-France,Social distancing,Limit public gatherings,2020-09,67564251,50,605893,31978,0,284733,1332,0,0
-France,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-09,67564251,50,605893,31978,0,284733,1332,0,0
-France,Social distancing,Closure of businesses and public services,2020-09,67564251,50,605893,31978,0,284733,1332,0,0
-France,Social distancing,Closure of businesses and public services,2020-10,67564251,79,1414364,36827,0,808471,4849,0,0
-France,Social distancing,Limit public gatherings,2020-10,67564251,79,1414364,36827,0,808471,4849,0,0
-France,Public health measures,Isolation and quarantine policies,2020-10,67564251,79,1414364,36827,0,808471,4849,0,0
-France,Public health measures,General recommendations,2020-10,67564251,79,1414364,36827,0,808471,4849,0,0
-Germany,Public health measures,Awareness campaigns,2020-02,83783945,25,79,0,0,74,0,0,0
-Germany,Movement restrictions,Additional health/documents requirements upon arrival,2020-02,83783945,25,79,0,0,74,0,0,0
-Germany,Governance and socio-economic measures,Limit product imports/exports,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Movement restrictions,Border checks,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Social distancing,Schools closure,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Governance and socio-economic measures,State of emergency declared,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Social distancing,Changes in prison-related policies,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Public health measures,Other public health measures enforced,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Social distancing,Limit public gatherings,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Lockdown,Partial lockdown,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Movement restrictions,Border closure,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Social distancing,Closure of businesses and public services,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Public health measures,Isolation and quarantine policies,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Public health measures,General recommendations,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Public health measures,Strengthening the public health system,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Governance and socio-economic measures,Economic measures,2020-03,83783945,77,71808,775,881424,71729,775,0,0
-Germany,Movement restrictions,Additional health/documents requirements upon arrival,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Movement restrictions,Surveillance and monitoring,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Movement restrictions,Visa restrictions,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Public health measures,Isolation and quarantine policies,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Lockdown,Partial lockdown,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Social distancing,Schools closure,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Social distancing,Limit public gatherings,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Movement restrictions,Border checks,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Governance and socio-economic measures,Military deployment,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Movement restrictions,Border closure,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Public health measures,Other public health measures enforced,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Public health measures,Awareness campaigns,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Public health measures,General recommendations,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Public health measures,Testing policy,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Public health measures,Requirement to wear protective gear in public,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Public health measures,Strengthening the public health system,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Governance and socio-economic measures,Economic measures,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Social distancing,Closure of businesses and public services,2020-04,83783945,77,163009,6623,2388953,91201,5848,0,0
-Germany,Public health measures,Amendments to funeral and burial regulations,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Public health measures,Isolation and quarantine policies,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Movement restrictions,Border checks,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Movement restrictions,Border closure,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Social distancing,Schools closure,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Public health measures,Strengthening the public health system,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Governance and socio-economic measures,Economic measures,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Public health measures,Other public health measures enforced,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Public health measures,Testing policy,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Social distancing,Closure of businesses and public services,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Social distancing,Limit public gatherings,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Public health measures,Awareness campaigns,2020-05,83783945,77,183410,8540,4298639,20401,1917,0,0
-Germany,Social distancing,Closure of businesses and public services,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Public health measures,General recommendations,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Public health measures,Isolation and quarantine policies,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Movement restrictions,Border closure,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Movement restrictions,Surveillance and monitoring,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Public health measures,Awareness campaigns,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Public health measures,Strengthening the public health system,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Movement restrictions,Border checks,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Movement restrictions,Visa restrictions,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Lockdown,Partial lockdown,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Governance and socio-economic measures,Economic measures,2020-06,83783945,63,195418,8990,5826604,12008,450,0,0
-Germany,Movement restrictions,Visa restrictions,2020-07,83783945,63,210399,9147,7953998,14981,157,0,0
-Germany,Lockdown,Partial lockdown,2020-07,83783945,63,210399,9147,7953998,14981,157,0,0
-Germany,Public health measures,Testing policy,2020-07,83783945,63,210399,9147,7953998,14981,157,0,0
-Germany,Public health measures,Other public health measures enforced,2020-07,83783945,63,210399,9147,7953998,14981,157,0,0
-Germany,Public health measures,Requirement to wear protective gear in public,2020-07,83783945,63,210399,9147,7953998,14981,157,0,0
-Germany,Social distancing,Closure of businesses and public services,2020-07,83783945,63,210399,9147,7953998,14981,157,0,0
-Germany,Public health measures,General recommendations,2020-07,83783945,63,210399,9147,7953998,14981,157,0,0
-Germany,Governance and socio-economic measures,Economic measures,2020-07,83783945,63,210399,9147,7953998,14981,157,0,0
-Germany,Public health measures,Isolation and quarantine policies,2020-07,83783945,63,210399,9147,7953998,14981,157,0,0
-Germany,Public health measures,Health screenings in airports and border crossings,2020-08,83783945,60,244802,9303,12301938,34403,156,0,0
-Germany,Movement restrictions,Border closure,2020-08,83783945,60,244802,9303,12301938,34403,156,0,0
-Germany,Public health measures,Other public health measures enforced,2020-08,83783945,60,244802,9303,12301938,34403,156,0,0
-Germany,Public health measures,Isolation and quarantine policies,2020-08,83783945,60,244802,9303,12301938,34403,156,0,0
-Germany,Public health measures,Testing policy,2020-08,83783945,60,244802,9303,12301938,34403,156,0,0
-Germany,Public health measures,General recommendations,2020-08,83783945,60,244802,9303,12301938,34403,156,0,0
-Germany,Public health measures,Requirement to wear protective gear in public,2020-08,83783945,60,244802,9303,12301938,34403,156,0,0
-Germany,Social distancing,Limit public gatherings,2020-08,83783945,60,244802,9303,12301938,34403,156,0,0
-Germany,Governance and socio-economic measures,Economic measures,2020-08,83783945,60,244802,9303,12301938,34403,156,0,0
-Germany,Public health measures,Strengthening the public health system,2020-09,83783945,60,292913,9495,16871503,48111,192,0,0
-Germany,Public health measures,Health screenings in airports and border crossings,2020-09,83783945,60,292913,9495,16871503,48111,192,0,0
-Germany,Public health measures,Isolation and quarantine policies,2020-09,83783945,60,292913,9495,16871503,48111,192,0,0
-Germany,Social distancing,Limit public gatherings,2020-09,83783945,60,292913,9495,16871503,48111,192,0,0
-Germany,Governance and socio-economic measures,Economic measures,2020-09,83783945,60,292913,9495,16871503,48111,192,0,0
-Germany,Public health measures,Testing policy,2020-09,83783945,60,292913,9495,16871503,48111,192,0,0
-Germany,Public health measures,General recommendations,2020-09,83783945,60,292913,9495,16871503,48111,192,0,0
-Germany,Public health measures,Health screenings in airports and border crossings,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Movement restrictions,Border closure,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Public health measures,Requirement to wear protective gear in public,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Social distancing,Limit public gatherings,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Movement restrictions,Curfews,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Public health measures,Other public health measures enforced,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Movement restrictions,Surveillance and monitoring,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Governance and socio-economic measures,Economic measures,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Public health measures,General recommendations,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Public health measures,Testing policy,2020-10,83783945,61,531790,10483,21949430,238877,988,0,0
-Germany,Public health measures,General recommendations,2020-11,83783945,68,1069912,16694,29496867,538122,6211,0,0
-India,Social distancing,Limit public gatherings,2020-01,1380004385,10,1,0,0,1,0,0,0
-India,Lockdown,Partial lockdown,2020-01,1380004385,10,1,0,0,1,0,0,0
-India,Social distancing,Schools closure,2020-01,1380004385,10,1,0,0,1,0,0,0
-India,Public health measures,Requirement to wear protective gear in public,2020-01,1380004385,10,1,0,0,1,0,0,0
-India,Movement restrictions,Curfews,2020-01,1380004385,10,1,0,0,1,0,0,0
-India,Public health measures,Strengthening the public health system,2020-01,1380004385,10,1,0,0,1,0,0,0
-India,Public health measures,Health screenings in airports and border crossings,2020-01,1380004385,10,1,0,0,1,0,0,0
-India,Movement restrictions,Visa restrictions,2020-02,1380004385,10,3,0,0,2,0,0,0
-India,Public health measures,Isolation and quarantine policies,2020-02,1380004385,10,3,0,0,2,0,0,0
-India,Social distancing,Limit public gatherings,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Movement restrictions,Additional health/documents requirements upon arrival,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Public health measures,General recommendations,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Movement restrictions,Border checks,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Public health measures,Health screenings in airports and border crossings,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Movement restrictions,Border closure,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Lockdown,Partial lockdown,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Movement restrictions,Visa restrictions,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Public health measures,Isolation and quarantine policies,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Public health measures,Testing policy,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Movement restrictions,International flights suspension,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Lockdown,Full lockdown,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Governance and socio-economic measures,Economic measures,2020-03,1380004385,100,1397,35,27688,1394,35,0,0
-India,Social distancing,Limit public gatherings,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Public health measures,Other public health measures enforced,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Governance and socio-economic measures,Military deployment,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Public health measures,General recommendations,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Movement restrictions,Surveillance and monitoring,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Lockdown,Partial lockdown,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Public health measures,Isolation and quarantine policies,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Public health measures,Strengthening the public health system,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Public health measures,Awareness campaigns,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Governance and socio-economic measures,Economic measures,2020-04,1380004385,100,34863,1154,830201,33466,1119,0,0
-India,Public health measures,Awareness campaigns,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Social distancing,Closure of businesses and public services,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Movement restrictions,Visa restrictions,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Public health measures,Other public health measures enforced,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Public health measures,General recommendations,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Lockdown,Partial lockdown,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Movement restrictions,Domestic travel restrictions,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Governance and socio-economic measures,Economic measures,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Movement restrictions,Surveillance and monitoring,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Public health measures,Strengthening the public health system,2020-05,1380004385,96,190609,5408,3737027,155746,4254,0,0
-India,Public health measures,Awareness campaigns,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Movement restrictions,Domestic travel restrictions,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Movement restrictions,Visa restrictions,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Public health measures,Testing policy,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Lockdown,Partial lockdown,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Movement restrictions,Surveillance and monitoring,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Public health measures,Isolation and quarantine policies,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Governance and socio-economic measures,Economic measures,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Public health measures,Other public health measures enforced,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Public health measures,Strengthening the public health system,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Public health measures,General recommendations,2020-06,1380004385,88,585481,17400,8608654,394872,11992,0,0
-India,Governance and socio-economic measures,Economic measures,2020-07,1380004385,88,1695988,36511,18832970,1110507,19111,0,0
-India,Governance and socio-economic measures,Limit product imports/exports,2020-07,1380004385,88,1695988,36511,18832970,1110507,19111,0,0
-India,Public health measures,Other public health measures enforced,2020-07,1380004385,88,1695988,36511,18832970,1110507,19111,0,0
-India,Public health measures,Awareness campaigns,2020-07,1380004385,88,1695988,36511,18832970,1110507,19111,0,0
-India,Public health measures,Psychological assistance and medical social work,2020-07,1380004385,88,1695988,36511,18832970,1110507,19111,0,0
-India,Public health measures,Strengthening the public health system,2020-07,1380004385,88,1695988,36511,18832970,1110507,19111,0,0
-India,Public health measures,Testing policy,2020-07,1380004385,88,1695988,36511,18832970,1110507,19111,0,0
-India,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07,1380004385,88,1695988,36511,18832970,1110507,19111,0,0
-India,Movement restrictions,Additional health/documents requirements upon arrival,2020-08,1380004385,86,3691166,65288,42307914,1995178,28777,0,0
-India,Public health measures,Other public health measures enforced,2020-08,1380004385,86,3691166,65288,42307914,1995178,28777,0,0
-India,Governance and socio-economic measures,Economic measures,2020-08,1380004385,86,3691166,65288,42307914,1995178,28777,0,0
-India,Public health measures,Awareness campaigns,2020-08,1380004385,86,3691166,65288,42307914,1995178,28777,0,0
-India,Public health measures,Mass population testing,2020-08,1380004385,86,3691166,65288,42307914,1995178,28777,0,0
-India,Public health measures,Strengthening the public health system,2020-08,1380004385,86,3691166,65288,42307914,1995178,28777,0,0
-India,Movement restrictions,Surveillance and monitoring,2020-09,1380004385,86,6312584,98678,74196729,2621418,33390,0,0
-India,Governance and socio-economic measures,Economic measures,2020-09,1380004385,86,6312584,98678,74196729,2621418,33390,0,0
-Indonesia,Public health measures,Requirement to wear protective gear in public,2020-08,273523621,62,174796,7417,1282618,66420,2286,0,0
-Indonesia,Movement restrictions,Visa restrictions,2020-08,273523621,62,174796,7417,1282618,66420,2286,0,0
-Indonesia,Movement restrictions,Additional health/documents requirements upon arrival,2020-08,273523621,62,174796,7417,1282618,66420,2286,0,0
-Indonesia,Public health measures,Strengthening the public health system,2020-08,273523621,62,174796,7417,1282618,66420,2286,0,0
-Indonesia,Public health measures,Other public health measures enforced,2020-08,273523621,62,174796,7417,1282618,66420,2286,0,0
-Indonesia,Public health measures,Awareness campaigns,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Public health measures,Health screenings in airports and border crossings,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Movement restrictions,International flights suspension,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Public health measures,Testing policy,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Movement restrictions,Surveillance and monitoring,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Movement restrictions,Visa restrictions,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Public health measures,General recommendations,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Movement restrictions,Additional health/documents requirements upon arrival,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Public health measures,Isolation and quarantine policies,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Public health measures,Strengthening the public health system,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Movement restrictions,Border closure,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Lockdown,Partial lockdown,2020-03,273523621,51,1528,136,6663,1528,136,0,0
-Indonesia,Public health measures,General recommendations,2020-04,273523621,80,10118,792,72351,8590,656,0,0
-Indonesia,Movement restrictions,Domestic travel restrictions,2020-04,273523621,80,10118,792,72351,8590,656,0,0
-Indonesia,Social distancing,Limit public gatherings,2020-04,273523621,80,10118,792,72351,8590,656,0,0
-Indonesia,Public health measures,Strengthening the public health system,2020-04,273523621,80,10118,792,72351,8590,656,0,0
-Indonesia,Movement restrictions,International flights suspension,2020-04,273523621,80,10118,792,72351,8590,656,0,0
-Indonesia,Social distancing,Limit public gatherings,2020-05,273523621,80,26473,1613,223624,16355,821,0,0
-Indonesia,Lockdown,Partial lockdown,2020-05,273523621,80,26473,1613,223624,16355,821,0,0
-Indonesia,Governance and socio-economic measures,Economic measures,2020-05,273523621,80,26473,1613,223624,16355,821,0,0
-Indonesia,Public health measures,General recommendations,2020-05,273523621,80,26473,1613,223624,16355,821,0,0
-Indonesia,Movement restrictions,Additional health/documents requirements upon arrival,2020-05,273523621,80,26473,1613,223624,16355,821,0,0
-Indonesia,Movement restrictions,Domestic travel restrictions,2020-05,273523621,80,26473,1613,223624,16355,821,0,0
-Indonesia,Public health measures,Strengthening the public health system,2020-05,273523621,80,26473,1613,223624,16355,821,0,0
-Indonesia,Public health measures,Awareness campaigns,2020-05,273523621,80,26473,1613,223624,16355,821,0,0
-Indonesia,Public health measures,Other public health measures enforced,2020-06,273523621,72,56385,2876,477318,29912,1263,0,0
-Indonesia,Public health measures,Strengthening the public health system,2020-06,273523621,72,56385,2876,477318,29912,1263,0,0
-Indonesia,Public health measures,Strengthening the public health system,2020-07,273523621,62,108376,5131,866539,51991,2255,0,0
-Indonesia,Governance and socio-economic measures,Economic measures,2020-07,273523621,62,108376,5131,866539,51991,2255,0,0
-Indonesia,Social distancing,Limit public gatherings,2020-07,273523621,62,108376,5131,866539,51991,2255,0,0
-Indonesia,Public health measures,Other public health measures enforced,2020-07,273523621,62,108376,5131,866539,51991,2255,0,0
-Indonesia,Movement restrictions,Domestic travel restrictions,2020-07,273523621,62,108376,5131,866539,51991,2255,0,0
-Indonesia,Movement restrictions,Visa restrictions,2020-07,273523621,62,108376,5131,866539,51991,2255,0,0
-Indonesia,Social distancing,Closure of businesses and public services,2020-09,273523621,73,287008,10740,1993694,112212,3323,0,0
-Indonesia,Social distancing,Schools closure,2020-09,273523621,73,287008,10740,1993694,112212,3323,0,0
-Indonesia,Social distancing,Limit public gatherings,2020-09,273523621,73,287008,10740,1993694,112212,3323,0,0
-Indonesia,Movement restrictions,Domestic travel restrictions,2020-09,273523621,73,287008,10740,1993694,112212,3323,0,0
-Indonesia,Public health measures,Isolation and quarantine policies,2020-09,273523621,73,287008,10740,1993694,112212,3323,0,0
-Indonesia,Public health measures,Strengthening the public health system,2020-09,273523621,73,287008,10740,1993694,112212,3323,0,0
-Indonesia,Public health measures,Other public health measures enforced,2020-09,273523621,73,287008,10740,1993694,112212,3323,0,0
-Italy,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-01,60461828,19,2,0,0,2,0,0,0
-Italy,Public health measures,Health screenings in airports and border crossings,2020-01,60461828,19,2,0,0,2,0,0,0
-Italy,Public health measures,Awareness campaigns,2020-01,60461828,19,2,0,0,2,0,0,0
-Italy,Governance and socio-economic measures,State of emergency declared,2020-01,60461828,19,2,0,0,2,0,0,0
-Italy,Movement restrictions,International flights suspension,2020-01,60461828,19,2,0,0,2,0,0,0
-Italy,Social distancing,Schools closure,2020-02,60461828,70,1128,29,18661,1126,29,0,0
-Italy,Public health measures,Isolation and quarantine policies,2020-02,60461828,70,1128,29,18661,1126,29,0,0
-Italy,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02,60461828,70,1128,29,18661,1126,29,0,0
-Italy,Social distancing,Closure of businesses and public services,2020-02,60461828,70,1128,29,18661,1126,29,0,0
-Italy,Public health measures,Mass population testing,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Movement restrictions,Border closure,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Movement restrictions,Additional health/documents requirements upon arrival,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Governance and socio-economic measures,Limit product imports/exports,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Movement restrictions,International flights suspension,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Lockdown,Partial lockdown,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Governance and socio-economic measures,Military deployment,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Social distancing,Closure of businesses and public services,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Movement restrictions,Checkpoints within the country,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Lockdown,Full lockdown,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Movement restrictions,Domestic travel restrictions,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Public health measures,Other public health measures enforced,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Social distancing,Changes in prison-related policies,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Public health measures,Psychological assistance and medical social work,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Public health measures,General recommendations,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Movement restrictions,Border checks,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Governance and socio-economic measures,Economic measures,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Public health measures,Strengthening the public health system,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Social distancing,Limit public gatherings,2020-03,60461828,92,105792,12428,506968,104664,12399,0,0
-Italy,Public health measures,Testing policy,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Public health measures,Health screenings in airports and border crossings,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Public health measures,General recommendations,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Movement restrictions,Surveillance and monitoring,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Lockdown,Full lockdown,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Social distancing,Closure of businesses and public services,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Social distancing,Schools closure,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Governance and socio-economic measures,Military deployment,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Movement restrictions,Border checks,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Movement restrictions,Domestic travel restrictions,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Governance and socio-economic measures,Economic measures,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Public health measures,Psychological assistance and medical social work,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Public health measures,Strengthening the public health system,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Social distancing,Limit public gatherings,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Movement restrictions,Checkpoints within the country,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Public health measures,Requirement to wear protective gear in public,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Public health measures,Awareness campaigns,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Public health measures,Other public health measures enforced,2020-04,60461828,94,205463,27967,1979217,99671,15539,0,0
-Italy,Lockdown,Partial lockdown,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Public health measures,Amendments to funeral and burial regulations,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Public health measures,Isolation and quarantine policies,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Public health measures,Requirement to wear protective gear in public,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Social distancing,Schools closure,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Movement restrictions,Checkpoints within the country,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Public health measures,Testing policy,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Movement restrictions,Surveillance and monitoring,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Public health measures,General recommendations,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Public health measures,Awareness campaigns,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Governance and socio-economic measures,Economic measures,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Lockdown,Full lockdown,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Movement restrictions,Domestic travel restrictions,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Social distancing,Closure of businesses and public services,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Public health measures,Other public health measures enforced,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Public health measures,Strengthening the public health system,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Governance and socio-economic measures,Military deployment,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Social distancing,Limit public gatherings,2020-05,60461828,94,232997,33415,3878739,27534,5448,0,0
-Italy,Movement restrictions,Surveillance and monitoring,2020-06,60461828,64,240578,34767,5390110,7581,1352,0,0
-Italy,Governance and socio-economic measures,Economic measures,2020-06,60461828,64,240578,34767,5390110,7581,1352,0,0
-Italy,Movement restrictions,Border closure,2020-06,60461828,64,240578,34767,5390110,7581,1352,0,0
-Italy,Movement restrictions,Domestic travel restrictions,2020-06,60461828,64,240578,34767,5390110,7581,1352,0,0
-Italy,Social distancing,Closure of businesses and public services,2020-06,60461828,64,240578,34767,5390110,7581,1352,0,0
-Italy,Social distancing,Limit public gatherings,2020-06,60461828,64,240578,34767,5390110,7581,1352,0,0
-Italy,Public health measures,Strengthening the public health system,2020-06,60461828,64,240578,34767,5390110,7581,1352,0,0
-Italy,Movement restrictions,Surveillance and monitoring,2020-07,60461828,58,247537,35141,6813113,6959,374,0,0
-Italy,Movement restrictions,Visa restrictions,2020-07,60461828,58,247537,35141,6813113,6959,374,0,0
-Italy,Public health measures,Isolation and quarantine policies,2020-07,60461828,58,247537,35141,6813113,6959,374,0,0
-Italy,Public health measures,Other public health measures enforced,2020-08,60461828,55,269214,35483,8644859,21677,342,0,0
-Italy,Public health measures,Testing policy,2020-08,60461828,55,269214,35483,8644859,21677,342,0,0
-Italy,Movement restrictions,Border closure,2020-08,60461828,55,269214,35483,8644859,21677,342,0,0
-Italy,Social distancing,Closure of businesses and public services,2020-08,60461828,55,269214,35483,8644859,21677,342,0,0
-Italy,Public health measures,Requirement to wear protective gear in public,2020-08,60461828,55,269214,35483,8644859,21677,342,0,0
-Italy,Social distancing,Limit public gatherings,2020-09,60461828,55,314861,35894,11333922,45647,411,0,0
-Italy,Movement restrictions,Additional health/documents requirements upon arrival,2020-09,60461828,55,314861,35894,11333922,45647,411,0,0
-Italy,Movement restrictions,Border closure,2020-09,60461828,55,314861,35894,11333922,45647,411,0,0
-Italy,Social distancing,Closure of businesses and public services,2020-09,60461828,55,314861,35894,11333922,45647,411,0,0
-Italy,Public health measures,Requirement to wear protective gear in public,2020-09,60461828,55,314861,35894,11333922,45647,411,0,0
-Italy,Governance and socio-economic measures,State of emergency declared,2020-10,60461828,74,679430,38618,15784461,364569,2724,0,0
-Italy,Public health measures,Testing policy,2020-10,60461828,74,679430,38618,15784461,364569,2724,0,0
-Japan,Public health measures,Strengthening the public health system,2020-01,126476458,3,15,0,0,13,0,0,0
-Japan,Movement restrictions,International flights suspension,2020-02,126476458,34,245,6,1560,230,6,0,0
-Japan,Public health measures,Isolation and quarantine policies,2020-02,126476458,34,245,6,1560,230,6,0,0
-Japan,Public health measures,Psychological assistance and medical social work,2020-02,126476458,34,245,6,1560,230,6,0,0
-Japan,Public health measures,Strengthening the public health system,2020-02,126476458,34,245,6,1560,230,6,0,0
-Japan,Public health measures,Awareness campaigns,2020-02,126476458,34,245,6,1560,230,6,0,0
-Japan,Movement restrictions,Surveillance and monitoring,2020-02,126476458,34,245,6,1560,230,6,0,0
-Japan,Public health measures,General recommendations,2020-02,126476458,34,245,6,1560,230,6,0,0
-Japan,Social distancing,Limit public gatherings,2020-02,126476458,34,245,6,1560,230,6,0,0
-Japan,Public health measures,Strengthening the public health system,2020-03,126476458,44,2255,67,31874,2010,61,0,0
-Japan,Public health measures,Health screenings in airports and border crossings,2020-03,126476458,44,2255,67,31874,2010,61,0,0
-Japan,Governance and socio-economic measures,Economic measures,2020-03,126476458,44,2255,67,31874,2010,61,0,0
-Japan,Social distancing,Schools closure,2020-03,126476458,44,2255,67,31874,2010,61,0,0
-Japan,Social distancing,Limit public gatherings,2020-03,126476458,44,2255,67,31874,2010,61,0,0
-Japan,Public health measures,General recommendations,2020-03,126476458,44,2255,67,31874,2010,61,0,0
-Japan,Movement restrictions,International flights suspension,2020-03,126476458,44,2255,67,31874,2010,61,0,0
-Japan,Public health measures,Isolation and quarantine policies,2020-03,126476458,44,2255,67,31874,2010,61,0,0
-Japan,Movement restrictions,Visa restrictions,2020-03,126476458,44,2255,67,31874,2010,61,0,0
-Japan,Movement restrictions,Visa restrictions,2020-04,126476458,47,14284,481,146207,12029,414,0,0
-Japan,Public health measures,Isolation and quarantine policies,2020-04,126476458,47,14284,481,146207,12029,414,0,0
-Japan,Governance and socio-economic measures,State of emergency declared,2020-04,126476458,47,14284,481,146207,12029,414,0,0
-Japan,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,126476458,47,14284,481,146207,12029,414,0,0
-Japan,Movement restrictions,International flights suspension,2020-04,126476458,47,14284,481,146207,12029,414,0,0
-Japan,Public health measures,Other public health measures enforced,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Governance and socio-economic measures,Economic measures,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Social distancing,Schools closure,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Public health measures,Requirement to wear protective gear in public,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Social distancing,Limit public gatherings,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Movement restrictions,Additional health/documents requirements upon arrival,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Public health measures,Testing policy,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Governance and socio-economic measures,State of emergency declared,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Lockdown,Partial lockdown,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Public health measures,General recommendations,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Social distancing,Closure of businesses and public services,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Movement restrictions,Domestic travel restrictions,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Movement restrictions,Visa restrictions,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Movement restrictions,Surveillance and monitoring,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Public health measures,Isolation and quarantine policies,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Movement restrictions,Border closure,2020-05,126476458,47,16751,898,269224,2467,417,0,0
-Japan,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06,126476458,29,18615,972,390219,1864,74,0,0
-Japan,Movement restrictions,Visa restrictions,2020-06,126476458,29,18615,972,390219,1864,74,0,0
-Japan,Public health measures,Isolation and quarantine policies,2020-06,126476458,29,18615,972,390219,1864,74,0,0
-Japan,Public health measures,Awareness campaigns,2020-06,126476458,29,18615,972,390219,1864,74,0,0
-Japan,Public health measures,Strengthening the public health system,2020-06,126476458,29,18615,972,390219,1864,74,0,0
-Japan,Movement restrictions,Surveillance and monitoring,2020-06,126476458,29,18615,972,390219,1864,74,0,0
-Japan,Movement restrictions,Border closure,2020-06,126476458,29,18615,972,390219,1864,74,0,0
-Japan,Governance and socio-economic measures,Economic measures,2020-06,126476458,29,18615,972,390219,1864,74,0,0
-Japan,Movement restrictions,Additional health/documents requirements upon arrival,2020-07,126476458,34,36234,1008,704381,17619,36,0,0
-Japan,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07,126476458,34,36234,1008,704381,17619,36,0,0
-Japan,Public health measures,Health screenings in airports and border crossings,2020-07,126476458,34,36234,1008,704381,17619,36,0,0
-Japan,Public health measures,Strengthening the public health system,2020-07,126476458,34,36234,1008,704381,17619,36,0,0
-Japan,Movement restrictions,International flights suspension,2020-07,126476458,34,36234,1008,704381,17619,36,0,0
-Japan,Movement restrictions,Visa restrictions,2020-07,126476458,34,36234,1008,704381,17619,36,0,0
-Japan,Public health measures,Health screenings in airports and border crossings,2020-08,126476458,34,68396,1298,1321983,32162,290,0,0
-Japan,Movement restrictions,Visa restrictions,2020-08,126476458,34,68396,1298,1321983,32162,290,0,0
-Japan,Movement restrictions,Additional health/documents requirements upon arrival,2020-09,126476458,35,83591,1575,1889433,15195,277,0,0
-Japan,Social distancing,Limit public gatherings,2020-09,126476458,35,83591,1575,1889433,15195,277,0,0
-Japan,Movement restrictions,Border closure,2020-09,126476458,35,83591,1575,1889433,15195,277,0,0
-Japan,Movement restrictions,Visa restrictions,2020-09,126476458,35,83591,1575,1889433,15195,277,0,0
-Japan,Movement restrictions,Border closure,2020-10,126476458,35,101327,1769,2439158,17736,194,0,0
-Japan,Public health measures,Testing policy,2020-10,126476458,35,101327,1769,2439158,17736,194,0,0
-Mexico,Movement restrictions,Border closure,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Public health measures,General recommendations,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Public health measures,Awareness campaigns,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Public health measures,Strengthening the public health system,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Movement restrictions,International flights suspension,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Governance and socio-economic measures,State of emergency declared,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Lockdown,Partial lockdown,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Social distancing,Closure of businesses and public services,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Social distancing,Schools closure,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Public health measures,Requirement to wear protective gear in public,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Social distancing,Limit public gatherings,2020-03,128932753,82,1215,29,30153,1211,29,0,0
-Mexico,Governance and socio-economic measures,Military deployment,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Social distancing,Schools closure,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Public health measures,Strengthening the public health system,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Movement restrictions,Curfews,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Movement restrictions,Border closure,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Public health measures,Health screenings in airports and border crossings,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Public health measures,Isolation and quarantine policies,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Public health measures,Awareness campaigns,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Public health measures,Requirement to wear protective gear in public,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Social distancing,Limit public gatherings,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Lockdown,Partial lockdown,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Movement restrictions,Domestic travel restrictions,2020-04,128932753,82,19224,1859,109616,18009,1830,0,0
-Mexico,Public health measures,Requirement to wear protective gear in public,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Movement restrictions,Checkpoints within the country,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Movement restrictions,Domestic travel restrictions,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Movement restrictions,Curfews,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Social distancing,Closure of businesses and public services,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Public health measures,Psychological assistance and medical social work,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Governance and socio-economic measures,Economic measures,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Public health measures,Other public health measures enforced,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Movement restrictions,Border closure,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Social distancing,Changes in prison-related policies,2020-05,128932753,82,90664,9930,304931,71440,8071,0,0
-Mexico,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Governance and socio-economic measures,Economic measures,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Movement restrictions,Domestic travel restrictions,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Social distancing,Limit public gatherings,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Public health measures,General recommendations,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Public health measures,Testing policy,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Movement restrictions,Surveillance and monitoring,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Public health measures,Strengthening the public health system,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Movement restrictions,Border closure,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Movement restrictions,Curfews,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Humanitarian exemption,Humanitarian exemptions,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Public health measures,Requirement to wear protective gear in public,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Social distancing,Closure of businesses and public services,2020-06,128932753,73,226089,27769,614630,135425,17839,0,0
-Mexico,Movement restrictions,Additional health/documents requirements upon arrival,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Public health measures,Isolation and quarantine policies,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Public health measures,Mass population testing,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Lockdown,Partial lockdown,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Public health measures,Awareness campaigns,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Movement restrictions,Border closure,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Social distancing,Limit public gatherings,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Movement restrictions,Surveillance and monitoring,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Movement restrictions,Curfews,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Social distancing,Closure of businesses and public services,2020-07,128932753,71,424637,46688,1022112,198548,18919,0,0
-Mexico,Public health measures,Strengthening the public health system,2020-08,128932753,75,599560,64414,1391957,174923,17726,0,0
-Mexico,Governance and socio-economic measures,Economic measures,2020-08,128932753,75,599560,64414,1391957,174923,17726,0,0
-Mexico,Public health measures,Requirement to wear protective gear in public,2020-08,128932753,75,599560,64414,1391957,174923,17726,0,0
-Mexico,Movement restrictions,Border closure,2020-08,128932753,75,599560,64414,1391957,174923,17726,0,0
-Mexico,Social distancing,Closure of businesses and public services,2020-08,128932753,75,599560,64414,1391957,174923,17726,0,0
-Mexico,Public health measures,Other public health measures enforced,2020-08,128932753,75,599560,64414,1391957,174923,17726,0,0
-Mexico,Public health measures,General recommendations,2020-09,128932753,75,743216,77646,1752814,143656,13232,0,0
-Mexico,Social distancing,Limit public gatherings,2020-09,128932753,75,743216,77646,1752814,143656,13232,0,0
-Mexico,Social distancing,Closure of businesses and public services,2020-09,128932753,75,743216,77646,1752814,143656,13232,0,0
-Mexico,Public health measures,Health screenings in airports and border crossings,2020-09,128932753,75,743216,77646,1752814,143656,13232,0,0
-Mexico,Movement restrictions,Border closure,2020-09,128932753,75,743216,77646,1752814,143656,13232,0,0
-Mexico,Social distancing,Closure of businesses and public services,2020-10,128932753,74,924962,91753,2166721,181746,14107,0,0
-Mexico,Movement restrictions,Border closure,2020-10,128932753,74,924962,91753,2166721,181746,14107,0,0
-Mexico,Movement restrictions,Border closure,2020-11,128932753,72,1113543,105940,2630338,188581,14187,0,0
-Mexico,Public health measures,Strengthening the public health system,2020-11,128932753,72,1113543,105940,2630338,188581,14187,0,0
-Mexico,Social distancing,Closure of businesses and public services,2020-12,128932753,72,1426094,125807,3457840,312551,19867,62854,0
-Mexico,Public health measures,Requirement to wear protective gear in public,2020-12,128932753,72,1426094,125807,3457840,312551,19867,62854,0
-Mexico,Public health measures,General recommendations,2020-12,128932753,72,1426094,125807,3457840,312551,19867,62854,0
-Russia,Public health measures,Health screenings in airports and border crossings,2020-01,145934460,8,2,0,0,2,0,0,0
-Russia,Social distancing,Limit public gatherings,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Movement restrictions,Border checks,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Public health measures,Strengthening the public health system,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Movement restrictions,Visa restrictions,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Movement restrictions,International flights suspension,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Social distancing,Closure of businesses and public services,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Lockdown,Partial lockdown,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Governance and socio-economic measures,Economic measures,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Movement restrictions,Border closure,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Public health measures,Isolation and quarantine policies,2020-03,145934460,87,2337,17,406500,2335,17,0,0
-Russia,Public health measures,Isolation and quarantine policies,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Social distancing,Closure of businesses and public services,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Governance and socio-economic measures,Military deployment,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Movement restrictions,Curfews,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Public health measures,Strengthening the public health system,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Social distancing,Limit public gatherings,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Movement restrictions,Domestic travel restrictions,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Public health measures,Other public health measures enforced,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Movement restrictions,Border checks,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Movement restrictions,Visa restrictions,2020-04,145934460,87,106498,1073,3723807,104161,1056,0,0
-Russia,Movement restrictions,Visa restrictions,2020-05,145934460,85,405843,4693,10923108,299345,3620,0,0
-Russia,Governance and socio-economic measures,Economic measures,2020-05,145934460,85,405843,4693,10923108,299345,3620,0,0
-Russia,Lockdown,Partial lockdown,2020-05,145934460,85,405843,4693,10923108,299345,3620,0,0
-Russia,Public health measures,Requirement to wear protective gear in public,2020-05,145934460,85,405843,4693,10923108,299345,3620,0,0
-Russia,Public health measures,Strengthening the public health system,2020-05,145934460,85,405843,4693,10923108,299345,3620,0,0
-Russia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,145934460,85,405843,4693,10923108,299345,3620,0,0
-Russia,Public health measures,Isolation and quarantine policies,2020-06,145934460,75,646929,9306,19852167,241086,4613,0,0
-Russia,Public health measures,Strengthening the public health system,2020-06,145934460,75,646929,9306,19852167,241086,4613,0,0
-Russia,Movement restrictions,Domestic travel restrictions,2020-06,145934460,75,646929,9306,19852167,241086,4613,0,0
-Russia,Social distancing,Closure of businesses and public services,2020-06,145934460,75,646929,9306,19852167,241086,4613,0,0
-Russia,Social distancing,Limit public gatherings,2020-06,145934460,75,646929,9306,19852167,241086,4613,0,0
-Russia,Movement restrictions,Visa restrictions,2020-06,145934460,75,646929,9306,19852167,241086,4613,0,0
-Russia,Movement restrictions,Border closure,2020-06,145934460,75,646929,9306,19852167,241086,4613,0,0
-Russia,Public health measures,Isolation and quarantine policies,2020-07,145934460,69,838461,13939,28478012,191532,4633,0,0
-Russia,Social distancing,Closure of businesses and public services,2020-07,145934460,69,838461,13939,28478012,191532,4633,0,0
-Russia,Public health measures,Testing policy,2020-07,145934460,69,838461,13939,28478012,191532,4633,0,0
-Russia,Governance and socio-economic measures,Economic measures,2020-07,145934460,69,838461,13939,28478012,191532,4633,0,0
-Russia,Movement restrictions,International flights suspension,2020-07,145934460,69,838461,13939,28478012,191532,4633,0,0
-Russia,Public health measures,Requirement to wear protective gear in public,2020-07,145934460,69,838461,13939,28478012,191532,4633,0,0
-Russia,Public health measures,General recommendations,2020-08,145934460,62,992402,17128,36901215,153941,3189,0,0
-Russia,Public health measures,Other public health measures enforced,2020-08,145934460,62,992402,17128,36901215,153941,3189,0,0
-Russia,Movement restrictions,Border closure,2020-08,145934460,62,992402,17128,36901215,153941,3189,0,0
-Russia,Movement restrictions,Domestic travel restrictions,2020-08,145934460,62,992402,17128,36901215,153941,3189,0,0
-Russia,Movement restrictions,International flights suspension,2020-08,145934460,62,992402,17128,36901215,153941,3189,0,0
-Russia,Public health measures,Strengthening the public health system,2020-08,145934460,62,992402,17128,36901215,153941,3189,0,0
-Russia,Movement restrictions,Visa restrictions,2020-08,145934460,62,992402,17128,36901215,153941,3189,0,0
-Russia,Public health measures,Mass population testing,2020-08,145934460,62,992402,17128,36901215,153941,3189,0,0
-Russia,Public health measures,Requirement to wear protective gear in public,2020-09,145934460,41,1170799,20630,46421834,178397,3502,0,0
-Russia,Social distancing,Schools closure,2020-09,145934460,41,1170799,20630,46421834,178397,3502,0,0
-Russia,Public health measures,Isolation and quarantine policies,2020-09,145934460,41,1170799,20630,46421834,178397,3502,0,0
-Russia,Public health measures,Strengthening the public health system,2020-09,145934460,41,1170799,20630,46421834,178397,3502,0,0
-Russia,Movement restrictions,Border closure,2020-09,145934460,41,1170799,20630,46421834,178397,3502,0,0
-Russia,Movement restrictions,International flights suspension,2020-09,145934460,41,1170799,20630,46421834,178397,3502,0,0
-Russia,Social distancing,Closure of businesses and public services,2020-09,145934460,41,1170799,20630,46421834,178397,3502,0,0
-Russia,Public health measures,General recommendations,2020-09,145934460,41,1170799,20630,46421834,178397,3502,0,0
-Russia,Public health measures,Other public health measures enforced,2020-09,145934460,41,1170799,20630,46421834,178397,3502,0,0
-Russia,Social distancing,Schools closure,2020-10,145934460,48,1606267,27787,61029746,435468,7157,0,0
-Russia,Movement restrictions,Domestic travel restrictions,2020-10,145934460,48,1606267,27787,61029746,435468,7157,0,0
-Russia,Movement restrictions,International flights suspension,2020-10,145934460,48,1606267,27787,61029746,435468,7157,0,0
-Russia,Public health measures,Strengthening the public health system,2020-10,145934460,48,1606267,27787,61029746,435468,7157,0,0
-Russia,Public health measures,Requirement to wear protective gear in public,2020-10,145934460,48,1606267,27787,61029746,435468,7157,0,0
-Russia,Social distancing,Closure of businesses and public services,2020-10,145934460,48,1606267,27787,61029746,435468,7157,0,0
-Russia,Public health measures,Other public health measures enforced,2020-10,145934460,48,1606267,27787,61029746,435468,7157,0,0
-Russia,Public health measures,General recommendations,2020-10,145934460,48,1606267,27787,61029746,435468,7157,0,0
-Russia,Public health measures,Other public health measures enforced,2020-11,145934460,48,2275936,39491,76755901,669669,11704,0,0
-Russia,Lockdown,Partial lockdown,2020-11,145934460,48,2275936,39491,76755901,669669,11704,0,0
-Russia,Public health measures,General recommendations,2020-11,145934460,48,2275936,39491,76755901,669669,11704,0,0
-Russia,Public health measures,Strengthening the public health system,2020-11,145934460,48,2275936,39491,76755901,669669,11704,0,0
-Russia,Social distancing,Schools closure,2020-11,145934460,48,2275936,39491,76755901,669669,11704,0,0
-Russia,Governance and socio-economic measures,Economic measures,2020-11,145934460,48,2275936,39491,76755901,669669,11704,0,0
-Russia,Movement restrictions,International flights suspension,2020-11,145934460,48,2275936,39491,76755901,669669,11704,0,0
-Russia,Social distancing,Closure of businesses and public services,2020-11,145934460,48,2275936,39491,76755901,669669,11704,0,0
-Russia,Social distancing,Limit public gatherings,2020-11,145934460,48,2275936,39491,76755901,669669,11704,0,0
-Russia,Social distancing,Limit public gatherings,2020-12,145934460,48,3127347,56271,91123132,851411,16780,80500,0
-Saudi Arabia,Movement restrictions,Additional health/documents requirements upon arrival,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Public health measures,Awareness campaigns,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Social distancing,Limit public gatherings,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Social distancing,Schools closure,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Movement restrictions,Border closure,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Social distancing,Closure of businesses and public services,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Movement restrictions,Curfews,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Lockdown,Partial lockdown,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Movement restrictions,Domestic travel restrictions,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Movement restrictions,Visa restrictions,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Movement restrictions,International flights suspension,2020-03,34813867,90,1563,10,116325,1563,10,0,0
-Saudi Arabia,Lockdown,Partial lockdown,2020-04,34813867,94,22753,162,368785,21190,152,0,0
-Saudi Arabia,Movement restrictions,Curfews,2020-04,34813867,94,22753,162,368785,21190,152,0,0
-Saudi Arabia,Movement restrictions,Domestic travel restrictions,2020-04,34813867,94,22753,162,368785,21190,152,0,0
-Saudi Arabia,Movement restrictions,Domestic travel restrictions,2020-05,34813867,92,85261,503,879921,62508,341,0,0
-Saudi Arabia,Lockdown,Partial lockdown,2020-05,34813867,92,85261,503,879921,62508,341,0,0
-Saudi Arabia,Movement restrictions,Curfews,2020-05,34813867,92,85261,503,879921,62508,341,0,0
-Saudi Arabia,Public health measures,Requirement to wear protective gear in public,2020-06,34813867,82,190823,1649,1715785,105562,1146,0,0
-Saudi Arabia,Social distancing,Closure of businesses and public services,2020-06,34813867,82,190823,1649,1715785,105562,1146,0,0
-Saudi Arabia,Movement restrictions,Domestic travel restrictions,2020-06,34813867,82,190823,1649,1715785,105562,1146,0,0
-Saudi Arabia,Public health measures,General recommendations,2020-06,34813867,82,190823,1649,1715785,105562,1146,0,0
-Saudi Arabia,Movement restrictions,Curfews,2020-06,34813867,82,190823,1649,1715785,105562,1146,0,0
-Saudi Arabia,Movement restrictions,Border closure,2020-06,34813867,82,190823,1649,1715785,105562,1146,0,0
-Saudi Arabia,Public health measures,Isolation and quarantine policies,2020-07,34813867,71,275905,2866,3474638,85082,1217,0,0
-Saudi Arabia,Public health measures,Requirement to wear protective gear in public,2020-07,34813867,71,275905,2866,3474638,85082,1217,0,0
-Saudi Arabia,Social distancing,Limit public gatherings,2020-07,34813867,71,275905,2866,3474638,85082,1217,0,0
-Saudi Arabia,Public health measures,Testing policy,2020-07,34813867,71,275905,2866,3474638,85082,1217,0,0
-Saudi Arabia,Movement restrictions,Border closure,2020-08,34813867,71,315772,3897,5337366,39867,1031,0,0
-Saudi Arabia,Public health measures,Awareness campaigns,2020-08,34813867,71,315772,3897,5337366,39867,1031,0,0
-Saudi Arabia,Social distancing,Schools closure,2020-08,34813867,71,315772,3897,5337366,39867,1031,0,0
-Saudi Arabia,Public health measures,Strengthening the public health system,2020-08,34813867,71,315772,3897,5337366,39867,1031,0,0
-Saudi Arabia,Public health measures,Other public health measures enforced,2020-08,34813867,71,315772,3897,5337366,39867,1031,0,0
-Saudi Arabia,Public health measures,General recommendations,2020-08,34813867,71,315772,3897,5337366,39867,1031,0,0
-Saudi Arabia,Public health measures,Strengthening the public health system,2020-09,34813867,60,334605,4768,6784194,18833,871,0,0
-Saudi Arabia,Public health measures,Awareness campaigns,2020-09,34813867,60,334605,4768,6784194,18833,871,0,0
-Saudi Arabia,Social distancing,Limit public gatherings,2020-10,34813867,57,347282,5402,8340700,12677,634,0,0
-Saudi Arabia,Public health measures,General recommendations,2020-10,34813867,57,347282,5402,8340700,12677,634,0,0
-Saudi Arabia,Public health measures,Strengthening the public health system,2020-10,34813867,57,347282,5402,8340700,12677,634,0,0
-Saudi Arabia,Public health measures,General recommendations,2020-11,34813867,54,357360,5896,9905480,10078,494,0,0
-Saudi Arabia,Public health measures,Awareness campaigns,2020-11,34813867,54,357360,5896,9905480,10078,494,0,0
-Saudi Arabia,Movement restrictions,Surveillance and monitoring,2020-11,34813867,54,357360,5896,9905480,10078,494,0,0
-Saudi Arabia,Public health measures,Testing policy,2020-12,34813867,56,362741,6223,11046767,5381,327,0,0
-Saudi Arabia,Movement restrictions,Additional health/documents requirements upon arrival,2020-12,34813867,56,362741,6223,11046767,5381,327,0,0
-Saudi Arabia,Movement restrictions,Visa restrictions,2020-12,34813867,56,362741,6223,11046767,5381,327,0,0
-South Africa,Governance and socio-economic measures,State of emergency declared,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Movement restrictions,Border closure,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Social distancing,Schools closure,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Public health measures,Testing policy,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Social distancing,Limit public gatherings,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Public health measures,Health screenings in airports and border crossings,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Governance and socio-economic measures,Military deployment,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Lockdown,Full lockdown,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Governance and socio-economic measures,Economic measures,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Public health measures,Isolation and quarantine policies,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Social distancing,Closure of businesses and public services,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Movement restrictions,International flights suspension,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Movement restrictions,Visa restrictions,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Public health measures,Mass population testing,2020-03,59308690,88,1353,5,41072,1353,5,0,0
-South Africa,Lockdown,Full lockdown,2020-04,59308690,88,5647,103,207530,4294,98,0,0
-South Africa,Public health measures,General recommendations,2020-04,59308690,88,5647,103,207530,4294,98,0,0
-South Africa,Social distancing,Limit public gatherings,2020-04,59308690,88,5647,103,207530,4294,98,0,0
-South Africa,Governance and socio-economic measures,Military deployment,2020-04,59308690,88,5647,103,207530,4294,98,0,0
-South Africa,Public health measures,Strengthening the public health system,2020-04,59308690,88,5647,103,207530,4294,98,0,0
-South Africa,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,59308690,88,5647,103,207530,4294,98,0,0
-South Africa,Governance and socio-economic measures,Economic measures,2020-04,59308690,88,5647,103,207530,4294,98,0,0
-South Africa,Lockdown,Full lockdown,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Movement restrictions,Border closure,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Public health measures,General recommendations,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Public health measures,Isolation and quarantine policies,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Movement restrictions,Curfews,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Movement restrictions,Domestic travel restrictions,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Social distancing,Changes in prison-related policies,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Public health measures,Other public health measures enforced,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Public health measures,Psychological assistance and medical social work,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Social distancing,Closure of businesses and public services,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Social distancing,Limit public gatherings,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Governance and socio-economic measures,Economic measures,2020-05,59308690,84,32683,683,725125,27036,580,0,0
-South Africa,Social distancing,Schools closure,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Public health measures,Other public health measures enforced,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Movement restrictions,Curfews,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Public health measures,General recommendations,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Movement restrictions,Border closure,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Lockdown,Partial lockdown,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Movement restrictions,Domestic travel restrictions,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Social distancing,Limit public gatherings,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Social distancing,Closure of businesses and public services,2020-06,59308690,81,151209,2657,1630008,118526,1974,0,0
-South Africa,Social distancing,Schools closure,2020-07,59308690,84,493183,8005,2959535,341974,5348,0,0
-Turkey,Public health measures,Health screenings in airports and border crossings,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Social distancing,Schools closure,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Social distancing,Limit public gatherings,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Movement restrictions,Border closure,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Lockdown,Partial lockdown,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Movement restrictions,Curfews,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Social distancing,Closure of businesses and public services,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Movement restrictions,International flights suspension,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Movement restrictions,Domestic travel restrictions,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Public health measures,Awareness campaigns,2020-03,84339067,76,13531,214,92403,13531,214,0,0
-Turkey,Movement restrictions,Visa restrictions,2020-04,84339067,78,120204,3174,1033617,106673,2960,0,0
-Turkey,Movement restrictions,Curfews,2020-04,84339067,78,120204,3174,1033617,106673,2960,0,0
-Turkey,Movement restrictions,Domestic travel restrictions,2020-04,84339067,78,120204,3174,1033617,106673,2960,0,0
-Turkey,Public health measures,Amendments to funeral and burial regulations,2020-04,84339067,78,120204,3174,1033617,106673,2960,0,0
-Turkey,Public health measures,Other public health measures enforced,2020-04,84339067,78,120204,3174,1033617,106673,2960,0,0
-Turkey,Social distancing,Limit public gatherings,2020-04,84339067,78,120204,3174,1033617,106673,2960,0,0
-Turkey,Movement restrictions,International flights suspension,2020-05,84339067,76,163942,4540,2039194,43738,1366,0,0
-Turkey,Lockdown,Full lockdown,2020-05,84339067,76,163942,4540,2039194,43738,1366,0,0
-Turkey,Social distancing,Closure of businesses and public services,2020-05,84339067,76,163942,4540,2039194,43738,1366,0,0
-Turkey,Movement restrictions,Curfews,2020-05,84339067,76,163942,4540,2039194,43738,1366,0,0
-Turkey,Social distancing,Limit public gatherings,2020-05,84339067,76,163942,4540,2039194,43738,1366,0,0
-Turkey,Movement restrictions,Domestic travel restrictions,2020-05,84339067,76,163942,4540,2039194,43738,1366,0,0
-Turkey,Lockdown,Partial lockdown,2020-05,84339067,76,163942,4540,2039194,43738,1366,0,0
-Turkey,Movement restrictions,Domestic travel restrictions,2020-06,84339067,64,199906,5131,3381650,35964,591,0,0
-Turkey,Movement restrictions,International flights suspension,2020-06,84339067,64,199906,5131,3381650,35964,591,0,0
-Turkey,Movement restrictions,Border closure,2020-06,84339067,64,199906,5131,3381650,35964,591,0,0
-Turkey,Social distancing,Schools closure,2020-06,84339067,64,199906,5131,3381650,35964,591,0,0
-Turkey,Movement restrictions,International flights suspension,2020-07,84339067,64,230873,5691,4800823,30967,560,0,0
-Turkey,Public health measures,Requirement to wear protective gear in public,2020-07,84339067,64,230873,5691,4800823,30967,560,0,0
-Turkey,Movement restrictions,International flights suspension,2020-08,84339067,48,270133,6370,7138492,39260,679,0,0
-Turkey,Movement restrictions,Surveillance and monitoring,2020-08,84339067,48,270133,6370,7138492,39260,679,0,0
-Turkey,Public health measures,Isolation and quarantine policies,2020-08,84339067,48,270133,6370,7138492,39260,679,0,0
-Turkey,Movement restrictions,Domestic travel restrictions,2020-08,84339067,48,270133,6370,7138492,39260,679,0,0
-Turkey,Social distancing,Limit public gatherings,2020-08,84339067,48,270133,6370,7138492,39260,679,0,0
-Turkey,Movement restrictions,Curfews,2020-08,84339067,48,270133,6370,7138492,39260,679,0,0
-Turkey,Public health measures,Requirement to wear protective gear in public,2020-08,84339067,48,270133,6370,7138492,39260,679,0,0
-Turkey,Public health measures,Health screenings in airports and border crossings,2020-08,84339067,48,270133,6370,7138492,39260,679,0,0
-Turkey,Movement restrictions,Border closure,2020-08,84339067,48,270133,6370,7138492,39260,679,0,0
-Turkey,Social distancing,Limit public gatherings,2020-09,84339067,74,318663,8195,10380261,48530,1825,0,0
-Turkey,Public health measures,Requirement to wear protective gear in public,2020-09,84339067,74,318663,8195,10380261,48530,1825,0,0
-Turkey,Public health measures,Other public health measures enforced,2020-09,84339067,74,318663,8195,10380261,48530,1825,0,0
-Turkey,Movement restrictions,Curfews,2020-09,84339067,74,318663,8195,10380261,48530,1825,0,0
-Turkey,Social distancing,Schools closure,2020-09,84339067,74,318663,8195,10380261,48530,1825,0,0
-Turkey,Movement restrictions,Surveillance and monitoring,2020-09,84339067,74,318663,8195,10380261,48530,1825,0,0
-Turkey,Social distancing,Schools closure,2020-10,84339067,72,375367,10252,14001814,56704,2057,0,0
-Turkey,Public health measures,Requirement to wear protective gear in public,2020-11,84339067,66,638847,13746,18592292,263480,3494,0,0
-Turkey,Public health measures,Other public health measures enforced,2020-11,84339067,66,638847,13746,18592292,263480,3494,0,0
-Turkey,Social distancing,Limit public gatherings,2020-11,84339067,66,638847,13746,18592292,263480,3494,0,0
-Turkey,Public health measures,Health screenings in airports and border crossings,2020-11,84339067,66,638847,13746,18592292,263480,3494,0,0
-Turkey,Social distancing,Closure of businesses and public services,2020-11,84339067,66,638847,13746,18592292,263480,3494,0,0
-Turkey,Social distancing,Schools closure,2020-11,84339067,66,638847,13746,18592292,263480,3494,0,0
-Turkey,Movement restrictions,Curfews,2020-11,84339067,66,638847,13746,18592292,263480,3494,0,0
-Turkey,Movement restrictions,Domestic travel restrictions,2020-11,84339067,66,638847,13746,18592292,263480,3494,0,0
-Turkey,Public health measures,Health screenings in airports and border crossings,2020-12,84339067,80,2208652,20881,24504567,746580,7135,0,0
-Turkey,Public health measures,Testing policy,2020-12,84339067,80,2208652,20881,24504567,746580,7135,0,0
-Turkey,Public health measures,Isolation and quarantine policies,2020-12,84339067,80,2208652,20881,24504567,746580,7135,0,0
-Turkey,Movement restrictions,Curfews,2020-12,84339067,80,2208652,20881,24504567,746580,7135,0,0
-Turkey,Movement restrictions,Domestic travel restrictions,2020-12,84339067,80,2208652,20881,24504567,746580,7135,0,0
-United Kingdom,Public health measures,Amendments to funeral and burial regulations,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Movement restrictions,Surveillance and monitoring,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Lockdown,Partial lockdown,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Public health measures,Testing policy,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Public health measures,Strengthening the public health system,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Public health measures,General recommendations,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Social distancing,Limit public gatherings,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Social distancing,Changes in prison-related policies,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Public health measures,Other public health measures enforced,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Social distancing,Schools closure,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Governance and socio-economic measures,Economic measures,2020-03,67886004,80,38815,2457,176912,38754,2457,0,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-04,67886004,80,178771,26754,721124,139956,24297,0,0
-United Kingdom,Movement restrictions,Surveillance and monitoring,2020-04,67886004,80,178771,26754,721124,139956,24297,0,0
-United Kingdom,Lockdown,Partial lockdown,2020-04,67886004,80,178771,26754,721124,139956,24297,0,0
-United Kingdom,Public health measures,Other public health measures enforced,2020-04,67886004,80,178771,26754,721124,139956,24297,0,0
-United Kingdom,Public health measures,Awareness campaigns,2020-04,67886004,80,178771,26754,721124,139956,24297,0,0
-United Kingdom,Governance and socio-economic measures,Economic measures,2020-04,67886004,80,178771,26754,721124,139956,24297,0,0
-United Kingdom,Social distancing,Changes in prison-related policies,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Public health measures,Strengthening the public health system,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Public health measures,Other public health measures enforced,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Public health measures,Isolation and quarantine policies,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Movement restrictions,Surveillance and monitoring,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Public health measures,Testing policy,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Governance and socio-economic measures,Economic measures,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Social distancing,Limit public gatherings,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Public health measures,General recommendations,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-05,67886004,80,257539,37527,1701944,78768,10773,0,0
-United Kingdom,Public health measures,Awareness campaigns,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Public health measures,Psychological assistance and medical social work,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Public health measures,Isolation and quarantine policies,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Movement restrictions,Border checks,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Public health measures,Requirement to wear protective gear in public,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Social distancing,Limit public gatherings,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Governance and socio-economic measures,Economic measures,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Public health measures,Other public health measures enforced,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Social distancing,Schools closure,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Public health measures,General recommendations,2020-06,67886004,73,285216,40479,2912810,27677,2952,0,0
-United Kingdom,Public health measures,Strengthening the public health system,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Public health measures,Other public health measures enforced,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Social distancing,Limit public gatherings,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Public health measures,Testing policy,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Public health measures,Requirement to wear protective gear in public,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Social distancing,Changes in prison-related policies,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Governance and socio-economic measures,Economic measures,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Movement restrictions,Surveillance and monitoring,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Public health measures,Isolation and quarantine policies,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Public health measures,General recommendations,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Movement restrictions,Domestic travel restrictions,2020-07,67886004,71,304793,41274,5857159,19577,795,0,0
-United Kingdom,Social distancing,Schools closure,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Governance and socio-economic measures,Economic measures,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Public health measures,Amendments to funeral and burial regulations,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Public health measures,General recommendations,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Movement restrictions,Domestic travel restrictions,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Public health measures,Strengthening the public health system,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Social distancing,Limit public gatherings,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Public health measures,Isolation and quarantine policies,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Public health measures,Requirement to wear protective gear in public,2020-08,67886004,70,338083,41589,10745022,33290,315,0,0
-United Kingdom,Public health measures,Awareness campaigns,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Movement restrictions,Domestic travel restrictions,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Public health measures,General recommendations,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Public health measures,Requirement to wear protective gear in public,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Movement restrictions,Surveillance and monitoring,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Public health measures,Strengthening the public health system,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Public health measures,Isolation and quarantine policies,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Social distancing,Limit public gatherings,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Governance and socio-economic measures,Economic measures,2020-09,67886004,68,455848,42233,17145556,117765,644,0,0
-United Kingdom,Public health measures,Other public health measures enforced,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Public health measures,Amendments to funeral and burial regulations,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Lockdown,Partial lockdown,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Social distancing,Schools closure,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Public health measures,Isolation and quarantine policies,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Public health measures,Requirement to wear protective gear in public,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Public health measures,Strengthening the public health system,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Movement restrictions,Domestic travel restrictions,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Governance and socio-economic measures,Economic measures,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Public health measures,General recommendations,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Social distancing,Limit public gatherings,2020-10,67886004,75,1014795,46645,25353954,558947,4412,0,0
-United Kingdom,Lockdown,Partial lockdown,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Movement restrictions,Visa restrictions,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Social distancing,Schools closure,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Public health measures,Testing policy,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Movement restrictions,Domestic travel restrictions,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Public health measures,Requirement to wear protective gear in public,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Public health measures,General recommendations,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Public health measures,Amendments to funeral and burial regulations,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Public health measures,Isolation and quarantine policies,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Public health measures,Other public health measures enforced,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Social distancing,Limit public gatherings,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Governance and socio-economic measures,Economic measures,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Public health measures,Mass population testing,2020-11,67886004,75,1633736,58545,34014197,618941,11900,0,0
-United Kingdom,Public health measures,Strengthening the public health system,2020-12,67886004,80,2496235,73622,45016625,862499,15077,1766824,0
-United Kingdom,Public health measures,Other public health measures enforced,2020-12,67886004,80,2496235,73622,45016625,862499,15077,1766824,0
-United Kingdom,Public health measures,General recommendations,2020-12,67886004,80,2496235,73622,45016625,862499,15077,1766824,0
-United Kingdom,Social distancing,Closure of businesses and public services,2020-12,67886004,80,2496235,73622,45016625,862499,15077,1766824,0
-United Kingdom,Public health measures,Testing policy,2020-12,67886004,80,2496235,73622,45016625,862499,15077,1766824,0
-United Kingdom,Social distancing,Limit public gatherings,2020-12,67886004,80,2496235,73622,45016625,862499,15077,1766824,0
-United States,Public health measures,Psychological assistance and medical social work,2020-01,331002647,0,8,0,0,7,0,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-01,331002647,0,8,0,0,7,0,0,0
-United States,Public health measures,Strengthening the public health system,2020-01,331002647,0,8,0,0,7,0,0,0
-United States,Governance and socio-economic measures,State of emergency declared,2020-01,331002647,0,8,0,0,7,0,0,0
-United States,Movement restrictions,Visa restrictions,2020-01,331002647,0,8,0,0,7,0,0,0
-United States,Public health measures,Awareness campaigns,2020-01,331002647,0,8,0,0,7,0,0,0
-United States,Movement restrictions,Surveillance and monitoring,2020-02,331002647,6,25,1,0,17,1,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02,331002647,6,25,1,0,17,1,0,0
-United States,Public health measures,Awareness campaigns,2020-02,331002647,6,25,1,0,17,1,0,0
-United States,Public health measures,Strengthening the public health system,2020-02,331002647,6,25,1,0,17,1,0,0
-United States,Social distancing,Schools closure,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Public health measures,Health screenings in airports and border crossings,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Movement restrictions,Visa restrictions,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Movement restrictions,Border closure,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Social distancing,Closure of businesses and public services,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Public health measures,Testing policy,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Governance and socio-economic measures,Military deployment,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Social distancing,Limit public gatherings,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Governance and socio-economic measures,State of emergency declared,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Public health measures,Awareness campaigns,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Public health measures,Isolation and quarantine policies,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Public health measures,General recommendations,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Governance and socio-economic measures,Economic measures,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Movement restrictions,Surveillance and monitoring,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Public health measures,Other public health measures enforced,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Public health measures,Strengthening the public health system,2020-03,331002647,73,192301,5362,1538778,192276,5361,0,0
-United States,Public health measures,Testing policy,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Movement restrictions,Border closure,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Public health measures,Other public health measures enforced,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Public health measures,Psychological assistance and medical social work,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Public health measures,General recommendations,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Governance and socio-economic measures,Limit product imports/exports,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Movement restrictions,Visa restrictions,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Movement restrictions,Surveillance and monitoring,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Governance and socio-economic measures,Economic measures,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Public health measures,Strengthening the public health system,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Public health measures,Awareness campaigns,2020-04,331002647,73,1081105,66184,7224190,888804,60822,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05,331002647,73,1798793,107729,19272422,717688,41545,0,0
-United States,Public health measures,Testing policy,2020-05,331002647,73,1798793,107729,19272422,717688,41545,0,0
-United States,Public health measures,General recommendations,2020-05,331002647,73,1798793,107729,19272422,717688,41545,0,0
-United States,Public health measures,Awareness campaigns,2020-05,331002647,73,1798793,107729,19272422,717688,41545,0,0
-United States,Public health measures,Strengthening the public health system,2020-05,331002647,73,1798793,107729,19272422,717688,41545,0,0
-United States,Governance and socio-economic measures,Economic measures,2020-05,331002647,73,1798793,107729,19272422,717688,41545,0,0
-United States,Movement restrictions,Border checks,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Public health measures,Other public health measures enforced,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Public health measures,Awareness campaigns,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Movement restrictions,Visa restrictions,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Governance and socio-economic measures,Economic measures,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Public health measures,Psychological assistance and medical social work,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Movement restrictions,Surveillance and monitoring,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Public health measures,Testing policy,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Public health measures,General recommendations,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Public health measures,Strengthening the public health system,2020-06,331002647,73,2642233,127466,37364568,843440,19737,0,0
-United States,Social distancing,Closure of businesses and public services,2020-07,331002647,69,4567464,153984,65454687,1925231,26518,0,0
-United States,Movement restrictions,Border closure,2020-07,331002647,69,4567464,153984,65454687,1925231,26518,0,0
-United States,Public health measures,Testing policy,2020-07,331002647,69,4567464,153984,65454687,1925231,26518,0,0
-United States,Public health measures,Isolation and quarantine policies,2020-07,331002647,69,4567464,153984,65454687,1925231,26518,0,0
-United States,Governance and socio-economic measures,Economic measures,2020-07,331002647,69,4567464,153984,65454687,1925231,26518,0,0
-United States,Governance and socio-economic measures,Military deployment,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Public health measures,Isolation and quarantine policies,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Movement restrictions,Surveillance and monitoring,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Movement restrictions,Border closure,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Public health measures,Psychological assistance and medical social work,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Public health measures,General recommendations,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Public health measures,Awareness campaigns,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Movement restrictions,Visa restrictions,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Public health measures,Strengthening the public health system,2020-08,331002647,67,6026946,183611,91516293,1459482,29627,0,0
-United States,Movement restrictions,Surveillance and monitoring,2020-09,331002647,67,7235498,207010,119046030,1208552,23399,0,0
-United States,Movement restrictions,Visa restrictions,2020-09,331002647,67,7235498,207010,119046030,1208552,23399,0,0
-United States,Public health measures,Psychological assistance and medical social work,2020-09,331002647,67,7235498,207010,119046030,1208552,23399,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-09,331002647,67,7235498,207010,119046030,1208552,23399,0,0
-United States,Public health measures,Strengthening the public health system,2020-09,331002647,67,7235498,207010,119046030,1208552,23399,0,0
-United States,Governance and socio-economic measures,Economic measures,2020-09,331002647,67,7235498,207010,119046030,1208552,23399,0,0
-United States,Movement restrictions,Border closure,2020-09,331002647,67,7235498,207010,119046030,1208552,23399,0,0
-United States,Public health measures,General recommendations,2020-09,331002647,67,7235498,207010,119046030,1208552,23399,0,0
-United States,Social distancing,Limit public gatherings,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Public health measures,Isolation and quarantine policies,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Public health measures,Mass population testing,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Movement restrictions,Border closure,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Movement restrictions,Visa restrictions,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Public health measures,General recommendations,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Public health measures,Awareness campaigns,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Public health measures,Strengthening the public health system,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Governance and socio-economic measures,Economic measures,2020-10,331002647,66,9165786,231511,155446091,1930288,24501,0,0
-United States,Social distancing,Closure of businesses and public services,2020-11,331002647,75,13670698,270810,203171650,4504912,39299,0,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-11,331002647,75,13670698,270810,203171650,4504912,39299,0,0
-United States,Public health measures,Other public health measures enforced,2020-11,331002647,75,13670698,270810,203171650,4504912,39299,0,0
-United States,Governance and socio-economic measures,Economic measures,2020-11,331002647,75,13670698,270810,203171650,4504912,39299,0,0
-United States,Public health measures,Awareness campaigns,2020-11,331002647,75,13670698,270810,203171650,4504912,39299,0,0
-United States,Public health measures,Strengthening the public health system,2020-11,331002647,75,13670698,270810,203171650,4504912,39299,0,0
-United States,Public health measures,General recommendations,2020-11,331002647,75,13670698,270810,203171650,4504912,39299,0,0
-United States,Governance and socio-economic measures,Economic measures,2020-12,331002647,75,20100244,351982,257659983,6429546,81172,9044666,0
-United States,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-12,331002647,75,20100244,351982,257659983,6429546,81172,9044666,0
-United States,Public health measures,Strengthening the public health system,2020-12,331002647,75,20100244,351982,257659983,6429546,81172,9044666,0
-United States,Public health measures,General recommendations,2020-12,331002647,75,20100244,351982,257659983,6429546,81172,9044666,0
+COUNTRY,month_year,Public health measures,Movement restrictions,Social distancing,Governance and socio-economic measures,Lockdown,Humanitarian exemption,population,stringency_index,total_cases,total_deaths,total_tests,new_cases,new_deaths,partially_vaccinated,fully_vaccinated
+Argentina,2020-02,1,0,0,0,0,0,45195777,11,0,0,517,0,0,0,0
+Argentina,2020-03,1,1,1,1,1,0,45195777,100,1054,27,7189,1054,27,0,0
+Argentina,2020-04,1,1,0,1,1,0,45195777,100,4428,218,70283,3374,191,0,0
+Argentina,2020-05,1,1,1,1,1,0,45195777,94,16851,539,202421,12423,321,0,0
+Argentina,2020-06,1,1,1,1,1,0,45195777,91,64530,1307,451600,47679,768,0,0
+Argentina,2020-07,1,1,1,1,1,0,45195777,93,191302,3543,897932,126772,2236,0,0
+Argentina,2020-08,1,1,1,1,1,1,45195777,91,417735,8660,1557159,226433,5117,0,0
+Argentina,2020-09,1,1,1,1,0,0,45195777,88,751001,16937,2341345,333266,8277,0,0
+Argentina,2020-10,1,1,0,0,0,0,45195777,88,1166924,31002,3145538,415923,14065,0,0
+Argentina,2020-11,1,0,1,0,0,0,45195777,82,1424533,38730,3747469,257609,7728,0,0
+Australia,2020-02,0,0,0,1,0,0,25499881,19,25,0,0,16,0,0,0
+Australia,2020-03,1,1,1,1,1,0,25499881,71,4559,18,211261,4534,18,0,0
+Australia,2020-04,1,1,1,1,0,0,25499881,73,6766,93,563641,2207,75,0,0
+Australia,2020-05,1,1,1,1,0,0,25499881,69,7202,103,1454568,436,10,0,0
+Australia,2020-06,1,1,1,1,0,0,25499881,62,7920,104,2455982,718,1,0,0
+Australia,2020-07,1,1,1,1,1,0,25499881,75,17280,201,4164454,9360,97,0,0
+Australia,2020-08,1,1,1,1,1,0,25499881,75,25819,657,6214453,8539,456,0,0
+Australia,2020-09,1,1,1,1,1,0,25499881,75,27096,888,7637403,1277,231,0,0
+Australia,2020-10,1,1,1,1,1,0,25499881,68,27595,907,8700911,499,19,0,0
+Australia,2020-11,1,1,1,1,1,0,25499881,55,27912,908,9996243,317,1,0,0
+Australia,2020-12,1,1,1,1,0,0,25499881,71,28425,909,11260636,513,1,0,0
+Australia,2021-01,0,0,0,1,0,0,25499881,71,28818,909,12951776,393,0,0,0
+Brazil,2020-03,1,1,1,1,0,0,212559409,75,5717,201,0,5715,201,0,0
+Brazil,2020-04,1,1,1,1,1,0,212559409,77,87187,6006,132467,81470,5805,0,0
+Brazil,2020-05,1,1,1,1,1,0,212559409,81,514849,29314,485000,427662,23308,0,0
+Brazil,2020-06,1,1,1,1,0,0,212559409,77,1402041,59594,1478671,887192,30280,0,0
+Brazil,2020-07,1,1,1,0,0,0,212559409,81,2662485,92475,2678927,1260444,32881,0,0
+Brazil,2020-08,1,1,1,0,0,0,212559409,74,3908272,121381,5183751,1245787,28906,0,0
+Brazil,2020-10,0,1,0,0,0,0,212559409,67,5535605,159884,0,724670,15932,0,0
+Brazil,2020-11,1,1,0,0,0,0,212559409,61,6335878,173120,0,800273,13236,0,0
+Brazil,2020-12,0,1,1,0,0,0,212559409,67,7675973,194949,0,1340095,21829,0,0
+Canada,2020-01,1,0,0,1,0,0,37742157,3,4,0,0,4,0,0,0
+Canada,2020-02,1,1,0,1,0,0,37742157,3,21,0,510,17,0,0,0
+Canada,2020-03,1,1,1,1,0,0,37742157,73,9246,152,178318,9225,152,0,0
+Canada,2020-04,1,0,1,1,0,0,37742157,75,56716,4179,692108,47470,4027,0,0
+Canada,2020-05,1,1,1,1,0,0,37742157,73,92488,7906,1655117,35772,3727,0,0
+Canada,2020-06,1,1,1,1,0,0,37742157,71,106029,8780,2894567,13541,874,0,0
+Canada,2020-07,0,1,1,1,0,0,37742157,69,118297,9025,4398108,12268,245,0,0
+Canada,2020-08,1,0,1,1,0,0,37742157,67,130849,9193,6146834,12552,168,0,0
+Canada,2020-09,1,1,0,1,0,0,37742157,67,162736,9391,8446021,31887,198,0,0
+Canada,2020-10,1,1,0,1,0,0,37742157,63,238191,10276,11329993,75455,885,0,0
+Canada,2020-11,1,1,0,1,0,0,37742157,71,382708,12239,14277692,144517,1963,0,0
+Canada,2020-12,1,1,0,1,0,0,37742157,71,587429,15762,17965095,204721,3523,632446,0
+China,2020-01,1,1,1,1,0,0,1439323774,70,9790,213,0,9242,196,0,0
+China,2020-02,1,0,0,0,0,0,1439323774,81,79261,2835,0,69471,2622,0,0
+China,2020-03,1,1,0,1,0,0,1439323774,82,81565,3305,0,2304,470,0,0
+China,2020-04,1,1,1,1,0,0,1439323774,74,82919,4633,0,1354,1328,0,0
+China,2020-05,1,1,1,1,1,0,1439323774,82,83062,4634,0,143,1,0,0
+China,2020-06,1,0,1,1,1,0,1439323774,82,83580,4634,90000000,518,0,0,0
+China,2020-07,1,1,1,1,0,0,1439323774,78,84383,4634,0,803,0,0,0
+China,2020-08,1,1,1,0,0,0,1439323774,78,85104,4634,160000000,721,0,0,0
+China,2020-09,1,0,0,0,0,0,1439323774,82,85458,4634,0,354,0,0,0
+France,2020-02,0,0,1,1,0,0,67564251,35,100,2,0,95,2,0,0
+France,2020-03,1,1,1,1,1,0,67564251,88,52278,3526,0,52178,3524,0,0
+France,2020-04,1,1,1,1,1,0,67564251,88,169098,24349,0,116583,20823,0,0
+France,2020-05,1,1,1,1,1,0,67564251,88,190975,28805,0,22114,4456,0,0
+France,2020-06,1,1,1,1,0,0,67564251,75,204244,29846,0,13269,1041,0,0
+France,2020-07,1,1,1,1,0,0,67564251,52,227239,30268,0,22995,422,0,0
+France,2020-08,1,0,0,1,0,0,67564251,48,321160,30646,0,93921,378,0,0
+France,2020-09,1,0,1,1,0,0,67564251,50,605893,31978,0,284733,1332,0,0
+France,2020-10,1,0,1,0,0,0,67564251,79,1414364,36827,0,808471,4849,0,0
+Germany,2020-02,1,1,0,0,0,0,83783945,25,79,0,0,74,0,0,0
+Germany,2020-03,1,1,1,1,1,0,83783945,77,71808,775,881424,71729,775,0,0
+Germany,2020-04,1,1,1,1,1,0,83783945,77,163009,6623,2388953,91201,5848,0,0
+Germany,2020-05,1,1,1,1,0,0,83783945,77,183410,8540,4298639,20401,1917,0,0
+Germany,2020-06,1,1,1,1,1,0,83783945,63,195418,8990,5826604,12008,450,0,0
+Germany,2020-07,1,1,1,1,1,0,83783945,63,210399,9147,7953998,14981,157,0,0
+Germany,2020-08,1,1,1,1,0,0,83783945,60,244802,9303,12301938,34403,156,0,0
+Germany,2020-09,1,0,1,1,0,0,83783945,60,292913,9495,16871503,48111,192,0,0
+Germany,2020-10,1,1,1,1,0,0,83783945,61,531790,10483,21949430,238877,988,0,0
+Germany,2020-11,1,0,0,0,0,0,83783945,68,1069912,16694,29496867,538122,6211,0,0
+India,2020-01,1,1,1,0,1,0,1380004385,10,1,0,0,1,0,0,0
+India,2020-02,1,1,0,0,0,0,1380004385,10,3,0,0,2,0,0,0
+India,2020-03,1,1,1,1,1,0,1380004385,100,1397,35,27688,1394,35,0,0
+India,2020-04,1,1,1,1,1,0,1380004385,100,34863,1154,830201,33466,1119,0,0
+India,2020-05,1,1,1,1,1,0,1380004385,96,190609,5408,3737027,155746,4254,0,0
+India,2020-06,1,1,0,1,1,0,1380004385,88,585481,17400,8608654,394872,11992,0,0
+India,2020-07,1,0,0,1,0,0,1380004385,88,1695988,36511,18832970,1110507,19111,0,0
+India,2020-08,1,1,0,1,0,0,1380004385,86,3691166,65288,42307914,1995178,28777,0,0
+India,2020-09,0,1,0,1,0,0,1380004385,86,6312584,98678,74196729,2621418,33390,0,0
+Indonesia,2020-08,1,1,0,0,0,0,273523621,62,174796,7417,1282618,66420,2286,0,0
+Indonesia,2020-03,1,1,0,0,1,0,273523621,51,1528,136,6663,1528,136,0,0
+Indonesia,2020-04,1,1,1,0,0,0,273523621,80,10118,792,72351,8590,656,0,0
+Indonesia,2020-05,1,1,1,1,1,0,273523621,80,26473,1613,223624,16355,821,0,0
+Indonesia,2020-06,1,0,0,0,0,0,273523621,72,56385,2876,477318,29912,1263,0,0
+Indonesia,2020-07,1,1,1,1,0,0,273523621,62,108376,5131,866539,51991,2255,0,0
+Indonesia,2020-09,1,1,1,0,0,0,273523621,73,287008,10740,1993694,112212,3323,0,0
+Italy,2020-01,1,1,0,1,0,0,60461828,19,2,0,0,2,0,0,0
+Italy,2020-02,1,0,1,1,0,0,60461828,70,1128,29,18661,1126,29,0,0
+Italy,2020-03,1,1,1,1,1,0,60461828,92,105792,12428,506968,104664,12399,0,0
+Italy,2020-04,1,1,1,1,1,0,60461828,94,205463,27967,1979217,99671,15539,0,0
+Italy,2020-05,1,1,1,1,1,0,60461828,94,232997,33415,3878739,27534,5448,0,0
+Italy,2020-06,1,1,1,1,0,0,60461828,64,240578,34767,5390110,7581,1352,0,0
+Italy,2020-07,1,1,0,0,0,0,60461828,58,247537,35141,6813113,6959,374,0,0
+Italy,2020-08,1,1,1,0,0,0,60461828,55,269214,35483,8644859,21677,342,0,0
+Italy,2020-09,1,1,1,0,0,0,60461828,55,314861,35894,11333922,45647,411,0,0
+Italy,2020-10,1,0,0,1,0,0,60461828,74,679430,38618,15784461,364569,2724,0,0
+Japan,2020-01,1,0,0,0,0,0,126476458,3,15,0,0,13,0,0,0
+Japan,2020-02,1,1,1,0,0,0,126476458,34,245,6,1560,230,6,0,0
+Japan,2020-03,1,1,1,1,0,0,126476458,44,2255,67,31874,2010,61,0,0
+Japan,2020-04,1,1,0,1,0,0,126476458,47,14284,481,146207,12029,414,0,0
+Japan,2020-05,1,1,1,1,1,0,126476458,47,16751,898,269224,2467,417,0,0
+Japan,2020-06,1,1,0,1,0,0,126476458,29,18615,972,390219,1864,74,0,0
+Japan,2020-07,1,1,0,1,0,0,126476458,34,36234,1008,704381,17619,36,0,0
+Japan,2020-08,1,1,0,0,0,0,126476458,34,68396,1298,1321983,32162,290,0,0
+Japan,2020-09,0,1,1,0,0,0,126476458,35,83591,1575,1889433,15195,277,0,0
+Japan,2020-10,1,1,0,0,0,0,126476458,35,101327,1769,2439158,17736,194,0,0
+Mexico,2020-03,1,1,1,1,1,0,128932753,82,1215,29,30153,1211,29,0,0
+Mexico,2020-04,1,1,1,1,1,0,128932753,82,19224,1859,109616,18009,1830,0,0
+Mexico,2020-05,1,1,1,1,0,0,128932753,82,90664,9930,304931,71440,8071,0,0
+Mexico,2020-06,1,1,1,1,0,1,128932753,73,226089,27769,614630,135425,17839,0,0
+Mexico,2020-07,1,1,1,0,1,0,128932753,71,424637,46688,1022112,198548,18919,0,0
+Mexico,2020-08,1,1,1,1,0,0,128932753,75,599560,64414,1391957,174923,17726,0,0
+Mexico,2020-09,1,1,1,0,0,0,128932753,75,743216,77646,1752814,143656,13232,0,0
+Mexico,2020-10,0,1,1,0,0,0,128932753,74,924962,91753,2166721,181746,14107,0,0
+Mexico,2020-11,1,1,0,0,0,0,128932753,72,1113543,105940,2630338,188581,14187,0,0
+Mexico,2020-12,1,0,1,0,0,0,128932753,72,1426094,125807,3457840,312551,19867,62854,0
+Russia,2020-01,1,0,0,0,0,0,145934460,8,2,0,0,2,0,0,0
+Russia,2020-03,1,1,1,1,1,0,145934460,87,2337,17,406500,2335,17,0,0
+Russia,2020-04,1,1,1,1,0,0,145934460,87,106498,1073,3723807,104161,1056,0,0
+Russia,2020-05,1,1,0,1,1,0,145934460,85,405843,4693,10923108,299345,3620,0,0
+Russia,2020-06,1,1,1,0,0,0,145934460,75,646929,9306,19852167,241086,4613,0,0
+Russia,2020-07,1,1,1,1,0,0,145934460,69,838461,13939,28478012,191532,4633,0,0
+Russia,2020-08,1,1,0,0,0,0,145934460,62,992402,17128,36901215,153941,3189,0,0
+Russia,2020-09,1,1,1,0,0,0,145934460,41,1170799,20630,46421834,178397,3502,0,0
+Russia,2020-10,1,1,1,0,0,0,145934460,48,1606267,27787,61029746,435468,7157,0,0
+Russia,2020-11,1,1,1,1,1,0,145934460,48,2275936,39491,76755901,669669,11704,0,0
+Russia,2020-12,0,0,1,0,0,0,145934460,48,3127347,56271,91123132,851411,16780,80500,0
+Saudi Arabia,2020-03,1,1,1,0,1,0,34813867,90,1563,10,116325,1563,10,0,0
+Saudi Arabia,2020-04,0,1,0,0,1,0,34813867,94,22753,162,368785,21190,152,0,0
+Saudi Arabia,2020-05,0,1,0,0,1,0,34813867,92,85261,503,879921,62508,341,0,0
+Saudi Arabia,2020-06,1,1,1,0,0,0,34813867,82,190823,1649,1715785,105562,1146,0,0
+Saudi Arabia,2020-07,1,0,1,0,0,0,34813867,71,275905,2866,3474638,85082,1217,0,0
+Saudi Arabia,2020-08,1,1,1,0,0,0,34813867,71,315772,3897,5337366,39867,1031,0,0
+Saudi Arabia,2020-09,1,0,0,0,0,0,34813867,60,334605,4768,6784194,18833,871,0,0
+Saudi Arabia,2020-10,1,0,1,0,0,0,34813867,57,347282,5402,8340700,12677,634,0,0
+Saudi Arabia,2020-11,1,1,0,0,0,0,34813867,54,357360,5896,9905480,10078,494,0,0
+Saudi Arabia,2020-12,1,1,0,0,0,0,34813867,56,362741,6223,11046767,5381,327,0,0
+South Africa,2020-03,1,1,1,1,1,0,59308690,88,1353,5,41072,1353,5,0,0
+South Africa,2020-04,1,0,1,1,1,0,59308690,88,5647,103,207530,4294,98,0,0
+South Africa,2020-05,1,1,1,1,1,0,59308690,84,32683,683,725125,27036,580,0,0
+South Africa,2020-06,1,1,1,1,1,0,59308690,81,151209,2657,1630008,118526,1974,0,0
+South Africa,2020-07,0,0,1,0,0,0,59308690,84,493183,8005,2959535,341974,5348,0,0
+Turkey,2020-03,1,1,1,0,1,0,84339067,76,13531,214,92403,13531,214,0,0
+Turkey,2020-04,1,1,1,0,0,0,84339067,78,120204,3174,1033617,106673,2960,0,0
+Turkey,2020-05,0,1,1,0,1,0,84339067,76,163942,4540,2039194,43738,1366,0,0
+Turkey,2020-06,0,1,1,0,0,0,84339067,64,199906,5131,3381650,35964,591,0,0
+Turkey,2020-07,1,1,0,0,0,0,84339067,64,230873,5691,4800823,30967,560,0,0
+Turkey,2020-08,1,1,1,0,0,0,84339067,48,270133,6370,7138492,39260,679,0,0
+Turkey,2020-09,1,1,1,0,0,0,84339067,74,318663,8195,10380261,48530,1825,0,0
+Turkey,2020-10,0,0,1,0,0,0,84339067,72,375367,10252,14001814,56704,2057,0,0
+Turkey,2020-11,1,1,1,0,0,0,84339067,66,638847,13746,18592292,263480,3494,0,0
+Turkey,2020-12,1,1,0,0,0,0,84339067,80,2208652,20881,24504567,746580,7135,0,0
+United Kingdom,2020-03,1,1,1,1,1,0,67886004,80,38815,2457,176912,38754,2457,0,0
+United Kingdom,2020-04,1,1,1,1,1,0,67886004,80,178771,26754,721124,139956,24297,0,0
+United Kingdom,2020-05,1,1,1,1,0,0,67886004,80,257539,37527,1701944,78768,10773,0,0
+United Kingdom,2020-06,1,1,1,1,0,0,67886004,73,285216,40479,2912810,27677,2952,0,0
+United Kingdom,2020-07,1,1,1,1,0,0,67886004,71,304793,41274,5857159,19577,795,0,0
+United Kingdom,2020-08,1,1,1,1,0,0,67886004,70,338083,41589,10745022,33290,315,0,0
+United Kingdom,2020-09,1,1,1,1,0,0,67886004,68,455848,42233,17145556,117765,644,0,0
+United Kingdom,2020-10,1,1,1,1,1,0,67886004,75,1014795,46645,25353954,558947,4412,0,0
+United Kingdom,2020-11,1,1,1,1,1,0,67886004,75,1633736,58545,34014197,618941,11900,0,0
+United Kingdom,2020-12,1,0,1,0,0,0,67886004,80,2496235,73622,45016625,862499,15077,1766824,0
+United States,2020-01,1,1,0,1,0,0,331002647,0,8,0,0,7,0,0,0
+United States,2020-02,1,1,0,1,0,0,331002647,6,25,1,0,17,1,0,0
+United States,2020-03,1,1,1,1,0,0,331002647,73,192301,5362,1538778,192276,5361,0,0
+United States,2020-04,1,1,0,1,0,0,331002647,73,1081105,66184,7224190,888804,60822,0,0
+United States,2020-05,1,0,0,1,0,0,331002647,73,1798793,107729,19272422,717688,41545,0,0
+United States,2020-06,1,1,0,1,0,0,331002647,73,2642233,127466,37364568,843440,19737,0,0
+United States,2020-07,1,1,1,1,0,0,331002647,69,4567464,153984,65454687,1925231,26518,0,0
+United States,2020-08,1,1,0,1,0,0,331002647,67,6026946,183611,91516293,1459482,29627,0,0
+United States,2020-09,1,1,0,1,0,0,331002647,67,7235498,207010,119046030,1208552,23399,0,0
+United States,2020-10,1,1,1,1,0,0,331002647,66,9165786,231511,155446091,1930288,24501,0,0
+United States,2020-11,1,0,1,1,0,0,331002647,75,13670698,270810,203171650,4504912,39299,0,0
+United States,2020-12,1,0,0,1,0,0,331002647,75,20100244,351982,257659983,6429546,81172,9044666,0
