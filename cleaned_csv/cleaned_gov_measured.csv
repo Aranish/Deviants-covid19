@@ -1,181 +1,1422 @@
-ISO,COUNTRY,REGION,DATE_IMPLEMENTED,Public health measures,Movement restrictions,Social distancing,Governance and socio-economic measures,Lockdown,Humanitarian exemption
-ARG,Argentina,South America,2020-02,1,0,0,0,0,0
-ARG,Argentina,South America,2020-03,1,1,1,1,1,0
-ARG,Argentina,South America,2020-04,1,1,0,1,1,0
-ARG,Argentina,South America,2020-05,1,1,1,1,1,0
-ARG,Argentina,South America,2020-06,1,1,1,1,1,0
-ARG,Argentina,South America,2020-07,1,1,1,1,1,0
-ARG,Argentina,South America,2020-08,1,1,1,1,1,1
-ARG,Argentina,South America,2020-09,1,1,1,1,0,0
-ARG,Argentina,South America,2020-10,1,1,0,0,0,0
-ARG,Argentina,South America,2020-11,1,0,1,0,0,0
-AUS,Australia,Oceania,2020-02,0,0,0,1,0,0
-AUS,Australia,Oceania,2020-03,1,1,1,1,1,0
-AUS,Australia,Oceania,2020-04,1,1,1,1,0,0
-AUS,Australia,Oceania,2020-05,1,1,1,1,0,0
-AUS,Australia,Oceania,2020-06,1,1,1,1,0,0
-AUS,Australia,Oceania,2020-07,1,1,1,1,1,0
-AUS,Australia,Oceania,2020-08,1,1,1,1,1,0
-AUS,Australia,Oceania,2020-09,1,1,1,1,1,0
-AUS,Australia,Oceania,2020-10,1,1,1,1,1,0
-AUS,Australia,Oceania,2020-11,1,1,1,1,1,0
-AUS,Australia,Oceania,2020-12,1,1,1,1,0,0
-AUS,Australia,Oceania,2021-01,0,0,0,1,0,0
-BRA,Brazil,South America,2020-03,1,1,1,1,0,0
-BRA,Brazil,South America,2020-04,1,1,1,1,1,0
-BRA,Brazil,South America,2020-05,1,1,1,1,1,0
-BRA,Brazil,South America,2020-06,1,1,1,1,0,0
-BRA,Brazil,South America,2020-07,1,1,1,0,0,0
-BRA,Brazil,South America,2020-08,1,1,1,0,0,0
-BRA,Brazil,South America,2020-10,0,1,0,0,0,0
-BRA,Brazil,South America,2020-11,1,1,0,0,0,0
-BRA,Brazil,South America,2020-12,0,1,1,0,0,0
-CAN,Canada,North America,2020-01,1,0,0,1,0,0
-CAN,Canada,North America,2020-02,1,1,0,1,0,0
-CAN,Canada,North America,2020-03,1,1,1,1,0,0
-CAN,Canada,North America,2020-04,1,0,1,1,0,0
-CAN,Canada,North America,2020-05,1,1,1,1,0,0
-CAN,Canada,North America,2020-06,1,1,1,1,0,0
-CAN,Canada,North America,2020-07,0,1,1,1,0,0
-CAN,Canada,North America,2020-08,1,0,1,1,0,0
-CAN,Canada,North America,2020-09,1,1,0,1,0,0
-CAN,Canada,North America,2020-10,1,1,0,1,0,0
-CAN,Canada,North America,2020-11,1,1,0,1,0,0
-CAN,Canada,North America,2020-12,1,1,0,1,0,0
-CHN,China,Asia,2020-01,1,1,1,1,0,0
-CHN,China,Asia,2020-02,1,0,0,0,0,0
-CHN,China,Asia,2020-03,1,1,0,1,0,0
-CHN,China,Asia,2020-04,1,1,1,1,0,0
-CHN,China,Asia,2020-05,1,1,1,1,1,0
-CHN,China,Asia,2020-06,1,0,1,1,1,0
-CHN,China,Asia,2020-07,1,1,1,1,0,0
-CHN,China,Asia,2020-08,1,1,1,0,0,0
-CHN,China,Asia,2020-09,1,0,0,0,0,0
-FRA,France,Europe,2020-02,0,0,1,1,0,0
-FRA,France,Europe,2020-03,1,1,1,1,1,0
-FRA,France,Europe,2020-04,1,1,1,1,1,0
-FRA,France,Europe,2020-05,1,1,1,1,1,0
-FRA,France,Europe,2020-06,1,1,1,1,0,0
-FRA,France,Europe,2020-07,1,1,1,1,0,0
-FRA,France,Europe,2020-08,1,0,0,1,0,0
-FRA,France,Europe,2020-09,1,0,1,1,0,0
-FRA,France,Europe,2020-10,1,0,1,0,0,0
-DEU,Germany,Europe,2020-02,1,1,0,0,0,0
-DEU,Germany,Europe,2020-03,1,1,1,1,1,0
-DEU,Germany,Europe,2020-04,1,1,1,1,1,0
-DEU,Germany,Europe,2020-05,1,1,1,1,0,0
-DEU,Germany,Europe,2020-06,1,1,1,1,1,0
-DEU,Germany,Europe,2020-07,1,1,1,1,1,0
-DEU,Germany,Europe,2020-08,1,1,1,1,0,0
-DEU,Germany,Europe,2020-09,1,0,1,1,0,0
-DEU,Germany,Europe,2020-10,1,1,1,1,0,0
-DEU,Germany,Europe,2020-11,1,0,0,0,0,0
-IND,India,Asia,2020-01,1,1,1,0,1,0
-IND,India,Asia,2020-02,1,1,0,0,0,0
-IND,India,Asia,2020-03,1,1,1,1,1,0
-IND,India,Asia,2020-04,1,1,1,1,1,0
-IND,India,Asia,2020-05,1,1,1,1,1,0
-IND,India,Asia,2020-06,1,1,0,1,1,0
-IND,India,Asia,2020-07,1,0,0,1,0,0
-IND,India,Asia,2020-08,1,1,0,1,0,0
-IND,India,Asia,2020-09,0,1,0,1,0,0
-IDN,Indonesia,Asia,2020-08,1,1,0,0,0,0
-IDN,Indonesia,Asia,2020-01,1,0,0,0,0,0
-IDN,Indonesia,Asia,2020-02,1,1,0,0,0,0
-IDN,Indonesia,Asia,2020-03,1,1,0,0,1,0
-IDN,Indonesia,Asia,2020-04,1,1,1,0,0,0
-IDN,Indonesia,Asia,2020-05,1,1,1,1,1,0
-IDN,Indonesia,Asia,2020-06,1,0,0,0,0,0
-IDN,Indonesia,Asia,2020-07,1,1,1,1,0,0
-IDN,Indonesia,Asia,2020-09,1,1,1,0,0,0
-ITA,Italy,Europe,2020-01,1,1,0,1,0,0
-ITA,Italy,Europe,2020-02,1,0,1,1,0,0
-ITA,Italy,Europe,2020-03,1,1,1,1,1,0
-ITA,Italy,Europe,2020-04,1,1,1,1,1,0
-ITA,Italy,Europe,2020-05,1,1,1,1,1,0
-ITA,Italy,Europe,2020-06,1,1,1,1,0,0
-ITA,Italy,Europe,2020-07,1,1,0,0,0,0
-ITA,Italy,Europe,2020-08,1,1,1,0,0,0
-ITA,Italy,Europe,2020-09,1,1,1,0,0,0
-ITA,Italy,Europe,2020-10,1,0,0,1,0,0
-JPN,Japan,Asia,2020-01,1,0,0,0,0,0
-JPN,Japan,Asia,2020-02,1,1,1,0,0,0
-JPN,Japan,Asia,2020-03,1,1,1,1,0,0
-JPN,Japan,Asia,2020-04,1,1,0,1,0,0
-JPN,Japan,Asia,2020-05,1,1,1,1,1,0
-JPN,Japan,Asia,2020-06,1,1,0,1,0,0
-JPN,Japan,Asia,2020-07,1,1,0,1,0,0
-JPN,Japan,Asia,2020-08,1,1,0,0,0,0
-JPN,Japan,Asia,2020-09,0,1,1,0,0,0
-JPN,Japan,Asia,2020-10,1,1,0,0,0,0
-MEX,Mexico,North America,2020-03,1,1,1,1,1,0
-MEX,Mexico,North America,2020-04,1,1,1,1,1,0
-MEX,Mexico,North America,2020-05,1,1,1,1,0,0
-MEX,Mexico,North America,2020-06,1,1,1,1,0,1
-MEX,Mexico,North America,2020-07,1,1,1,0,1,0
-MEX,Mexico,North America,2020-08,1,1,1,1,0,0
-MEX,Mexico,North America,2020-09,1,1,1,0,0,0
-MEX,Mexico,North America,2020-10,0,1,1,0,0,0
-MEX,Mexico,North America,2020-11,1,1,0,0,0,0
-MEX,Mexico,North America,2020-12,1,0,1,0,0,0
-RUS,Russia,Europe,2020-01,1,0,0,0,0,0
-RUS,Russia,Europe,2020-03,1,1,1,1,1,0
-RUS,Russia,Europe,2020-04,1,1,1,1,0,0
-RUS,Russia,Europe,2020-05,1,1,0,1,1,0
-RUS,Russia,Europe,2020-06,1,1,1,0,0,0
-RUS,Russia,Europe,2020-07,1,1,1,1,0,0
-RUS,Russia,Europe,2020-08,1,1,0,0,0,0
-RUS,Russia,Europe,2020-09,1,1,1,0,0,0
-RUS,Russia,Europe,2020-10,1,1,1,0,0,0
-RUS,Russia,Europe,2020-11,1,1,1,1,1,0
-RUS,Russia,Europe,2020-12,0,0,1,0,0,0
-SAU,Saudi Arabia,Asia,2020-02,0,0,1,0,0,0
-SAU,Saudi Arabia,Asia,2020-03,1,1,1,0,1,0
-SAU,Saudi Arabia,Asia,2020-04,0,1,0,0,1,0
-SAU,Saudi Arabia,Asia,2020-05,0,1,0,0,1,0
-SAU,Saudi Arabia,Asia,2020-06,1,1,1,0,0,0
-SAU,Saudi Arabia,Asia,2020-07,1,0,1,0,0,0
-SAU,Saudi Arabia,Asia,2020-08,1,1,1,0,0,0
-SAU,Saudi Arabia,Asia,2020-09,1,0,0,0,0,0
-SAU,Saudi Arabia,Asia,2020-10,1,0,1,0,0,0
-SAU,Saudi Arabia,Asia,2020-11,1,1,0,0,0,0
-SAU,Saudi Arabia,Asia,2020-12,1,1,0,0,0,0
-ZAF,South Africa,Africa,2020-03,1,1,1,1,1,0
-ZAF,South Africa,Africa,2020-04,1,0,1,1,1,0
-ZAF,South Africa,Africa,2020-05,1,1,1,1,1,0
-ZAF,South Africa,Africa,2020-06,1,1,1,1,1,0
-ZAF,South Africa,Africa,2020-07,0,0,1,0,0,0
-TUR,Turkey,Asia,2020-01,1,0,0,0,0,0
-TUR,Turkey,Asia,2020-02,1,1,0,0,0,0
-TUR,Turkey,Asia,2020-03,1,1,1,0,1,0
-TUR,Turkey,Asia,2020-04,1,1,1,0,0,0
-TUR,Turkey,Asia,2020-05,0,1,1,0,1,0
-TUR,Turkey,Asia,2020-06,0,1,1,0,0,0
-TUR,Turkey,Asia,2020-07,1,1,0,0,0,0
-TUR,Turkey,Asia,2020-08,1,1,1,0,0,0
-TUR,Turkey,Asia,2020-09,1,1,1,0,0,0
-TUR,Turkey,Asia,2020-10,0,0,1,0,0,0
-TUR,Turkey,Asia,2020-11,1,1,1,0,0,0
-TUR,Turkey,Asia,2020-12,1,1,0,0,0,0
-GBR,United Kingdom,Europe,2020-03,1,1,1,1,1,0
-GBR,United Kingdom,Europe,2020-04,1,1,1,1,1,0
-GBR,United Kingdom,Europe,2020-05,1,1,1,1,0,0
-GBR,United Kingdom,Europe,2020-06,1,1,1,1,0,0
-GBR,United Kingdom,Europe,2020-07,1,1,1,1,0,0
-GBR,United Kingdom,Europe,2020-08,1,1,1,1,0,0
-GBR,United Kingdom,Europe,2020-09,1,1,1,1,0,0
-GBR,United Kingdom,Europe,2020-10,1,1,1,1,1,0
-GBR,United Kingdom,Europe,2020-11,1,1,1,1,1,0
-GBR,United Kingdom,Europe,2020-12,1,0,1,0,0,0
-USA,United States,North America,2020-01,1,1,0,1,0,0
-USA,United States,North America,2020-02,1,1,0,1,0,0
-USA,United States,North America,2020-03,1,1,1,1,0,0
-USA,United States,North America,2020-04,1,1,0,1,0,0
-USA,United States,North America,2020-05,1,0,0,1,0,0
-USA,United States,North America,2020-06,1,1,0,1,0,0
-USA,United States,North America,2020-07,1,1,1,1,0,0
-USA,United States,North America,2020-08,1,1,0,1,0,0
-USA,United States,North America,2020-09,1,1,0,1,0,0
-USA,United States,North America,2020-10,1,1,1,1,0,0
-USA,United States,North America,2020-11,1,0,1,1,0,0
-USA,United States,North America,2020-12,1,0,0,1,0,0
+ISO,COUNTRY,REGION,MAIN_MEASURES,STEPS_TAKEN,DATE_IMPLEMENTED
+ARG,Argentina,South America,Public health measures,Awareness campaigns,2020-02
+ARG,Argentina,South America,Movement restrictions,Visa restrictions,2020-03
+ARG,Argentina,South America,Movement restrictions,International flights suspension,2020-03
+ARG,Argentina,South America,Public health measures,Isolation and quarantine policies,2020-03
+ARG,Argentina,South America,Social distancing,Limit public gatherings,2020-03
+ARG,Argentina,South America,Governance and socio-economic measures,Economic measures,2020-03
+ARG,Argentina,South America,Social distancing,Closure of businesses and public services,2020-03
+ARG,Argentina,South America,Social distancing,Schools closure,2020-03
+ARG,Argentina,South America,Public health measures,Strengthening the public health system,2020-03
+ARG,Argentina,South America,Movement restrictions,Domestic travel restrictions,2020-03
+ARG,Argentina,South America,Lockdown,Partial lockdown,2020-03
+ARG,Argentina,South America,Governance and socio-economic measures,State of emergency declared,2020-03
+ARG,Argentina,South America,Movement restrictions,Surveillance and monitoring,2020-03
+ARG,Argentina,South America,Movement restrictions,Border closure,2020-03
+ARG,Argentina,South America,Public health measures,Requirement to wear protective gear in public,2020-03
+ARG,Argentina,South America,Public health measures,General recommendations,2020-03
+ARG,Argentina,South America,Governance and socio-economic measures,Economic measures,2020-04
+ARG,Argentina,South America,Movement restrictions,Border closure,2020-04
+ARG,Argentina,South America,Public health measures,Isolation and quarantine policies,2020-04
+ARG,Argentina,South America,Lockdown,Partial lockdown,2020-04
+ARG,Argentina,South America,Public health measures,Requirement to wear protective gear in public,2020-04
+ARG,Argentina,South America,Public health measures,Testing policy,2020-04
+ARG,Argentina,South America,Movement restrictions,International flights suspension,2020-04
+ARG,Argentina,South America,Public health measures,Mass population testing,2020-05
+ARG,Argentina,South America,Governance and socio-economic measures,Economic measures,2020-05
+ARG,Argentina,South America,Public health measures,Isolation and quarantine policies,2020-05
+ARG,Argentina,South America,Lockdown,Partial lockdown,2020-05
+ARG,Argentina,South America,Social distancing,Closure of businesses and public services,2020-05
+ARG,Argentina,South America,Movement restrictions,Surveillance and monitoring,2020-05
+ARG,Argentina,South America,Governance and socio-economic measures,Economic measures,2020-06
+ARG,Argentina,South America,Lockdown,Partial lockdown,2020-06
+ARG,Argentina,South America,Public health measures,Isolation and quarantine policies,2020-06
+ARG,Argentina,South America,Social distancing,Closure of businesses and public services,2020-06
+ARG,Argentina,South America,Movement restrictions,Visa restrictions,2020-06
+ARG,Argentina,South America,Public health measures,Requirement to wear protective gear in public,2020-06
+ARG,Argentina,South America,Movement restrictions,International flights suspension,2020-06
+ARG,Argentina,South America,Social distancing,Limit public gatherings,2020-06
+ARG,Argentina,South America,Movement restrictions,Domestic travel restrictions,2020-06
+ARG,Argentina,South America,Social distancing,Schools closure,2020-06
+ARG,Argentina,South America,Movement restrictions,Visa restrictions,2020-07
+ARG,Argentina,South America,Movement restrictions,International flights suspension,2020-07
+ARG,Argentina,South America,Lockdown,Partial lockdown,2020-07
+ARG,Argentina,South America,Movement restrictions,Border closure,2020-07
+ARG,Argentina,South America,Public health measures,Other public health measures enforced,2020-07
+ARG,Argentina,South America,Public health measures,Isolation and quarantine policies,2020-07
+ARG,Argentina,South America,Social distancing,Limit public gatherings,2020-07
+ARG,Argentina,South America,Social distancing,Closure of businesses and public services,2020-07
+ARG,Argentina,South America,Social distancing,Schools closure,2020-07
+ARG,Argentina,South America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07
+ARG,Argentina,South America,Public health measures,Requirement to wear protective gear in public,2020-07
+ARG,Argentina,South America,Social distancing,Changes in prison-related policies,2020-07
+ARG,Argentina,South America,Social distancing,Closure of businesses and public services,2020-08
+ARG,Argentina,South America,Public health measures,Strengthening the public health system,2020-08
+ARG,Argentina,South America,Movement restrictions,Domestic travel restrictions,2020-08
+ARG,Argentina,South America,Movement restrictions,Checkpoints within the country,2020-08
+ARG,Argentina,South America,Governance and socio-economic measures,Economic measures,2020-08
+ARG,Argentina,South America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08
+ARG,Argentina,South America,Movement restrictions,Curfews,2020-08
+ARG,Argentina,South America,Lockdown,Partial lockdown,2020-08
+ARG,Argentina,South America,Public health measures,Requirement to wear protective gear in public,2020-08
+ARG,Argentina,South America,Social distancing,Limit public gatherings,2020-08
+ARG,Argentina,South America,Humanitarian exemption,Humanitarian exemptions,2020-08
+ARG,Argentina,South America,Movement restrictions,Additional health/documents requirements upon arrival,2020-09
+ARG,Argentina,South America,Public health measures,Strengthening the public health system,2020-09
+ARG,Argentina,South America,Governance and socio-economic measures,Economic measures,2020-09
+ARG,Argentina,South America,Social distancing,Limit public gatherings,2020-09
+ARG,Argentina,South America,Movement restrictions,International flights suspension,2020-09
+ARG,Argentina,South America,Public health measures,Requirement to wear protective gear in public,2020-09
+ARG,Argentina,South America,Movement restrictions,Domestic travel restrictions,2020-10
+ARG,Argentina,South America,Movement restrictions,International flights suspension,2020-10
+ARG,Argentina,South America,Movement restrictions,Visa restrictions,2020-10
+ARG,Argentina,South America,Movement restrictions,Additional health/documents requirements upon arrival,2020-10
+ARG,Argentina,South America,Public health measures,Requirement to wear protective gear in public,2020-10
+ARG,Argentina,South America,Public health measures,Isolation and quarantine policies,2020-11
+ARG,Argentina,South America,Social distancing,Closure of businesses and public services,2020-11
+ARG,Argentina,South America,Public health measures,Strengthening the public health system,2020-11
+AUS,Australia,Oceania,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-03
+AUS,Australia,Oceania,Movement restrictions,Visa restrictions,2020-03
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-03
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-03
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-03
+AUS,Australia,Oceania,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03
+AUS,Australia,Oceania,Public health measures,Awareness campaigns,2020-03
+AUS,Australia,Oceania,Social distancing,Changes in prison-related policies,2020-03
+AUS,Australia,Oceania,Movement restrictions,Border closure,2020-03
+AUS,Australia,Oceania,Social distancing,Closure of businesses and public services,2020-03
+AUS,Australia,Oceania,Movement restrictions,Domestic travel restrictions,2020-03
+AUS,Australia,Oceania,Social distancing,Schools closure,2020-03
+AUS,Australia,Oceania,Public health measures,General recommendations,2020-03
+AUS,Australia,Oceania,Public health measures,Testing policy,2020-03
+AUS,Australia,Oceania,Movement restrictions,International flights suspension,2020-03
+AUS,Australia,Oceania,Public health measures,Psychological assistance and medical social work,2020-03
+AUS,Australia,Oceania,Movement restrictions,Surveillance and monitoring,2020-03
+AUS,Australia,Oceania,Lockdown,Partial lockdown,2020-03
+AUS,Australia,Oceania,Movement restrictions,Domestic travel restrictions,2020-04
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-04
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-04
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-04
+AUS,Australia,Oceania,Public health measures,Awareness campaigns,2020-04
+AUS,Australia,Oceania,Movement restrictions,Visa restrictions,2020-04
+AUS,Australia,Oceania,Movement restrictions,Border closure,2020-04
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-04
+AUS,Australia,Oceania,Social distancing,Schools closure,2020-04
+AUS,Australia,Oceania,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+AUS,Australia,Oceania,Movement restrictions,Surveillance and monitoring,2020-04
+AUS,Australia,Oceania,Public health measures,Testing policy,2020-04
+AUS,Australia,Oceania,Public health measures,Psychological assistance and medical social work,2020-04
+AUS,Australia,Oceania,Governance and socio-economic measures,State of emergency declared,2020-04
+AUS,Australia,Oceania,Governance and socio-economic measures,Military deployment,2020-04
+AUS,Australia,Oceania,Public health measures,General recommendations,2020-04
+AUS,Australia,Oceania,Public health measures,Other public health measures enforced,2020-04
+AUS,Australia,Oceania,Social distancing,Closure of businesses and public services,2020-04
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-05
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-05
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-05
+AUS,Australia,Oceania,Public health measures,Other public health measures enforced,2020-05
+AUS,Australia,Oceania,Public health measures,Awareness campaigns,2020-05
+AUS,Australia,Oceania,Movement restrictions,Domestic travel restrictions,2020-05
+AUS,Australia,Oceania,Social distancing,Closure of businesses and public services,2020-05
+AUS,Australia,Oceania,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+AUS,Australia,Oceania,Movement restrictions,Surveillance and monitoring,2020-05
+AUS,Australia,Oceania,Public health measures,Testing policy,2020-05
+AUS,Australia,Oceania,Social distancing,Schools closure,2020-05
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-05
+AUS,Australia,Oceania,Public health measures,Psychological assistance and medical social work,2020-05
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-06
+AUS,Australia,Oceania,Movement restrictions,Border closure,2020-06
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-06
+AUS,Australia,Oceania,Public health measures,General recommendations,2020-06
+AUS,Australia,Oceania,Public health measures,Awareness campaigns,2020-06
+AUS,Australia,Oceania,Public health measures,Other public health measures enforced,2020-06
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-06
+AUS,Australia,Oceania,Social distancing,Closure of businesses and public services,2020-06
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-06
+AUS,Australia,Oceania,Social distancing,Closure of businesses and public services,2020-07
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-07
+AUS,Australia,Oceania,Movement restrictions,Surveillance and monitoring,2020-07
+AUS,Australia,Oceania,Lockdown,Partial lockdown,2020-07
+AUS,Australia,Oceania,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07
+AUS,Australia,Oceania,Public health measures,Other public health measures enforced,2020-07
+AUS,Australia,Oceania,Movement restrictions,Domestic travel restrictions,2020-07
+AUS,Australia,Oceania,Movement restrictions,Border closure,2020-07
+AUS,Australia,Oceania,Public health measures,General recommendations,2020-07
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-07
+AUS,Australia,Oceania,Social distancing,Schools closure,2020-07
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-07
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-07
+AUS,Australia,Oceania,Governance and socio-economic measures,Military deployment,2020-07
+AUS,Australia,Oceania,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08
+AUS,Australia,Oceania,Public health measures,Psychological assistance and medical social work,2020-08
+AUS,Australia,Oceania,Public health measures,Requirement to wear protective gear in public,2020-08
+AUS,Australia,Oceania,Social distancing,Closure of businesses and public services,2020-08
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-08
+AUS,Australia,Oceania,Lockdown,Partial lockdown,2020-08
+AUS,Australia,Oceania,Movement restrictions,Surveillance and monitoring,2020-08
+AUS,Australia,Oceania,Movement restrictions,Domestic travel restrictions,2020-08
+AUS,Australia,Oceania,Movement restrictions,Curfews,2020-08
+AUS,Australia,Oceania,Public health measures,General recommendations,2020-08
+AUS,Australia,Oceania,Social distancing,Schools closure,2020-08
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-08
+AUS,Australia,Oceania,Public health measures,Other public health measures enforced,2020-08
+AUS,Australia,Oceania,Movement restrictions,Border closure,2020-08
+AUS,Australia,Oceania,Movement restrictions,Additional health/documents requirements upon arrival,2020-08
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-08
+AUS,Australia,Oceania,Movement restrictions,International flights suspension,2020-08
+AUS,Australia,Oceania,Governance and socio-economic measures,State of emergency declared,2020-08
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-08
+AUS,Australia,Oceania,Movement restrictions,Visa restrictions,2020-08
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-09
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-09
+AUS,Australia,Oceania,Public health measures,General recommendations,2020-09
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-09
+AUS,Australia,Oceania,Social distancing,Closure of businesses and public services,2020-09
+AUS,Australia,Oceania,Lockdown,Partial lockdown,2020-09
+AUS,Australia,Oceania,Movement restrictions,Curfews,2020-09
+AUS,Australia,Oceania,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-09
+AUS,Australia,Oceania,Movement restrictions,Additional health/documents requirements upon arrival,2020-09
+AUS,Australia,Oceania,Movement restrictions,Surveillance and monitoring,2020-09
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-09
+AUS,Australia,Oceania,Social distancing,Schools closure,2020-09
+AUS,Australia,Oceania,Governance and socio-economic measures,State of emergency declared,2020-09
+AUS,Australia,Oceania,Movement restrictions,Border closure,2020-09
+AUS,Australia,Oceania,Movement restrictions,Domestic travel restrictions,2020-09
+AUS,Australia,Oceania,Movement restrictions,Checkpoints within the country,2020-09
+AUS,Australia,Oceania,Public health measures,Requirement to wear protective gear in public,2020-09
+AUS,Australia,Oceania,Movement restrictions,International flights suspension,2020-09
+AUS,Australia,Oceania,Public health measures,Other public health measures enforced,2020-09
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-10
+AUS,Australia,Oceania,Social distancing,Closure of businesses and public services,2020-10
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-10
+AUS,Australia,Oceania,Public health measures,Testing policy,2020-10
+AUS,Australia,Oceania,Public health measures,Other public health measures enforced,2020-10
+AUS,Australia,Oceania,Social distancing,Schools closure,2020-10
+AUS,Australia,Oceania,Governance and socio-economic measures,State of emergency declared,2020-10
+AUS,Australia,Oceania,Public health measures,Psychological assistance and medical social work,2020-10
+AUS,Australia,Oceania,Public health measures,General recommendations,2020-10
+AUS,Australia,Oceania,Movement restrictions,Border closure,2020-10
+AUS,Australia,Oceania,Movement restrictions,Additional health/documents requirements upon arrival,2020-10
+AUS,Australia,Oceania,Movement restrictions,International flights suspension,2020-10
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-10
+AUS,Australia,Oceania,Movement restrictions,Domestic travel restrictions,2020-10
+AUS,Australia,Oceania,Lockdown,Partial lockdown,2020-10
+AUS,Australia,Oceania,Public health measures,Requirement to wear protective gear in public,2020-10
+AUS,Australia,Oceania,Movement restrictions,Surveillance and monitoring,2020-10
+AUS,Australia,Oceania,Public health measures,Amendments to funeral and burial regulations,2020-10
+AUS,Australia,Oceania,Public health measures,Awareness campaigns,2020-10
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-10
+AUS,Australia,Oceania,Public health measures,Psychological assistance and medical social work,2020-11
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-11
+AUS,Australia,Oceania,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-11
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-11
+AUS,Australia,Oceania,Movement restrictions,Domestic travel restrictions,2020-11
+AUS,Australia,Oceania,Public health measures,Health screenings in airports and border crossings,2020-11
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-11
+AUS,Australia,Oceania,Social distancing,Closure of businesses and public services,2020-11
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-11
+AUS,Australia,Oceania,Public health measures,Amendments to funeral and burial regulations,2020-11
+AUS,Australia,Oceania,Public health measures,Requirement to wear protective gear in public,2020-11
+AUS,Australia,Oceania,Public health measures,Awareness campaigns,2020-11
+AUS,Australia,Oceania,Movement restrictions,Visa restrictions,2020-11
+AUS,Australia,Oceania,Public health measures,General recommendations,2020-11
+AUS,Australia,Oceania,Governance and socio-economic measures,State of emergency declared,2020-11
+AUS,Australia,Oceania,Lockdown,Partial lockdown,2020-11
+AUS,Australia,Oceania,Movement restrictions,Surveillance and monitoring,2020-11
+AUS,Australia,Oceania,Social distancing,Schools closure,2020-11
+AUS,Australia,Oceania,Public health measures,Other public health measures enforced,2020-11
+AUS,Australia,Oceania,Movement restrictions,Additional health/documents requirements upon arrival,2020-11
+AUS,Australia,Oceania,Movement restrictions,Domestic travel restrictions,2020-12
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2020-12
+AUS,Australia,Oceania,Social distancing,Limit public gatherings,2020-12
+AUS,Australia,Oceania,Public health measures,General recommendations,2020-12
+AUS,Australia,Oceania,Public health measures,Strengthening the public health system,2020-12
+AUS,Australia,Oceania,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-12
+AUS,Australia,Oceania,Public health measures,Requirement to wear protective gear in public,2020-12
+AUS,Australia,Oceania,Public health measures,Other public health measures enforced,2020-12
+AUS,Australia,Oceania,Public health measures,Isolation and quarantine policies,2020-12
+AUS,Australia,Oceania,Governance and socio-economic measures,Economic measures,2021-01
+BRA,Brazil,South America,Public health measures,Health screenings in airports and border crossings,2020-03
+BRA,Brazil,South America,Public health measures,Isolation and quarantine policies,2020-03
+BRA,Brazil,South America,Social distancing,Changes in prison-related policies,2020-03
+BRA,Brazil,South America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03
+BRA,Brazil,South America,Public health measures,Awareness campaigns,2020-03
+BRA,Brazil,South America,Movement restrictions,Border closure,2020-03
+BRA,Brazil,South America,Movement restrictions,Visa restrictions,2020-03
+BRA,Brazil,South America,Governance and socio-economic measures,Economic measures,2020-04
+BRA,Brazil,South America,Social distancing,Limit public gatherings,2020-04
+BRA,Brazil,South America,Social distancing,Schools closure,2020-04
+BRA,Brazil,South America,Social distancing,Closure of businesses and public services,2020-04
+BRA,Brazil,South America,Movement restrictions,Border closure,2020-04
+BRA,Brazil,South America,Movement restrictions,Domestic travel restrictions,2020-04
+BRA,Brazil,South America,Public health measures,Health screenings in airports and border crossings,2020-04
+BRA,Brazil,South America,Lockdown,Partial lockdown,2020-04
+BRA,Brazil,South America,Movement restrictions,International flights suspension,2020-04
+BRA,Brazil,South America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+BRA,Brazil,South America,Public health measures,Strengthening the public health system,2020-04
+BRA,Brazil,South America,Public health measures,Other public health measures enforced,2020-04
+BRA,Brazil,South America,Public health measures,Psychological assistance and medical social work,2020-04
+BRA,Brazil,South America,Public health measures,Psychological assistance and medical social work,2020-05
+BRA,Brazil,South America,Movement restrictions,International flights suspension,2020-05
+BRA,Brazil,South America,Movement restrictions,Visa restrictions,2020-05
+BRA,Brazil,South America,Movement restrictions,Border closure,2020-05
+BRA,Brazil,South America,Public health measures,Strengthening the public health system,2020-05
+BRA,Brazil,South America,Social distancing,Closure of businesses and public services,2020-05
+BRA,Brazil,South America,Lockdown,Partial lockdown,2020-05
+BRA,Brazil,South America,Governance and socio-economic measures,Economic measures,2020-05
+BRA,Brazil,South America,Public health measures,Requirement to wear protective gear in public,2020-06
+BRA,Brazil,South America,Social distancing,Closure of businesses and public services,2020-06
+BRA,Brazil,South America,Public health measures,Strengthening the public health system,2020-06
+BRA,Brazil,South America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06
+BRA,Brazil,South America,Public health measures,Isolation and quarantine policies,2020-06
+BRA,Brazil,South America,Movement restrictions,Visa restrictions,2020-06
+BRA,Brazil,South America,Movement restrictions,Border closure,2020-06
+BRA,Brazil,South America,Movement restrictions,Border closure,2020-07
+BRA,Brazil,South America,Social distancing,Closure of businesses and public services,2020-07
+BRA,Brazil,South America,Public health measures,Strengthening the public health system,2020-07
+BRA,Brazil,South America,Movement restrictions,Additional health/documents requirements upon arrival,2020-07
+BRA,Brazil,South America,Movement restrictions,International flights suspension,2020-07
+BRA,Brazil,South America,Social distancing,Schools closure,2020-08
+BRA,Brazil,South America,Social distancing,Closure of businesses and public services,2020-08
+BRA,Brazil,South America,Public health measures,Requirement to wear protective gear in public,2020-08
+BRA,Brazil,South America,Movement restrictions,Additional health/documents requirements upon arrival,2020-08
+BRA,Brazil,South America,Movement restrictions,Visa restrictions,2020-08
+BRA,Brazil,South America,Movement restrictions,Border closure,2020-10
+BRA,Brazil,South America,Movement restrictions,Border checks,2020-10
+BRA,Brazil,South America,Movement restrictions,Visa restrictions,2020-10
+BRA,Brazil,South America,Movement restrictions,Border closure,2020-11
+BRA,Brazil,South America,Movement restrictions,Visa restrictions,2020-11
+BRA,Brazil,South America,Public health measures,Requirement to wear protective gear in public,2020-11
+BRA,Brazil,South America,Public health measures,Strengthening the public health system,2020-11
+BRA,Brazil,South America,Movement restrictions,Border closure,2020-12
+BRA,Brazil,South America,Social distancing,Closure of businesses and public services,2020-12
+CAN,Canada,North America,Public health measures,Isolation and quarantine policies,2020-01
+CAN,Canada,North America,Public health measures,Awareness campaigns,2020-01
+CAN,Canada,North America,Public health measures,General recommendations,2020-01
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-01
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02
+CAN,Canada,North America,Public health measures,Isolation and quarantine policies,2020-02
+CAN,Canada,North America,Movement restrictions,Visa restrictions,2020-02
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-03
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03
+CAN,Canada,North America,Public health measures,Strengthening the public health system,2020-03
+CAN,Canada,North America,Social distancing,Limit public gatherings,2020-03
+CAN,Canada,North America,Public health measures,General recommendations,2020-03
+CAN,Canada,North America,Public health measures,Awareness campaigns,2020-03
+CAN,Canada,North America,Movement restrictions,Border closure,2020-03
+CAN,Canada,North America,Public health measures,Health screenings in airports and border crossings,2020-03
+CAN,Canada,North America,Social distancing,Schools closure,2020-03
+CAN,Canada,North America,Public health measures,Isolation and quarantine policies,2020-03
+CAN,Canada,North America,Governance and socio-economic measures,State of emergency declared,2020-03
+CAN,Canada,North America,Movement restrictions,International flights suspension,2020-03
+CAN,Canada,North America,Movement restrictions,Surveillance and monitoring,2020-03
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-04
+CAN,Canada,North America,Public health measures,Strengthening the public health system,2020-04
+CAN,Canada,North America,Public health measures,General recommendations,2020-04
+CAN,Canada,North America,Public health measures,Other public health measures enforced,2020-04
+CAN,Canada,North America,Social distancing,Limit public gatherings,2020-04
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+CAN,Canada,North America,Public health measures,Awareness campaigns,2020-04
+CAN,Canada,North America,Public health measures,Isolation and quarantine policies,2020-04
+CAN,Canada,North America,Public health measures,Requirement to wear protective gear in public,2020-04
+CAN,Canada,North America,Governance and socio-economic measures,Military deployment,2020-04
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-05
+CAN,Canada,North America,Public health measures,Strengthening the public health system,2020-05
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+CAN,Canada,North America,Public health measures,Awareness campaigns,2020-05
+CAN,Canada,North America,Public health measures,Other public health measures enforced,2020-05
+CAN,Canada,North America,Movement restrictions,Border closure,2020-05
+CAN,Canada,North America,Public health measures,Requirement to wear protective gear in public,2020-05
+CAN,Canada,North America,Social distancing,Limit public gatherings,2020-05
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06
+CAN,Canada,North America,Public health measures,Strengthening the public health system,2020-06
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-06
+CAN,Canada,North America,Public health measures,Other public health measures enforced,2020-06
+CAN,Canada,North America,Public health measures,Psychological assistance and medical social work,2020-06
+CAN,Canada,North America,Movement restrictions,Border closure,2020-06
+CAN,Canada,North America,Public health measures,Health screenings in airports and border crossings,2020-06
+CAN,Canada,North America,Social distancing,Closure of businesses and public services,2020-06
+CAN,Canada,North America,Movement restrictions,Visa restrictions,2020-06
+CAN,Canada,North America,Public health measures,Awareness campaigns,2020-06
+CAN,Canada,North America,Public health measures,Isolation and quarantine policies,2020-06
+CAN,Canada,North America,Movement restrictions,Domestic travel restrictions,2020-06
+CAN,Canada,North America,Movement restrictions,International flights suspension,2020-06
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-07
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07
+CAN,Canada,North America,Social distancing,Closure of businesses and public services,2020-07
+CAN,Canada,North America,Movement restrictions,Border closure,2020-07
+CAN,Canada,North America,Movement restrictions,Visa restrictions,2020-07
+CAN,Canada,North America,Social distancing,Changes in prison-related policies,2020-07
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-08
+CAN,Canada,North America,Social distancing,Changes in prison-related policies,2020-08
+CAN,Canada,North America,Public health measures,Requirement to wear protective gear in public,2020-08
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08
+CAN,Canada,North America,Public health measures,Other public health measures enforced,2020-08
+CAN,Canada,North America,Public health measures,Health screenings in airports and border crossings,2020-08
+CAN,Canada,North America,Public health measures,General recommendations,2020-08
+CAN,Canada,North America,Public health measures,Strengthening the public health system,2020-08
+CAN,Canada,North America,Governance and socio-economic measures,Military deployment,2020-08
+CAN,Canada,North America,Public health measures,Psychological assistance and medical social work,2020-08
+CAN,Canada,North America,Public health measures,Awareness campaigns,2020-08
+CAN,Canada,North America,Public health measures,Health screenings in airports and border crossings,2020-09
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-09
+CAN,Canada,North America,Public health measures,Strengthening the public health system,2020-09
+CAN,Canada,North America,Movement restrictions,Border closure,2020-09
+CAN,Canada,North America,Public health measures,Isolation and quarantine policies,2020-09
+CAN,Canada,North America,Movement restrictions,Additional health/documents requirements upon arrival,2020-09
+CAN,Canada,North America,Public health measures,Awareness campaigns,2020-09
+CAN,Canada,North America,Governance and socio-economic measures,Military deployment,2020-09
+CAN,Canada,North America,Public health measures,Mass population testing,2020-09
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-09
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-10
+CAN,Canada,North America,Public health measures,Strengthening the public health system,2020-10
+CAN,Canada,North America,Movement restrictions,Border closure,2020-10
+CAN,Canada,North America,Public health measures,Isolation and quarantine policies,2020-10
+CAN,Canada,North America,Public health measures,Awareness campaigns,2020-10
+CAN,Canada,North America,Public health measures,General recommendations,2020-10
+CAN,Canada,North America,Movement restrictions,Surveillance and monitoring,2020-10
+CAN,Canada,North America,Movement restrictions,Additional health/documents requirements upon arrival,2020-11
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-11
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-11
+CAN,Canada,North America,Public health measures,Isolation and quarantine policies,2020-11
+CAN,Canada,North America,Public health measures,Strengthening the public health system,2020-11
+CAN,Canada,North America,Public health measures,General recommendations,2020-11
+CAN,Canada,North America,Movement restrictions,Surveillance and monitoring,2020-11
+CAN,Canada,North America,Movement restrictions,Visa restrictions,2020-11
+CAN,Canada,North America,Public health measures,Awareness campaigns,2020-11
+CAN,Canada,North America,Governance and socio-economic measures,Military deployment,2020-11
+CAN,Canada,North America,Public health measures,Strengthening the public health system,2020-12
+CAN,Canada,North America,Movement restrictions,Border closure,2020-12
+CAN,Canada,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-12
+CAN,Canada,North America,Governance and socio-economic measures,Economic measures,2020-12
+CHN,China,Asia,Governance and socio-economic measures,State of emergency declared,2020-01
+CHN,China,Asia,Public health measures,Health screenings in airports and border crossings,2020-01
+CHN,China,Asia,Movement restrictions,Domestic travel restrictions,2020-01
+CHN,China,Asia,Social distancing,Limit public gatherings,2020-01
+CHN,China,Asia,Public health measures,Strengthening the public health system,2020-02
+CHN,China,Asia,Public health measures,Testing policy,2020-03
+CHN,China,Asia,Governance and socio-economic measures,Economic measures,2020-03
+CHN,China,Asia,Public health measures,Psychological assistance and medical social work,2020-03
+CHN,China,Asia,Movement restrictions,Surveillance and monitoring,2020-03
+CHN,China,Asia,Public health measures,Isolation and quarantine policies,2020-03
+CHN,China,Asia,Public health measures,General recommendations,2020-03
+CHN,China,Asia,Public health measures,Health screenings in airports and border crossings,2020-03
+CHN,China,Asia,Movement restrictions,International flights suspension,2020-03
+CHN,China,Asia,Public health measures,Strengthening the public health system,2020-03
+CHN,China,Asia,Movement restrictions,Domestic travel restrictions,2020-03
+CHN,China,Asia,Public health measures,Other public health measures enforced,2020-03
+CHN,China,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-03
+CHN,China,Asia,Movement restrictions,Visa restrictions,2020-03
+CHN,China,Asia,Public health measures,Requirement to wear protective gear in public,2020-03
+CHN,China,Asia,Public health measures,Awareness campaigns,2020-03
+CHN,China,Asia,Movement restrictions,Surveillance and monitoring,2020-04
+CHN,China,Asia,Public health measures,Strengthening the public health system,2020-04
+CHN,China,Asia,Public health measures,Mass population testing,2020-04
+CHN,China,Asia,Social distancing,Limit public gatherings,2020-04
+CHN,China,Asia,Movement restrictions,Border closure,2020-04
+CHN,China,Asia,Governance and socio-economic measures,Economic measures,2020-04
+CHN,China,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-04
+CHN,China,Asia,Public health measures,Testing policy,2020-04
+CHN,China,Asia,Movement restrictions,Domestic travel restrictions,2020-04
+CHN,China,Asia,Public health measures,Isolation and quarantine policies,2020-04
+CHN,China,Asia,Public health measures,Health screenings in airports and border crossings,2020-04
+CHN,China,Asia,Social distancing,Schools closure,2020-04
+CHN,China,Asia,Movement restrictions,Checkpoints within the country,2020-04
+CHN,China,Asia,Public health measures,Psychological assistance and medical social work,2020-04
+CHN,China,Asia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+CHN,China,Asia,Governance and socio-economic measures,Economic measures,2020-05
+CHN,China,Asia,Lockdown,Partial lockdown,2020-05
+CHN,China,Asia,Movement restrictions,Surveillance and monitoring,2020-05
+CHN,China,Asia,Public health measures,Health screenings in airports and border crossings,2020-05
+CHN,China,Asia,Public health measures,Awareness campaigns,2020-05
+CHN,China,Asia,Social distancing,Limit public gatherings,2020-05
+CHN,China,Asia,Public health measures,Strengthening the public health system,2020-05
+CHN,China,Asia,Public health measures,Requirement to wear protective gear in public,2020-05
+CHN,China,Asia,Public health measures,Testing policy,2020-05
+CHN,China,Asia,Movement restrictions,Domestic travel restrictions,2020-05
+CHN,China,Asia,Public health measures,Isolation and quarantine policies,2020-05
+CHN,China,Asia,Movement restrictions,Border closure,2020-05
+CHN,China,Asia,Public health measures,General recommendations,2020-05
+CHN,China,Asia,Public health measures,Testing policy,2020-06
+CHN,China,Asia,Public health measures,Strengthening the public health system,2020-06
+CHN,China,Asia,Social distancing,Schools closure,2020-06
+CHN,China,Asia,Public health measures,Requirement to wear protective gear in public,2020-06
+CHN,China,Asia,Public health measures,Mass population testing,2020-06
+CHN,China,Asia,Public health measures,Isolation and quarantine policies,2020-06
+CHN,China,Asia,Public health measures,General recommendations,2020-06
+CHN,China,Asia,Lockdown,Partial lockdown,2020-06
+CHN,China,Asia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06
+CHN,China,Asia,Public health measures,Other public health measures enforced,2020-06
+CHN,China,Asia,Governance and socio-economic measures,Economic measures,2020-06
+CHN,China,Asia,Public health measures,Isolation and quarantine policies,2020-07
+CHN,China,Asia,Public health measures,Other public health measures enforced,2020-07
+CHN,China,Asia,Governance and socio-economic measures,Limit product imports/exports,2020-07
+CHN,China,Asia,Public health measures,Testing policy,2020-07
+CHN,China,Asia,Public health measures,Requirement to wear protective gear in public,2020-07
+CHN,China,Asia,Movement restrictions,Checkpoints within the country,2020-07
+CHN,China,Asia,Public health measures,Health screenings in airports and border crossings,2020-07
+CHN,China,Asia,Social distancing,Closure of businesses and public services,2020-07
+CHN,China,Asia,Movement restrictions,Surveillance and monitoring,2020-07
+CHN,China,Asia,Movement restrictions,Domestic travel restrictions,2020-08
+CHN,China,Asia,Public health measures,Mass population testing,2020-08
+CHN,China,Asia,Social distancing,Schools closure,2020-08
+CHN,China,Asia,Public health measures,Strengthening the public health system,2020-08
+CHN,China,Asia,Public health measures,Strengthening the public health system,2020-09
+CHN,China,Asia,Public health measures,Other public health measures enforced,2020-09
+CHN,China,Asia,Public health measures,Mass population testing,2020-09
+FRA,France,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02
+FRA,France,Europe,Social distancing,Limit public gatherings,2020-02
+FRA,France,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03
+FRA,France,Europe,Social distancing,Limit public gatherings,2020-03
+FRA,France,Europe,Governance and socio-economic measures,Economic measures,2020-03
+FRA,France,Europe,Movement restrictions,International flights suspension,2020-03
+FRA,France,Europe,Social distancing,Schools closure,2020-03
+FRA,France,Europe,Social distancing,Closure of businesses and public services,2020-03
+FRA,France,Europe,Public health measures,Isolation and quarantine policies,2020-03
+FRA,France,Europe,Public health measures,Health screenings in airports and border crossings,2020-03
+FRA,France,Europe,Governance and socio-economic measures,Military deployment,2020-03
+FRA,France,Europe,Lockdown,Partial lockdown,2020-03
+FRA,France,Europe,Movement restrictions,Border closure,2020-03
+FRA,France,Europe,Public health measures,General recommendations,2020-03
+FRA,France,Europe,Public health measures,Amendments to funeral and burial regulations,2020-03
+FRA,France,Europe,Public health measures,Strengthening the public health system,2020-03
+FRA,France,Europe,Governance and socio-economic measures,State of emergency declared,2020-03
+FRA,France,Europe,Lockdown,Lockdown of refugee/idp camps or other minorities,2020-03
+FRA,France,Europe,Governance and socio-economic measures,Economic measures,2020-04
+FRA,France,Europe,Public health measures,Strengthening the public health system,2020-04
+FRA,France,Europe,Movement restrictions,Surveillance and monitoring,2020-04
+FRA,France,Europe,Movement restrictions,Domestic travel restrictions,2020-04
+FRA,France,Europe,Social distancing,Limit public gatherings,2020-04
+FRA,France,Europe,Public health measures,Amendments to funeral and burial regulations,2020-04
+FRA,France,Europe,Public health measures,Psychological assistance and medical social work,2020-04
+FRA,France,Europe,Lockdown,Partial lockdown,2020-04
+FRA,France,Europe,Movement restrictions,Border closure,2020-04
+FRA,France,Europe,Public health measures,Other public health measures enforced,2020-04
+FRA,France,Europe,Public health measures,Awareness campaigns,2020-04
+FRA,France,Europe,Public health measures,Isolation and quarantine policies,2020-04
+FRA,France,Europe,Governance and socio-economic measures,Limit product imports/exports,2020-04
+FRA,France,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+FRA,France,Europe,Movement restrictions,Visa restrictions,2020-04
+FRA,France,Europe,Public health measures,Other public health measures enforced,2020-05
+FRA,France,Europe,Public health measures,Isolation and quarantine policies,2020-05
+FRA,France,Europe,Governance and socio-economic measures,State of emergency declared,2020-05
+FRA,France,Europe,Governance and socio-economic measures,Economic measures,2020-05
+FRA,France,Europe,Public health measures,Psychological assistance and medical social work,2020-05
+FRA,France,Europe,Public health measures,Awareness campaigns,2020-05
+FRA,France,Europe,Social distancing,Closure of businesses and public services,2020-05
+FRA,France,Europe,Social distancing,Schools closure,2020-05
+FRA,France,Europe,Public health measures,General recommendations,2020-05
+FRA,France,Europe,Lockdown,Partial lockdown,2020-05
+FRA,France,Europe,Social distancing,Limit public gatherings,2020-05
+FRA,France,Europe,Public health measures,Requirement to wear protective gear in public,2020-05
+FRA,France,Europe,Public health measures,Amendments to funeral and burial regulations,2020-05
+FRA,France,Europe,Movement restrictions,Surveillance and monitoring,2020-05
+FRA,France,Europe,Public health measures,Strengthening the public health system,2020-05
+FRA,France,Europe,Movement restrictions,Border closure,2020-05
+FRA,France,Europe,Movement restrictions,Border checks,2020-05
+FRA,France,Europe,Public health measures,Other public health measures enforced,2020-06
+FRA,France,Europe,Public health measures,Requirement to wear protective gear in public,2020-06
+FRA,France,Europe,Social distancing,Closure of businesses and public services,2020-06
+FRA,France,Europe,Social distancing,Schools closure,2020-06
+FRA,France,Europe,Movement restrictions,Domestic travel restrictions,2020-06
+FRA,France,Europe,Public health measures,Isolation and quarantine policies,2020-06
+FRA,France,Europe,Movement restrictions,Surveillance and monitoring,2020-06
+FRA,France,Europe,Governance and socio-economic measures,Economic measures,2020-06
+FRA,France,Europe,Public health measures,Strengthening the public health system,2020-06
+FRA,France,Europe,Movement restrictions,Border closure,2020-06
+FRA,France,Europe,Movement restrictions,Visa restrictions,2020-06
+FRA,France,Europe,Movement restrictions,Border closure,2020-07
+FRA,France,Europe,Movement restrictions,Visa restrictions,2020-07
+FRA,France,Europe,Governance and socio-economic measures,State of emergency declared,2020-07
+FRA,France,Europe,Public health measures,Requirement to wear protective gear in public,2020-07
+FRA,France,Europe,Governance and socio-economic measures,Economic measures,2020-07
+FRA,France,Europe,Social distancing,Closure of businesses and public services,2020-07
+FRA,France,Europe,Social distancing,Limit public gatherings,2020-07
+FRA,France,Europe,Public health measures,Requirement to wear protective gear in public,2020-08
+FRA,France,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08
+FRA,France,Europe,Governance and socio-economic measures,Military deployment,2020-08
+FRA,France,Europe,Public health measures,Requirement to wear protective gear in public,2020-09
+FRA,France,Europe,Governance and socio-economic measures,Economic measures,2020-09
+FRA,France,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-09
+FRA,France,Europe,Social distancing,Limit public gatherings,2020-09
+FRA,France,Europe,Social distancing,Closure of businesses and public services,2020-09
+FRA,France,Europe,Social distancing,Closure of businesses and public services,2020-10
+FRA,France,Europe,Social distancing,Limit public gatherings,2020-10
+FRA,France,Europe,Public health measures,Isolation and quarantine policies,2020-10
+FRA,France,Europe,Public health measures,General recommendations,2020-10
+DEU,Germany,Europe,Public health measures,Awareness campaigns,2020-02
+DEU,Germany,Europe,Movement restrictions,Additional health/documents requirements upon arrival,2020-02
+DEU,Germany,Europe,Governance and socio-economic measures,Limit product imports/exports,2020-03
+DEU,Germany,Europe,Governance and socio-economic measures,Economic measures,2020-03
+DEU,Germany,Europe,Social distancing,Limit public gatherings,2020-03
+DEU,Germany,Europe,Movement restrictions,Border checks,2020-03
+DEU,Germany,Europe,Public health measures,Strengthening the public health system,2020-03
+DEU,Germany,Europe,Public health measures,Isolation and quarantine policies,2020-03
+DEU,Germany,Europe,Social distancing,Closure of businesses and public services,2020-03
+DEU,Germany,Europe,Movement restrictions,Border closure,2020-03
+DEU,Germany,Europe,Social distancing,Schools closure,2020-03
+DEU,Germany,Europe,Governance and socio-economic measures,State of emergency declared,2020-03
+DEU,Germany,Europe,Social distancing,Changes in prison-related policies,2020-03
+DEU,Germany,Europe,Public health measures,Other public health measures enforced,2020-03
+DEU,Germany,Europe,Lockdown,Partial lockdown,2020-03
+DEU,Germany,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03
+DEU,Germany,Europe,Public health measures,General recommendations,2020-03
+DEU,Germany,Europe,Governance and socio-economic measures,Economic measures,2020-04
+DEU,Germany,Europe,Governance and socio-economic measures,Military deployment,2020-04
+DEU,Germany,Europe,Movement restrictions,Additional health/documents requirements upon arrival,2020-04
+DEU,Germany,Europe,Public health measures,Strengthening the public health system,2020-04
+DEU,Germany,Europe,Public health measures,General recommendations,2020-04
+DEU,Germany,Europe,Movement restrictions,Surveillance and monitoring,2020-04
+DEU,Germany,Europe,Movement restrictions,Visa restrictions,2020-04
+DEU,Germany,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+DEU,Germany,Europe,Public health measures,Isolation and quarantine policies,2020-04
+DEU,Germany,Europe,Movement restrictions,Border closure,2020-04
+DEU,Germany,Europe,Lockdown,Partial lockdown,2020-04
+DEU,Germany,Europe,Social distancing,Schools closure,2020-04
+DEU,Germany,Europe,Social distancing,Limit public gatherings,2020-04
+DEU,Germany,Europe,Public health measures,Other public health measures enforced,2020-04
+DEU,Germany,Europe,Movement restrictions,Border checks,2020-04
+DEU,Germany,Europe,Social distancing,Closure of businesses and public services,2020-04
+DEU,Germany,Europe,Public health measures,Requirement to wear protective gear in public,2020-04
+DEU,Germany,Europe,Public health measures,Awareness campaigns,2020-04
+DEU,Germany,Europe,Public health measures,Testing policy,2020-04
+DEU,Germany,Europe,Public health measures,Amendments to funeral and burial regulations,2020-05
+DEU,Germany,Europe,Social distancing,Limit public gatherings,2020-05
+DEU,Germany,Europe,Social distancing,Schools closure,2020-05
+DEU,Germany,Europe,Social distancing,Closure of businesses and public services,2020-05
+DEU,Germany,Europe,Movement restrictions,Border closure,2020-05
+DEU,Germany,Europe,Movement restrictions,Border checks,2020-05
+DEU,Germany,Europe,Public health measures,Isolation and quarantine policies,2020-05
+DEU,Germany,Europe,Governance and socio-economic measures,Economic measures,2020-05
+DEU,Germany,Europe,Public health measures,Awareness campaigns,2020-05
+DEU,Germany,Europe,Public health measures,Strengthening the public health system,2020-05
+DEU,Germany,Europe,Public health measures,Other public health measures enforced,2020-05
+DEU,Germany,Europe,Public health measures,Testing policy,2020-05
+DEU,Germany,Europe,Governance and socio-economic measures,Economic measures,2020-06
+DEU,Germany,Europe,Public health measures,Strengthening the public health system,2020-06
+DEU,Germany,Europe,Social distancing,Closure of businesses and public services,2020-06
+DEU,Germany,Europe,Public health measures,General recommendations,2020-06
+DEU,Germany,Europe,Public health measures,Isolation and quarantine policies,2020-06
+DEU,Germany,Europe,Movement restrictions,Border checks,2020-06
+DEU,Germany,Europe,Movement restrictions,Border closure,2020-06
+DEU,Germany,Europe,Movement restrictions,Surveillance and monitoring,2020-06
+DEU,Germany,Europe,Public health measures,Awareness campaigns,2020-06
+DEU,Germany,Europe,Movement restrictions,Visa restrictions,2020-06
+DEU,Germany,Europe,Lockdown,Partial lockdown,2020-06
+DEU,Germany,Europe,Governance and socio-economic measures,Economic measures,2020-07
+DEU,Germany,Europe,Movement restrictions,Visa restrictions,2020-07
+DEU,Germany,Europe,Lockdown,Partial lockdown,2020-07
+DEU,Germany,Europe,Public health measures,Isolation and quarantine policies,2020-07
+DEU,Germany,Europe,Public health measures,Testing policy,2020-07
+DEU,Germany,Europe,Public health measures,Other public health measures enforced,2020-07
+DEU,Germany,Europe,Public health measures,Requirement to wear protective gear in public,2020-07
+DEU,Germany,Europe,Social distancing,Closure of businesses and public services,2020-07
+DEU,Germany,Europe,Public health measures,General recommendations,2020-07
+DEU,Germany,Europe,Public health measures,Testing policy,2020-08
+DEU,Germany,Europe,Governance and socio-economic measures,Economic measures,2020-08
+DEU,Germany,Europe,Public health measures,General recommendations,2020-08
+DEU,Germany,Europe,Public health measures,Isolation and quarantine policies,2020-08
+DEU,Germany,Europe,Public health measures,Health screenings in airports and border crossings,2020-08
+DEU,Germany,Europe,Movement restrictions,Border closure,2020-08
+DEU,Germany,Europe,Public health measures,Other public health measures enforced,2020-08
+DEU,Germany,Europe,Public health measures,Requirement to wear protective gear in public,2020-08
+DEU,Germany,Europe,Social distancing,Limit public gatherings,2020-08
+DEU,Germany,Europe,Governance and socio-economic measures,Economic measures,2020-09
+DEU,Germany,Europe,Public health measures,Testing policy,2020-09
+DEU,Germany,Europe,Public health measures,Strengthening the public health system,2020-09
+DEU,Germany,Europe,Public health measures,Health screenings in airports and border crossings,2020-09
+DEU,Germany,Europe,Public health measures,Isolation and quarantine policies,2020-09
+DEU,Germany,Europe,Social distancing,Limit public gatherings,2020-09
+DEU,Germany,Europe,Public health measures,General recommendations,2020-09
+DEU,Germany,Europe,Public health measures,Health screenings in airports and border crossings,2020-10
+DEU,Germany,Europe,Movement restrictions,Border closure,2020-10
+DEU,Germany,Europe,Public health measures,Testing policy,2020-10
+DEU,Germany,Europe,Public health measures,General recommendations,2020-10
+DEU,Germany,Europe,Governance and socio-economic measures,Economic measures,2020-10
+DEU,Germany,Europe,Public health measures,Requirement to wear protective gear in public,2020-10
+DEU,Germany,Europe,Social distancing,Limit public gatherings,2020-10
+DEU,Germany,Europe,Movement restrictions,Curfews,2020-10
+DEU,Germany,Europe,Public health measures,Other public health measures enforced,2020-10
+DEU,Germany,Europe,Movement restrictions,Surveillance and monitoring,2020-10
+DEU,Germany,Europe,Public health measures,General recommendations,2020-11
+IND,India,Asia,Social distancing,Limit public gatherings,2020-01
+IND,India,Asia,Lockdown,Partial lockdown,2020-01
+IND,India,Asia,Social distancing,Schools closure,2020-01
+IND,India,Asia,Public health measures,Requirement to wear protective gear in public,2020-01
+IND,India,Asia,Movement restrictions,Curfews,2020-01
+IND,India,Asia,Public health measures,Strengthening the public health system,2020-01
+IND,India,Asia,Public health measures,Health screenings in airports and border crossings,2020-01
+IND,India,Asia,Public health measures,Isolation and quarantine policies,2020-02
+IND,India,Asia,Movement restrictions,Visa restrictions,2020-02
+IND,India,Asia,Movement restrictions,Visa restrictions,2020-03
+IND,India,Asia,Public health measures,Health screenings in airports and border crossings,2020-03
+IND,India,Asia,Social distancing,Limit public gatherings,2020-03
+IND,India,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-03
+IND,India,Asia,Public health measures,Isolation and quarantine policies,2020-03
+IND,India,Asia,Public health measures,General recommendations,2020-03
+IND,India,Asia,Movement restrictions,Border checks,2020-03
+IND,India,Asia,Movement restrictions,Border closure,2020-03
+IND,India,Asia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03
+IND,India,Asia,Governance and socio-economic measures,Economic measures,2020-03
+IND,India,Asia,Lockdown,Partial lockdown,2020-03
+IND,India,Asia,Movement restrictions,International flights suspension,2020-03
+IND,India,Asia,Public health measures,Testing policy,2020-03
+IND,India,Asia,Lockdown,Full lockdown,2020-03
+IND,India,Asia,Public health measures,Strengthening the public health system,2020-04
+IND,India,Asia,Social distancing,Limit public gatherings,2020-04
+IND,India,Asia,Lockdown,Partial lockdown,2020-04
+IND,India,Asia,Public health measures,Awareness campaigns,2020-04
+IND,India,Asia,Governance and socio-economic measures,Economic measures,2020-04
+IND,India,Asia,Public health measures,Other public health measures enforced,2020-04
+IND,India,Asia,Governance and socio-economic measures,Military deployment,2020-04
+IND,India,Asia,Movement restrictions,Surveillance and monitoring,2020-04
+IND,India,Asia,Public health measures,General recommendations,2020-04
+IND,India,Asia,Public health measures,Isolation and quarantine policies,2020-04
+IND,India,Asia,Public health measures,Strengthening the public health system,2020-05
+IND,India,Asia,Movement restrictions,Domestic travel restrictions,2020-05
+IND,India,Asia,Lockdown,Partial lockdown,2020-05
+IND,India,Asia,Public health measures,Awareness campaigns,2020-05
+IND,India,Asia,Governance and socio-economic measures,Economic measures,2020-05
+IND,India,Asia,Social distancing,Closure of businesses and public services,2020-05
+IND,India,Asia,Movement restrictions,Visa restrictions,2020-05
+IND,India,Asia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+IND,India,Asia,Public health measures,Other public health measures enforced,2020-05
+IND,India,Asia,Movement restrictions,Surveillance and monitoring,2020-05
+IND,India,Asia,Public health measures,General recommendations,2020-05
+IND,India,Asia,Public health measures,Awareness campaigns,2020-06
+IND,India,Asia,Movement restrictions,Domestic travel restrictions,2020-06
+IND,India,Asia,Movement restrictions,Visa restrictions,2020-06
+IND,India,Asia,Public health measures,Testing policy,2020-06
+IND,India,Asia,Movement restrictions,Surveillance and monitoring,2020-06
+IND,India,Asia,Governance and socio-economic measures,Economic measures,2020-06
+IND,India,Asia,Public health measures,Strengthening the public health system,2020-06
+IND,India,Asia,Lockdown,Partial lockdown,2020-06
+IND,India,Asia,Public health measures,Isolation and quarantine policies,2020-06
+IND,India,Asia,Public health measures,Other public health measures enforced,2020-06
+IND,India,Asia,Public health measures,General recommendations,2020-06
+IND,India,Asia,Public health measures,Psychological assistance and medical social work,2020-07
+IND,India,Asia,Public health measures,Awareness campaigns,2020-07
+IND,India,Asia,Governance and socio-economic measures,Economic measures,2020-07
+IND,India,Asia,Public health measures,Strengthening the public health system,2020-07
+IND,India,Asia,Governance and socio-economic measures,Limit product imports/exports,2020-07
+IND,India,Asia,Public health measures,Other public health measures enforced,2020-07
+IND,India,Asia,Public health measures,Testing policy,2020-07
+IND,India,Asia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07
+IND,India,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-08
+IND,India,Asia,Public health measures,Mass population testing,2020-08
+IND,India,Asia,Public health measures,Strengthening the public health system,2020-08
+IND,India,Asia,Public health measures,Other public health measures enforced,2020-08
+IND,India,Asia,Governance and socio-economic measures,Economic measures,2020-08
+IND,India,Asia,Public health measures,Awareness campaigns,2020-08
+IND,India,Asia,Movement restrictions,Surveillance and monitoring,2020-09
+IND,India,Asia,Governance and socio-economic measures,Economic measures,2020-09
+IDN,Indonesia,Asia,Public health measures,Other public health measures enforced,2020-08
+IDN,Indonesia,Asia,Public health measures,General recommendations,2020-01
+IDN,Indonesia,Asia,Public health measures,Awareness campaigns,2020-01
+IDN,Indonesia,Asia,Public health measures,General recommendations,2020-02
+IDN,Indonesia,Asia,Movement restrictions,Visa restrictions,2020-02
+IDN,Indonesia,Asia,Public health measures,Isolation and quarantine policies,2020-02
+IDN,Indonesia,Asia,Movement restrictions,International flights suspension,2020-02
+IDN,Indonesia,Asia,Public health measures,Awareness campaigns,2020-03
+IDN,Indonesia,Asia,Movement restrictions,Visa restrictions,2020-03
+IDN,Indonesia,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-03
+IDN,Indonesia,Asia,Public health measures,Health screenings in airports and border crossings,2020-03
+IDN,Indonesia,Asia,Movement restrictions,International flights suspension,2020-03
+IDN,Indonesia,Asia,Public health measures,General recommendations,2020-03
+IDN,Indonesia,Asia,Movement restrictions,Surveillance and monitoring,2020-03
+IDN,Indonesia,Asia,Public health measures,Testing policy,2020-03
+IDN,Indonesia,Asia,Public health measures,Isolation and quarantine policies,2020-03
+IDN,Indonesia,Asia,Public health measures,Strengthening the public health system,2020-03
+IDN,Indonesia,Asia,Movement restrictions,Border closure,2020-03
+IDN,Indonesia,Asia,Lockdown,Partial lockdown,2020-03
+IDN,Indonesia,Asia,Public health measures,General recommendations,2020-04
+IDN,Indonesia,Asia,Movement restrictions,Domestic travel restrictions,2020-04
+IDN,Indonesia,Asia,Social distancing,Limit public gatherings,2020-04
+IDN,Indonesia,Asia,Public health measures,Strengthening the public health system,2020-04
+IDN,Indonesia,Asia,Movement restrictions,International flights suspension,2020-04
+IDN,Indonesia,Asia,Social distancing,Limit public gatherings,2020-05
+IDN,Indonesia,Asia,Lockdown,Partial lockdown,2020-05
+IDN,Indonesia,Asia,Public health measures,Strengthening the public health system,2020-05
+IDN,Indonesia,Asia,Public health measures,Awareness campaigns,2020-05
+IDN,Indonesia,Asia,Movement restrictions,Domestic travel restrictions,2020-05
+IDN,Indonesia,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-05
+IDN,Indonesia,Asia,Governance and socio-economic measures,Economic measures,2020-05
+IDN,Indonesia,Asia,Public health measures,General recommendations,2020-05
+IDN,Indonesia,Asia,Public health measures,Other public health measures enforced,2020-06
+IDN,Indonesia,Asia,Public health measures,Strengthening the public health system,2020-06
+IDN,Indonesia,Asia,Movement restrictions,Domestic travel restrictions,2020-07
+IDN,Indonesia,Asia,Movement restrictions,Visa restrictions,2020-07
+IDN,Indonesia,Asia,Public health measures,Strengthening the public health system,2020-07
+IDN,Indonesia,Asia,Governance and socio-economic measures,Economic measures,2020-07
+IDN,Indonesia,Asia,Social distancing,Limit public gatherings,2020-07
+IDN,Indonesia,Asia,Public health measures,Other public health measures enforced,2020-07
+IDN,Indonesia,Asia,Public health measures,Requirement to wear protective gear in public,2020-08
+IDN,Indonesia,Asia,Movement restrictions,Visa restrictions,2020-08
+IDN,Indonesia,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-08
+IDN,Indonesia,Asia,Public health measures,Strengthening the public health system,2020-08
+IDN,Indonesia,Asia,Social distancing,Closure of businesses and public services,2020-09
+IDN,Indonesia,Asia,Social distancing,Schools closure,2020-09
+IDN,Indonesia,Asia,Social distancing,Limit public gatherings,2020-09
+IDN,Indonesia,Asia,Movement restrictions,Domestic travel restrictions,2020-09
+IDN,Indonesia,Asia,Public health measures,Isolation and quarantine policies,2020-09
+IDN,Indonesia,Asia,Public health measures,Strengthening the public health system,2020-09
+IDN,Indonesia,Asia,Public health measures,Other public health measures enforced,2020-09
+ITA,Italy,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-01
+ITA,Italy,Europe,Public health measures,Health screenings in airports and border crossings,2020-01
+ITA,Italy,Europe,Public health measures,Awareness campaigns,2020-01
+ITA,Italy,Europe,Governance and socio-economic measures,State of emergency declared,2020-01
+ITA,Italy,Europe,Movement restrictions,International flights suspension,2020-01
+ITA,Italy,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02
+ITA,Italy,Europe,Social distancing,Schools closure,2020-02
+ITA,Italy,Europe,Public health measures,Isolation and quarantine policies,2020-02
+ITA,Italy,Europe,Social distancing,Closure of businesses and public services,2020-02
+ITA,Italy,Europe,Movement restrictions,Checkpoints within the country,2020-03
+ITA,Italy,Europe,Public health measures,Mass population testing,2020-03
+ITA,Italy,Europe,Lockdown,Partial lockdown,2020-03
+ITA,Italy,Europe,Social distancing,Limit public gatherings,2020-03
+ITA,Italy,Europe,Movement restrictions,Border closure,2020-03
+ITA,Italy,Europe,Social distancing,Closure of businesses and public services,2020-03
+ITA,Italy,Europe,Movement restrictions,Additional health/documents requirements upon arrival,2020-03
+ITA,Italy,Europe,Governance and socio-economic measures,Limit product imports/exports,2020-03
+ITA,Italy,Europe,Movement restrictions,International flights suspension,2020-03
+ITA,Italy,Europe,Public health measures,Strengthening the public health system,2020-03
+ITA,Italy,Europe,Social distancing,Changes in prison-related policies,2020-03
+ITA,Italy,Europe,Governance and socio-economic measures,Economic measures,2020-03
+ITA,Italy,Europe,Governance and socio-economic measures,Military deployment,2020-03
+ITA,Italy,Europe,Lockdown,Full lockdown,2020-03
+ITA,Italy,Europe,Movement restrictions,Domestic travel restrictions,2020-03
+ITA,Italy,Europe,Public health measures,Other public health measures enforced,2020-03
+ITA,Italy,Europe,Public health measures,Psychological assistance and medical social work,2020-03
+ITA,Italy,Europe,Public health measures,General recommendations,2020-03
+ITA,Italy,Europe,Movement restrictions,Border checks,2020-03
+ITA,Italy,Europe,Public health measures,Strengthening the public health system,2020-04
+ITA,Italy,Europe,Public health measures,Testing policy,2020-04
+ITA,Italy,Europe,Public health measures,Health screenings in airports and border crossings,2020-04
+ITA,Italy,Europe,Governance and socio-economic measures,Economic measures,2020-04
+ITA,Italy,Europe,Public health measures,Other public health measures enforced,2020-04
+ITA,Italy,Europe,Public health measures,General recommendations,2020-04
+ITA,Italy,Europe,Governance and socio-economic measures,Military deployment,2020-04
+ITA,Italy,Europe,Public health measures,Psychological assistance and medical social work,2020-04
+ITA,Italy,Europe,Movement restrictions,Checkpoints within the country,2020-04
+ITA,Italy,Europe,Movement restrictions,Surveillance and monitoring,2020-04
+ITA,Italy,Europe,Lockdown,Full lockdown,2020-04
+ITA,Italy,Europe,Social distancing,Closure of businesses and public services,2020-04
+ITA,Italy,Europe,Public health measures,Awareness campaigns,2020-04
+ITA,Italy,Europe,Social distancing,Schools closure,2020-04
+ITA,Italy,Europe,Social distancing,Limit public gatherings,2020-04
+ITA,Italy,Europe,Movement restrictions,Border checks,2020-04
+ITA,Italy,Europe,Movement restrictions,Domestic travel restrictions,2020-04
+ITA,Italy,Europe,Public health measures,Requirement to wear protective gear in public,2020-04
+ITA,Italy,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+ITA,Italy,Europe,Public health measures,Awareness campaigns,2020-05
+ITA,Italy,Europe,Social distancing,Limit public gatherings,2020-05
+ITA,Italy,Europe,Lockdown,Partial lockdown,2020-05
+ITA,Italy,Europe,Social distancing,Closure of businesses and public services,2020-05
+ITA,Italy,Europe,Movement restrictions,Domestic travel restrictions,2020-05
+ITA,Italy,Europe,Lockdown,Full lockdown,2020-05
+ITA,Italy,Europe,Public health measures,Amendments to funeral and burial regulations,2020-05
+ITA,Italy,Europe,Public health measures,Isolation and quarantine policies,2020-05
+ITA,Italy,Europe,Public health measures,Requirement to wear protective gear in public,2020-05
+ITA,Italy,Europe,Social distancing,Schools closure,2020-05
+ITA,Italy,Europe,Movement restrictions,Checkpoints within the country,2020-05
+ITA,Italy,Europe,Public health measures,Testing policy,2020-05
+ITA,Italy,Europe,Movement restrictions,Surveillance and monitoring,2020-05
+ITA,Italy,Europe,Public health measures,General recommendations,2020-05
+ITA,Italy,Europe,Public health measures,Strengthening the public health system,2020-05
+ITA,Italy,Europe,Public health measures,Other public health measures enforced,2020-05
+ITA,Italy,Europe,Governance and socio-economic measures,Military deployment,2020-05
+ITA,Italy,Europe,Governance and socio-economic measures,Economic measures,2020-05
+ITA,Italy,Europe,Movement restrictions,Surveillance and monitoring,2020-06
+ITA,Italy,Europe,Governance and socio-economic measures,Economic measures,2020-06
+ITA,Italy,Europe,Movement restrictions,Border closure,2020-06
+ITA,Italy,Europe,Movement restrictions,Domestic travel restrictions,2020-06
+ITA,Italy,Europe,Social distancing,Closure of businesses and public services,2020-06
+ITA,Italy,Europe,Social distancing,Limit public gatherings,2020-06
+ITA,Italy,Europe,Public health measures,Strengthening the public health system,2020-06
+ITA,Italy,Europe,Movement restrictions,Visa restrictions,2020-07
+ITA,Italy,Europe,Movement restrictions,Surveillance and monitoring,2020-07
+ITA,Italy,Europe,Public health measures,Isolation and quarantine policies,2020-07
+ITA,Italy,Europe,Public health measures,Requirement to wear protective gear in public,2020-08
+ITA,Italy,Europe,Public health measures,Other public health measures enforced,2020-08
+ITA,Italy,Europe,Public health measures,Testing policy,2020-08
+ITA,Italy,Europe,Movement restrictions,Border closure,2020-08
+ITA,Italy,Europe,Social distancing,Closure of businesses and public services,2020-08
+ITA,Italy,Europe,Social distancing,Closure of businesses and public services,2020-09
+ITA,Italy,Europe,Social distancing,Limit public gatherings,2020-09
+ITA,Italy,Europe,Movement restrictions,Additional health/documents requirements upon arrival,2020-09
+ITA,Italy,Europe,Movement restrictions,Border closure,2020-09
+ITA,Italy,Europe,Public health measures,Requirement to wear protective gear in public,2020-09
+ITA,Italy,Europe,Public health measures,Testing policy,2020-10
+ITA,Italy,Europe,Governance and socio-economic measures,State of emergency declared,2020-10
+JPN,Japan,Asia,Public health measures,Strengthening the public health system,2020-01
+JPN,Japan,Asia,Movement restrictions,International flights suspension,2020-02
+JPN,Japan,Asia,Public health measures,Isolation and quarantine policies,2020-02
+JPN,Japan,Asia,Public health measures,Strengthening the public health system,2020-02
+JPN,Japan,Asia,Public health measures,General recommendations,2020-02
+JPN,Japan,Asia,Public health measures,Awareness campaigns,2020-02
+JPN,Japan,Asia,Public health measures,Psychological assistance and medical social work,2020-02
+JPN,Japan,Asia,Social distancing,Limit public gatherings,2020-02
+JPN,Japan,Asia,Movement restrictions,Surveillance and monitoring,2020-02
+JPN,Japan,Asia,Public health measures,General recommendations,2020-03
+JPN,Japan,Asia,Social distancing,Limit public gatherings,2020-03
+JPN,Japan,Asia,Public health measures,Strengthening the public health system,2020-03
+JPN,Japan,Asia,Governance and socio-economic measures,Economic measures,2020-03
+JPN,Japan,Asia,Public health measures,Isolation and quarantine policies,2020-03
+JPN,Japan,Asia,Movement restrictions,Visa restrictions,2020-03
+JPN,Japan,Asia,Public health measures,Health screenings in airports and border crossings,2020-03
+JPN,Japan,Asia,Social distancing,Schools closure,2020-03
+JPN,Japan,Asia,Movement restrictions,International flights suspension,2020-03
+JPN,Japan,Asia,Movement restrictions,Visa restrictions,2020-04
+JPN,Japan,Asia,Public health measures,Isolation and quarantine policies,2020-04
+JPN,Japan,Asia,Governance and socio-economic measures,State of emergency declared,2020-04
+JPN,Japan,Asia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+JPN,Japan,Asia,Movement restrictions,International flights suspension,2020-04
+JPN,Japan,Asia,Governance and socio-economic measures,State of emergency declared,2020-05
+JPN,Japan,Asia,Public health measures,Other public health measures enforced,2020-05
+JPN,Japan,Asia,Governance and socio-economic measures,Economic measures,2020-05
+JPN,Japan,Asia,Lockdown,Partial lockdown,2020-05
+JPN,Japan,Asia,Social distancing,Schools closure,2020-05
+JPN,Japan,Asia,Movement restrictions,Surveillance and monitoring,2020-05
+JPN,Japan,Asia,Movement restrictions,Visa restrictions,2020-05
+JPN,Japan,Asia,Public health measures,Requirement to wear protective gear in public,2020-05
+JPN,Japan,Asia,Public health measures,Isolation and quarantine policies,2020-05
+JPN,Japan,Asia,Social distancing,Limit public gatherings,2020-05
+JPN,Japan,Asia,Public health measures,General recommendations,2020-05
+JPN,Japan,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-05
+JPN,Japan,Asia,Public health measures,Testing policy,2020-05
+JPN,Japan,Asia,Social distancing,Closure of businesses and public services,2020-05
+JPN,Japan,Asia,Movement restrictions,Domestic travel restrictions,2020-05
+JPN,Japan,Asia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+JPN,Japan,Asia,Movement restrictions,Border closure,2020-05
+JPN,Japan,Asia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06
+JPN,Japan,Asia,Movement restrictions,Visa restrictions,2020-06
+JPN,Japan,Asia,Movement restrictions,Border closure,2020-06
+JPN,Japan,Asia,Movement restrictions,Surveillance and monitoring,2020-06
+JPN,Japan,Asia,Public health measures,Strengthening the public health system,2020-06
+JPN,Japan,Asia,Public health measures,Isolation and quarantine policies,2020-06
+JPN,Japan,Asia,Public health measures,Awareness campaigns,2020-06
+JPN,Japan,Asia,Governance and socio-economic measures,Economic measures,2020-06
+JPN,Japan,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-07
+JPN,Japan,Asia,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-07
+JPN,Japan,Asia,Movement restrictions,Visa restrictions,2020-07
+JPN,Japan,Asia,Public health measures,Health screenings in airports and border crossings,2020-07
+JPN,Japan,Asia,Public health measures,Strengthening the public health system,2020-07
+JPN,Japan,Asia,Movement restrictions,International flights suspension,2020-07
+JPN,Japan,Asia,Public health measures,Health screenings in airports and border crossings,2020-08
+JPN,Japan,Asia,Movement restrictions,Visa restrictions,2020-08
+JPN,Japan,Asia,Movement restrictions,Border closure,2020-09
+JPN,Japan,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-09
+JPN,Japan,Asia,Social distancing,Limit public gatherings,2020-09
+JPN,Japan,Asia,Movement restrictions,Visa restrictions,2020-09
+JPN,Japan,Asia,Movement restrictions,Border closure,2020-10
+JPN,Japan,Asia,Public health measures,Testing policy,2020-10
+MEX,Mexico,North America,Social distancing,Closure of businesses and public services,2020-03
+MEX,Mexico,North America,Social distancing,Limit public gatherings,2020-03
+MEX,Mexico,North America,Social distancing,Schools closure,2020-03
+MEX,Mexico,North America,Movement restrictions,Border closure,2020-03
+MEX,Mexico,North America,Public health measures,General recommendations,2020-03
+MEX,Mexico,North America,Public health measures,Awareness campaigns,2020-03
+MEX,Mexico,North America,Public health measures,Strengthening the public health system,2020-03
+MEX,Mexico,North America,Movement restrictions,International flights suspension,2020-03
+MEX,Mexico,North America,Governance and socio-economic measures,State of emergency declared,2020-03
+MEX,Mexico,North America,Lockdown,Partial lockdown,2020-03
+MEX,Mexico,North America,Public health measures,Requirement to wear protective gear in public,2020-03
+MEX,Mexico,North America,Social distancing,Limit public gatherings,2020-04
+MEX,Mexico,North America,Governance and socio-economic measures,Military deployment,2020-04
+MEX,Mexico,North America,Public health measures,Requirement to wear protective gear in public,2020-04
+MEX,Mexico,North America,Movement restrictions,Border closure,2020-04
+MEX,Mexico,North America,Social distancing,Schools closure,2020-04
+MEX,Mexico,North America,Public health measures,Strengthening the public health system,2020-04
+MEX,Mexico,North America,Movement restrictions,Domestic travel restrictions,2020-04
+MEX,Mexico,North America,Movement restrictions,Curfews,2020-04
+MEX,Mexico,North America,Public health measures,Health screenings in airports and border crossings,2020-04
+MEX,Mexico,North America,Public health measures,Isolation and quarantine policies,2020-04
+MEX,Mexico,North America,Public health measures,Awareness campaigns,2020-04
+MEX,Mexico,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+MEX,Mexico,North America,Lockdown,Partial lockdown,2020-04
+MEX,Mexico,North America,Public health measures,Requirement to wear protective gear in public,2020-05
+MEX,Mexico,North America,Movement restrictions,Domestic travel restrictions,2020-05
+MEX,Mexico,North America,Movement restrictions,Checkpoints within the country,2020-05
+MEX,Mexico,North America,Movement restrictions,Curfews,2020-05
+MEX,Mexico,North America,Social distancing,Closure of businesses and public services,2020-05
+MEX,Mexico,North America,Governance and socio-economic measures,Economic measures,2020-05
+MEX,Mexico,North America,Public health measures,Psychological assistance and medical social work,2020-05
+MEX,Mexico,North America,Movement restrictions,Border closure,2020-05
+MEX,Mexico,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+MEX,Mexico,North America,Public health measures,Other public health measures enforced,2020-05
+MEX,Mexico,North America,Social distancing,Changes in prison-related policies,2020-05
+MEX,Mexico,North America,Social distancing,Limit public gatherings,2020-06
+MEX,Mexico,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06
+MEX,Mexico,North America,Social distancing,Closure of businesses and public services,2020-06
+MEX,Mexico,North America,Governance and socio-economic measures,Economic measures,2020-06
+MEX,Mexico,North America,Movement restrictions,Domestic travel restrictions,2020-06
+MEX,Mexico,North America,Public health measures,General recommendations,2020-06
+MEX,Mexico,North America,Movement restrictions,Border closure,2020-06
+MEX,Mexico,North America,Public health measures,Testing policy,2020-06
+MEX,Mexico,North America,Movement restrictions,Surveillance and monitoring,2020-06
+MEX,Mexico,North America,Public health measures,Strengthening the public health system,2020-06
+MEX,Mexico,North America,Movement restrictions,Curfews,2020-06
+MEX,Mexico,North America,Humanitarian exemption,Humanitarian exemptions,2020-06
+MEX,Mexico,North America,Public health measures,Requirement to wear protective gear in public,2020-06
+MEX,Mexico,North America,Movement restrictions,Border closure,2020-07
+MEX,Mexico,North America,Social distancing,Closure of businesses and public services,2020-07
+MEX,Mexico,North America,Movement restrictions,Additional health/documents requirements upon arrival,2020-07
+MEX,Mexico,North America,Public health measures,Isolation and quarantine policies,2020-07
+MEX,Mexico,North America,Public health measures,Mass population testing,2020-07
+MEX,Mexico,North America,Lockdown,Partial lockdown,2020-07
+MEX,Mexico,North America,Public health measures,Awareness campaigns,2020-07
+MEX,Mexico,North America,Social distancing,Limit public gatherings,2020-07
+MEX,Mexico,North America,Movement restrictions,Surveillance and monitoring,2020-07
+MEX,Mexico,North America,Movement restrictions,Curfews,2020-07
+MEX,Mexico,North America,Social distancing,Closure of businesses and public services,2020-08
+MEX,Mexico,North America,Public health measures,Strengthening the public health system,2020-08
+MEX,Mexico,North America,Movement restrictions,Border closure,2020-08
+MEX,Mexico,North America,Public health measures,Requirement to wear protective gear in public,2020-08
+MEX,Mexico,North America,Governance and socio-economic measures,Economic measures,2020-08
+MEX,Mexico,North America,Public health measures,Other public health measures enforced,2020-08
+MEX,Mexico,North America,Social distancing,Closure of businesses and public services,2020-09
+MEX,Mexico,North America,Public health measures,General recommendations,2020-09
+MEX,Mexico,North America,Social distancing,Limit public gatherings,2020-09
+MEX,Mexico,North America,Public health measures,Health screenings in airports and border crossings,2020-09
+MEX,Mexico,North America,Movement restrictions,Border closure,2020-09
+MEX,Mexico,North America,Social distancing,Closure of businesses and public services,2020-10
+MEX,Mexico,North America,Movement restrictions,Border closure,2020-10
+MEX,Mexico,North America,Movement restrictions,Border closure,2020-11
+MEX,Mexico,North America,Public health measures,Strengthening the public health system,2020-11
+MEX,Mexico,North America,Social distancing,Closure of businesses and public services,2020-12
+MEX,Mexico,North America,Public health measures,Requirement to wear protective gear in public,2020-12
+MEX,Mexico,North America,Public health measures,General recommendations,2020-12
+RUS,Russia,Europe,Public health measures,Health screenings in airports and border crossings,2020-01
+RUS,Russia,Europe,Public health measures,Isolation and quarantine policies,2020-03
+RUS,Russia,Europe,Movement restrictions,Visa restrictions,2020-03
+RUS,Russia,Europe,Movement restrictions,International flights suspension,2020-03
+RUS,Russia,Europe,Social distancing,Limit public gatherings,2020-03
+RUS,Russia,Europe,Movement restrictions,Border closure,2020-03
+RUS,Russia,Europe,Movement restrictions,Border checks,2020-03
+RUS,Russia,Europe,Public health measures,Strengthening the public health system,2020-03
+RUS,Russia,Europe,Social distancing,Closure of businesses and public services,2020-03
+RUS,Russia,Europe,Lockdown,Partial lockdown,2020-03
+RUS,Russia,Europe,Governance and socio-economic measures,Economic measures,2020-03
+RUS,Russia,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+RUS,Russia,Europe,Public health measures,Isolation and quarantine policies,2020-04
+RUS,Russia,Europe,Social distancing,Closure of businesses and public services,2020-04
+RUS,Russia,Europe,Governance and socio-economic measures,Military deployment,2020-04
+RUS,Russia,Europe,Movement restrictions,Curfews,2020-04
+RUS,Russia,Europe,Movement restrictions,Domestic travel restrictions,2020-04
+RUS,Russia,Europe,Public health measures,Strengthening the public health system,2020-04
+RUS,Russia,Europe,Social distancing,Limit public gatherings,2020-04
+RUS,Russia,Europe,Public health measures,Other public health measures enforced,2020-04
+RUS,Russia,Europe,Movement restrictions,Border checks,2020-04
+RUS,Russia,Europe,Movement restrictions,Visa restrictions,2020-04
+RUS,Russia,Europe,Movement restrictions,Visa restrictions,2020-05
+RUS,Russia,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+RUS,Russia,Europe,Governance and socio-economic measures,Economic measures,2020-05
+RUS,Russia,Europe,Lockdown,Partial lockdown,2020-05
+RUS,Russia,Europe,Public health measures,Requirement to wear protective gear in public,2020-05
+RUS,Russia,Europe,Public health measures,Strengthening the public health system,2020-05
+RUS,Russia,Europe,Movement restrictions,Domestic travel restrictions,2020-06
+RUS,Russia,Europe,Social distancing,Closure of businesses and public services,2020-06
+RUS,Russia,Europe,Public health measures,Strengthening the public health system,2020-06
+RUS,Russia,Europe,Movement restrictions,Visa restrictions,2020-06
+RUS,Russia,Europe,Public health measures,Isolation and quarantine policies,2020-06
+RUS,Russia,Europe,Social distancing,Limit public gatherings,2020-06
+RUS,Russia,Europe,Movement restrictions,Border closure,2020-06
+RUS,Russia,Europe,Social distancing,Closure of businesses and public services,2020-07
+RUS,Russia,Europe,Public health measures,Isolation and quarantine policies,2020-07
+RUS,Russia,Europe,Public health measures,Testing policy,2020-07
+RUS,Russia,Europe,Governance and socio-economic measures,Economic measures,2020-07
+RUS,Russia,Europe,Movement restrictions,International flights suspension,2020-07
+RUS,Russia,Europe,Public health measures,Requirement to wear protective gear in public,2020-07
+RUS,Russia,Europe,Movement restrictions,International flights suspension,2020-08
+RUS,Russia,Europe,Public health measures,General recommendations,2020-08
+RUS,Russia,Europe,Public health measures,Strengthening the public health system,2020-08
+RUS,Russia,Europe,Public health measures,Other public health measures enforced,2020-08
+RUS,Russia,Europe,Movement restrictions,Border closure,2020-08
+RUS,Russia,Europe,Movement restrictions,Domestic travel restrictions,2020-08
+RUS,Russia,Europe,Public health measures,Mass population testing,2020-08
+RUS,Russia,Europe,Movement restrictions,Visa restrictions,2020-08
+RUS,Russia,Europe,Social distancing,Schools closure,2020-09
+RUS,Russia,Europe,Public health measures,Requirement to wear protective gear in public,2020-09
+RUS,Russia,Europe,Public health measures,General recommendations,2020-09
+RUS,Russia,Europe,Movement restrictions,International flights suspension,2020-09
+RUS,Russia,Europe,Movement restrictions,Border closure,2020-09
+RUS,Russia,Europe,Public health measures,Strengthening the public health system,2020-09
+RUS,Russia,Europe,Public health measures,Isolation and quarantine policies,2020-09
+RUS,Russia,Europe,Social distancing,Closure of businesses and public services,2020-09
+RUS,Russia,Europe,Public health measures,Other public health measures enforced,2020-09
+RUS,Russia,Europe,Public health measures,Other public health measures enforced,2020-10
+RUS,Russia,Europe,Movement restrictions,International flights suspension,2020-10
+RUS,Russia,Europe,Social distancing,Closure of businesses and public services,2020-10
+RUS,Russia,Europe,Social distancing,Schools closure,2020-10
+RUS,Russia,Europe,Movement restrictions,Domestic travel restrictions,2020-10
+RUS,Russia,Europe,Public health measures,General recommendations,2020-10
+RUS,Russia,Europe,Public health measures,Requirement to wear protective gear in public,2020-10
+RUS,Russia,Europe,Public health measures,Strengthening the public health system,2020-10
+RUS,Russia,Europe,Social distancing,Schools closure,2020-11
+RUS,Russia,Europe,Public health measures,Other public health measures enforced,2020-11
+RUS,Russia,Europe,Public health measures,Strengthening the public health system,2020-11
+RUS,Russia,Europe,Social distancing,Closure of businesses and public services,2020-11
+RUS,Russia,Europe,Movement restrictions,International flights suspension,2020-11
+RUS,Russia,Europe,Governance and socio-economic measures,Economic measures,2020-11
+RUS,Russia,Europe,Lockdown,Partial lockdown,2020-11
+RUS,Russia,Europe,Public health measures,General recommendations,2020-11
+RUS,Russia,Europe,Social distancing,Limit public gatherings,2020-11
+RUS,Russia,Europe,Social distancing,Limit public gatherings,2020-12
+SAU,Saudi Arabia,Asia,Social distancing,Closure of businesses and public services,2020-02
+SAU,Saudi Arabia,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-03
+SAU,Saudi Arabia,Asia,Movement restrictions,Visa restrictions,2020-03
+SAU,Saudi Arabia,Asia,Movement restrictions,Border closure,2020-03
+SAU,Saudi Arabia,Asia,Movement restrictions,International flights suspension,2020-03
+SAU,Saudi Arabia,Asia,Social distancing,Schools closure,2020-03
+SAU,Saudi Arabia,Asia,Public health measures,Awareness campaigns,2020-03
+SAU,Saudi Arabia,Asia,Social distancing,Limit public gatherings,2020-03
+SAU,Saudi Arabia,Asia,Social distancing,Closure of businesses and public services,2020-03
+SAU,Saudi Arabia,Asia,Movement restrictions,Curfews,2020-03
+SAU,Saudi Arabia,Asia,Lockdown,Partial lockdown,2020-03
+SAU,Saudi Arabia,Asia,Movement restrictions,Domestic travel restrictions,2020-03
+SAU,Saudi Arabia,Asia,Movement restrictions,Curfews,2020-04
+SAU,Saudi Arabia,Asia,Lockdown,Partial lockdown,2020-04
+SAU,Saudi Arabia,Asia,Movement restrictions,Domestic travel restrictions,2020-04
+SAU,Saudi Arabia,Asia,Lockdown,Partial lockdown,2020-05
+SAU,Saudi Arabia,Asia,Movement restrictions,Domestic travel restrictions,2020-05
+SAU,Saudi Arabia,Asia,Movement restrictions,Curfews,2020-05
+SAU,Saudi Arabia,Asia,Movement restrictions,Domestic travel restrictions,2020-06
+SAU,Saudi Arabia,Asia,Public health measures,Requirement to wear protective gear in public,2020-06
+SAU,Saudi Arabia,Asia,Movement restrictions,Curfews,2020-06
+SAU,Saudi Arabia,Asia,Social distancing,Closure of businesses and public services,2020-06
+SAU,Saudi Arabia,Asia,Public health measures,General recommendations,2020-06
+SAU,Saudi Arabia,Asia,Movement restrictions,Border closure,2020-06
+SAU,Saudi Arabia,Asia,Public health measures,Isolation and quarantine policies,2020-07
+SAU,Saudi Arabia,Asia,Public health measures,Testing policy,2020-07
+SAU,Saudi Arabia,Asia,Public health measures,Requirement to wear protective gear in public,2020-07
+SAU,Saudi Arabia,Asia,Social distancing,Limit public gatherings,2020-07
+SAU,Saudi Arabia,Asia,Movement restrictions,Border closure,2020-08
+SAU,Saudi Arabia,Asia,Public health measures,Awareness campaigns,2020-08
+SAU,Saudi Arabia,Asia,Public health measures,Strengthening the public health system,2020-08
+SAU,Saudi Arabia,Asia,Social distancing,Schools closure,2020-08
+SAU,Saudi Arabia,Asia,Public health measures,Other public health measures enforced,2020-08
+SAU,Saudi Arabia,Asia,Public health measures,General recommendations,2020-08
+SAU,Saudi Arabia,Asia,Public health measures,Strengthening the public health system,2020-09
+SAU,Saudi Arabia,Asia,Public health measures,Awareness campaigns,2020-09
+SAU,Saudi Arabia,Asia,Social distancing,Limit public gatherings,2020-10
+SAU,Saudi Arabia,Asia,Public health measures,General recommendations,2020-10
+SAU,Saudi Arabia,Asia,Public health measures,Strengthening the public health system,2020-10
+SAU,Saudi Arabia,Asia,Public health measures,General recommendations,2020-11
+SAU,Saudi Arabia,Asia,Public health measures,Awareness campaigns,2020-11
+SAU,Saudi Arabia,Asia,Movement restrictions,Surveillance and monitoring,2020-11
+SAU,Saudi Arabia,Asia,Public health measures,Testing policy,2020-12
+SAU,Saudi Arabia,Asia,Movement restrictions,Additional health/documents requirements upon arrival,2020-12
+SAU,Saudi Arabia,Asia,Movement restrictions,Visa restrictions,2020-12
+ZAF,South Africa,Africa,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03
+ZAF,South Africa,Africa,Social distancing,Limit public gatherings,2020-03
+ZAF,South Africa,Africa,Governance and socio-economic measures,State of emergency declared,2020-03
+ZAF,South Africa,Africa,Movement restrictions,Border closure,2020-03
+ZAF,South Africa,Africa,Movement restrictions,Visa restrictions,2020-03
+ZAF,South Africa,Africa,Social distancing,Schools closure,2020-03
+ZAF,South Africa,Africa,Public health measures,Testing policy,2020-03
+ZAF,South Africa,Africa,Social distancing,Closure of businesses and public services,2020-03
+ZAF,South Africa,Africa,Public health measures,Health screenings in airports and border crossings,2020-03
+ZAF,South Africa,Africa,Governance and socio-economic measures,Economic measures,2020-03
+ZAF,South Africa,Africa,Governance and socio-economic measures,Military deployment,2020-03
+ZAF,South Africa,Africa,Lockdown,Full lockdown,2020-03
+ZAF,South Africa,Africa,Public health measures,Isolation and quarantine policies,2020-03
+ZAF,South Africa,Africa,Movement restrictions,International flights suspension,2020-03
+ZAF,South Africa,Africa,Public health measures,Mass population testing,2020-03
+ZAF,South Africa,Africa,Social distancing,Limit public gatherings,2020-04
+ZAF,South Africa,Africa,Public health measures,General recommendations,2020-04
+ZAF,South Africa,Africa,Lockdown,Full lockdown,2020-04
+ZAF,South Africa,Africa,Public health measures,Strengthening the public health system,2020-04
+ZAF,South Africa,Africa,Governance and socio-economic measures,Military deployment,2020-04
+ZAF,South Africa,Africa,Governance and socio-economic measures,Economic measures,2020-04
+ZAF,South Africa,Africa,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+ZAF,South Africa,Africa,Lockdown,Full lockdown,2020-05
+ZAF,South Africa,Africa,Movement restrictions,Border closure,2020-05
+ZAF,South Africa,Africa,Public health measures,General recommendations,2020-05
+ZAF,South Africa,Africa,Public health measures,Other public health measures enforced,2020-05
+ZAF,South Africa,Africa,Public health measures,Isolation and quarantine policies,2020-05
+ZAF,South Africa,Africa,Social distancing,Closure of businesses and public services,2020-05
+ZAF,South Africa,Africa,Movement restrictions,Curfews,2020-05
+ZAF,South Africa,Africa,Social distancing,Limit public gatherings,2020-05
+ZAF,South Africa,Africa,Movement restrictions,Domestic travel restrictions,2020-05
+ZAF,South Africa,Africa,Governance and socio-economic measures,Economic measures,2020-05
+ZAF,South Africa,Africa,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+ZAF,South Africa,Africa,Social distancing,Changes in prison-related policies,2020-05
+ZAF,South Africa,Africa,Public health measures,Psychological assistance and medical social work,2020-05
+ZAF,South Africa,Africa,Social distancing,Closure of businesses and public services,2020-06
+ZAF,South Africa,Africa,Social distancing,Schools closure,2020-06
+ZAF,South Africa,Africa,Public health measures,Other public health measures enforced,2020-06
+ZAF,South Africa,Africa,Movement restrictions,Domestic travel restrictions,2020-06
+ZAF,South Africa,Africa,Movement restrictions,Curfews,2020-06
+ZAF,South Africa,Africa,Social distancing,Limit public gatherings,2020-06
+ZAF,South Africa,Africa,Public health measures,General recommendations,2020-06
+ZAF,South Africa,Africa,Movement restrictions,Border closure,2020-06
+ZAF,South Africa,Africa,Lockdown,Partial lockdown,2020-06
+ZAF,South Africa,Africa,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06
+ZAF,South Africa,Africa,Social distancing,Schools closure,2020-07
+TUR,Turkey,Asia,Public health measures,Health screenings in airports and border crossings,2020-01
+TUR,Turkey,Asia,Movement restrictions,International flights suspension,2020-02
+TUR,Turkey,Asia,Public health measures,Isolation and quarantine policies,2020-02
+TUR,Turkey,Asia,Movement restrictions,Border checks,2020-02
+TUR,Turkey,Asia,Public health measures,Health screenings in airports and border crossings,2020-03
+TUR,Turkey,Asia,Social distancing,Schools closure,2020-03
+TUR,Turkey,Asia,Movement restrictions,International flights suspension,2020-03
+TUR,Turkey,Asia,Social distancing,Limit public gatherings,2020-03
+TUR,Turkey,Asia,Movement restrictions,Border closure,2020-03
+TUR,Turkey,Asia,Lockdown,Partial lockdown,2020-03
+TUR,Turkey,Asia,Movement restrictions,Curfews,2020-03
+TUR,Turkey,Asia,Social distancing,Closure of businesses and public services,2020-03
+TUR,Turkey,Asia,Movement restrictions,Domestic travel restrictions,2020-03
+TUR,Turkey,Asia,Public health measures,Awareness campaigns,2020-03
+TUR,Turkey,Asia,Movement restrictions,Visa restrictions,2020-04
+TUR,Turkey,Asia,Movement restrictions,Domestic travel restrictions,2020-04
+TUR,Turkey,Asia,Movement restrictions,Curfews,2020-04
+TUR,Turkey,Asia,Public health measures,Amendments to funeral and burial regulations,2020-04
+TUR,Turkey,Asia,Public health measures,Other public health measures enforced,2020-04
+TUR,Turkey,Asia,Social distancing,Limit public gatherings,2020-04
+TUR,Turkey,Asia,Movement restrictions,Curfews,2020-05
+TUR,Turkey,Asia,Movement restrictions,International flights suspension,2020-05
+TUR,Turkey,Asia,Movement restrictions,Domestic travel restrictions,2020-05
+TUR,Turkey,Asia,Social distancing,Closure of businesses and public services,2020-05
+TUR,Turkey,Asia,Lockdown,Partial lockdown,2020-05
+TUR,Turkey,Asia,Lockdown,Full lockdown,2020-05
+TUR,Turkey,Asia,Social distancing,Limit public gatherings,2020-05
+TUR,Turkey,Asia,Movement restrictions,Domestic travel restrictions,2020-06
+TUR,Turkey,Asia,Movement restrictions,International flights suspension,2020-06
+TUR,Turkey,Asia,Movement restrictions,Border closure,2020-06
+TUR,Turkey,Asia,Social distancing,Schools closure,2020-06
+TUR,Turkey,Asia,Movement restrictions,International flights suspension,2020-07
+TUR,Turkey,Asia,Public health measures,Requirement to wear protective gear in public,2020-07
+TUR,Turkey,Asia,Movement restrictions,International flights suspension,2020-08
+TUR,Turkey,Asia,Movement restrictions,Surveillance and monitoring,2020-08
+TUR,Turkey,Asia,Public health measures,Isolation and quarantine policies,2020-08
+TUR,Turkey,Asia,Movement restrictions,Domestic travel restrictions,2020-08
+TUR,Turkey,Asia,Social distancing,Limit public gatherings,2020-08
+TUR,Turkey,Asia,Movement restrictions,Curfews,2020-08
+TUR,Turkey,Asia,Public health measures,Requirement to wear protective gear in public,2020-08
+TUR,Turkey,Asia,Public health measures,Health screenings in airports and border crossings,2020-08
+TUR,Turkey,Asia,Movement restrictions,Border closure,2020-08
+TUR,Turkey,Asia,Social distancing,Limit public gatherings,2020-09
+TUR,Turkey,Asia,Public health measures,Requirement to wear protective gear in public,2020-09
+TUR,Turkey,Asia,Public health measures,Other public health measures enforced,2020-09
+TUR,Turkey,Asia,Movement restrictions,Curfews,2020-09
+TUR,Turkey,Asia,Social distancing,Schools closure,2020-09
+TUR,Turkey,Asia,Movement restrictions,Surveillance and monitoring,2020-09
+TUR,Turkey,Asia,Social distancing,Schools closure,2020-10
+TUR,Turkey,Asia,Public health measures,Other public health measures enforced,2020-11
+TUR,Turkey,Asia,Movement restrictions,Curfews,2020-11
+TUR,Turkey,Asia,Movement restrictions,Domestic travel restrictions,2020-11
+TUR,Turkey,Asia,Public health measures,Requirement to wear protective gear in public,2020-11
+TUR,Turkey,Asia,Social distancing,Limit public gatherings,2020-11
+TUR,Turkey,Asia,Public health measures,Health screenings in airports and border crossings,2020-11
+TUR,Turkey,Asia,Social distancing,Closure of businesses and public services,2020-11
+TUR,Turkey,Asia,Social distancing,Schools closure,2020-11
+TUR,Turkey,Asia,Movement restrictions,Curfews,2020-12
+TUR,Turkey,Asia,Movement restrictions,Domestic travel restrictions,2020-12
+TUR,Turkey,Asia,Public health measures,Health screenings in airports and border crossings,2020-12
+TUR,Turkey,Asia,Public health measures,Testing policy,2020-12
+TUR,Turkey,Asia,Public health measures,Isolation and quarantine policies,2020-12
+GBR,United Kingdom,Europe,Public health measures,Strengthening the public health system,2020-03
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Economic measures,2020-03
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-03
+GBR,United Kingdom,Europe,Public health measures,General recommendations,2020-03
+GBR,United Kingdom,Europe,Public health measures,Testing policy,2020-03
+GBR,United Kingdom,Europe,Social distancing,Limit public gatherings,2020-03
+GBR,United Kingdom,Europe,Social distancing,Schools closure,2020-03
+GBR,United Kingdom,Europe,Social distancing,Changes in prison-related policies,2020-03
+GBR,United Kingdom,Europe,Public health measures,Amendments to funeral and burial regulations,2020-03
+GBR,United Kingdom,Europe,Movement restrictions,Surveillance and monitoring,2020-03
+GBR,United Kingdom,Europe,Lockdown,Partial lockdown,2020-03
+GBR,United Kingdom,Europe,Public health measures,Other public health measures enforced,2020-03
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Economic measures,2020-04
+GBR,United Kingdom,Europe,Public health measures,Other public health measures enforced,2020-04
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-04
+GBR,United Kingdom,Europe,Public health measures,Awareness campaigns,2020-04
+GBR,United Kingdom,Europe,Movement restrictions,Surveillance and monitoring,2020-04
+GBR,United Kingdom,Europe,Lockdown,Partial lockdown,2020-04
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Economic measures,2020-05
+GBR,United Kingdom,Europe,Social distancing,Changes in prison-related policies,2020-05
+GBR,United Kingdom,Europe,Public health measures,General recommendations,2020-05
+GBR,United Kingdom,Europe,Social distancing,Limit public gatherings,2020-05
+GBR,United Kingdom,Europe,Public health measures,Strengthening the public health system,2020-05
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+GBR,United Kingdom,Europe,Public health measures,Other public health measures enforced,2020-05
+GBR,United Kingdom,Europe,Movement restrictions,Surveillance and monitoring,2020-05
+GBR,United Kingdom,Europe,Public health measures,Testing policy,2020-05
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-05
+GBR,United Kingdom,Europe,Public health measures,Isolation and quarantine policies,2020-05
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-06
+GBR,United Kingdom,Europe,Social distancing,Limit public gatherings,2020-06
+GBR,United Kingdom,Europe,Social distancing,Schools closure,2020-06
+GBR,United Kingdom,Europe,Public health measures,Awareness campaigns,2020-06
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Economic measures,2020-06
+GBR,United Kingdom,Europe,Public health measures,Psychological assistance and medical social work,2020-06
+GBR,United Kingdom,Europe,Public health measures,Isolation and quarantine policies,2020-06
+GBR,United Kingdom,Europe,Movement restrictions,Border checks,2020-06
+GBR,United Kingdom,Europe,Public health measures,General recommendations,2020-06
+GBR,United Kingdom,Europe,Public health measures,Requirement to wear protective gear in public,2020-06
+GBR,United Kingdom,Europe,Public health measures,Other public health measures enforced,2020-06
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Economic measures,2020-07
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-07
+GBR,United Kingdom,Europe,Social distancing,Limit public gatherings,2020-07
+GBR,United Kingdom,Europe,Public health measures,Testing policy,2020-07
+GBR,United Kingdom,Europe,Movement restrictions,Domestic travel restrictions,2020-07
+GBR,United Kingdom,Europe,Public health measures,Isolation and quarantine policies,2020-07
+GBR,United Kingdom,Europe,Public health measures,Requirement to wear protective gear in public,2020-07
+GBR,United Kingdom,Europe,Public health measures,Other public health measures enforced,2020-07
+GBR,United Kingdom,Europe,Public health measures,Strengthening the public health system,2020-07
+GBR,United Kingdom,Europe,Social distancing,Changes in prison-related policies,2020-07
+GBR,United Kingdom,Europe,Movement restrictions,Surveillance and monitoring,2020-07
+GBR,United Kingdom,Europe,Public health measures,General recommendations,2020-07
+GBR,United Kingdom,Europe,Social distancing,Limit public gatherings,2020-08
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-08
+GBR,United Kingdom,Europe,Public health measures,General recommendations,2020-08
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Economic measures,2020-08
+GBR,United Kingdom,Europe,Movement restrictions,Domestic travel restrictions,2020-08
+GBR,United Kingdom,Europe,Public health measures,Isolation and quarantine policies,2020-08
+GBR,United Kingdom,Europe,Public health measures,Requirement to wear protective gear in public,2020-08
+GBR,United Kingdom,Europe,Social distancing,Schools closure,2020-08
+GBR,United Kingdom,Europe,Public health measures,Amendments to funeral and burial regulations,2020-08
+GBR,United Kingdom,Europe,Public health measures,Strengthening the public health system,2020-08
+GBR,United Kingdom,Europe,Social distancing,Limit public gatherings,2020-09
+GBR,United Kingdom,Europe,Public health measures,Isolation and quarantine policies,2020-09
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Economic measures,2020-09
+GBR,United Kingdom,Europe,Movement restrictions,Domestic travel restrictions,2020-09
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-09
+GBR,United Kingdom,Europe,Public health measures,Requirement to wear protective gear in public,2020-09
+GBR,United Kingdom,Europe,Public health measures,Awareness campaigns,2020-09
+GBR,United Kingdom,Europe,Public health measures,General recommendations,2020-09
+GBR,United Kingdom,Europe,Public health measures,Strengthening the public health system,2020-09
+GBR,United Kingdom,Europe,Movement restrictions,Surveillance and monitoring,2020-09
+GBR,United Kingdom,Europe,Social distancing,Limit public gatherings,2020-10
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-10
+GBR,United Kingdom,Europe,Public health measures,Requirement to wear protective gear in public,2020-10
+GBR,United Kingdom,Europe,Public health measures,Strengthening the public health system,2020-10
+GBR,United Kingdom,Europe,Public health measures,Other public health measures enforced,2020-10
+GBR,United Kingdom,Europe,Public health measures,Isolation and quarantine policies,2020-10
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Economic measures,2020-10
+GBR,United Kingdom,Europe,Public health measures,Amendments to funeral and burial regulations,2020-10
+GBR,United Kingdom,Europe,Public health measures,General recommendations,2020-10
+GBR,United Kingdom,Europe,Movement restrictions,Domestic travel restrictions,2020-10
+GBR,United Kingdom,Europe,Lockdown,Partial lockdown,2020-10
+GBR,United Kingdom,Europe,Social distancing,Schools closure,2020-10
+GBR,United Kingdom,Europe,Governance and socio-economic measures,Economic measures,2020-11
+GBR,United Kingdom,Europe,Public health measures,Isolation and quarantine policies,2020-11
+GBR,United Kingdom,Europe,Public health measures,General recommendations,2020-11
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-11
+GBR,United Kingdom,Europe,Public health measures,Requirement to wear protective gear in public,2020-11
+GBR,United Kingdom,Europe,Lockdown,Partial lockdown,2020-11
+GBR,United Kingdom,Europe,Social distancing,Limit public gatherings,2020-11
+GBR,United Kingdom,Europe,Movement restrictions,Domestic travel restrictions,2020-11
+GBR,United Kingdom,Europe,Public health measures,Amendments to funeral and burial regulations,2020-11
+GBR,United Kingdom,Europe,Movement restrictions,Visa restrictions,2020-11
+GBR,United Kingdom,Europe,Social distancing,Schools closure,2020-11
+GBR,United Kingdom,Europe,Public health measures,Testing policy,2020-11
+GBR,United Kingdom,Europe,Public health measures,Mass population testing,2020-11
+GBR,United Kingdom,Europe,Public health measures,Other public health measures enforced,2020-11
+GBR,United Kingdom,Europe,Public health measures,Strengthening the public health system,2020-12
+GBR,United Kingdom,Europe,Public health measures,Other public health measures enforced,2020-12
+GBR,United Kingdom,Europe,Public health measures,General recommendations,2020-12
+GBR,United Kingdom,Europe,Social distancing,Closure of businesses and public services,2020-12
+GBR,United Kingdom,Europe,Public health measures,Testing policy,2020-12
+GBR,United Kingdom,Europe,Social distancing,Limit public gatherings,2020-12
+USA,United States,North America,Public health measures,Psychological assistance and medical social work,2020-01
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-01
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-01
+USA,United States,North America,Public health measures,Awareness campaigns,2020-01
+USA,United States,North America,Governance and socio-economic measures,State of emergency declared,2020-01
+USA,United States,North America,Movement restrictions,Visa restrictions,2020-01
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-02
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-02
+USA,United States,North America,Movement restrictions,Surveillance and monitoring,2020-02
+USA,United States,North America,Public health measures,Awareness campaigns,2020-02
+USA,United States,North America,Governance and socio-economic measures,State of emergency declared,2020-03
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-03
+USA,United States,North America,Governance and socio-economic measures,Economic measures,2020-03
+USA,United States,North America,Public health measures,Awareness campaigns,2020-03
+USA,United States,North America,Public health measures,Testing policy,2020-03
+USA,United States,North America,Social distancing,Closure of businesses and public services,2020-03
+USA,United States,North America,Social distancing,Limit public gatherings,2020-03
+USA,United States,North America,Social distancing,Schools closure,2020-03
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-03
+USA,United States,North America,Public health measures,Health screenings in airports and border crossings,2020-03
+USA,United States,North America,Movement restrictions,Visa restrictions,2020-03
+USA,United States,North America,Public health measures,General recommendations,2020-03
+USA,United States,North America,Movement restrictions,Border closure,2020-03
+USA,United States,North America,Governance and socio-economic measures,Military deployment,2020-03
+USA,United States,North America,Public health measures,Other public health measures enforced,2020-03
+USA,United States,North America,Movement restrictions,Surveillance and monitoring,2020-03
+USA,United States,North America,Public health measures,Isolation and quarantine policies,2020-03
+USA,United States,North America,Public health measures,General recommendations,2020-04
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-04
+USA,United States,North America,Public health measures,Other public health measures enforced,2020-04
+USA,United States,North America,Public health measures,Awareness campaigns,2020-04
+USA,United States,North America,Governance and socio-economic measures,Economic measures,2020-04
+USA,United States,North America,Movement restrictions,Surveillance and monitoring,2020-04
+USA,United States,North America,Governance and socio-economic measures,Limit product imports/exports,2020-04
+USA,United States,North America,Public health measures,Testing policy,2020-04
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-04
+USA,United States,North America,Movement restrictions,Border closure,2020-04
+USA,United States,North America,Public health measures,Psychological assistance and medical social work,2020-04
+USA,United States,North America,Movement restrictions,Visa restrictions,2020-04
+USA,United States,North America,Governance and socio-economic measures,Economic measures,2020-05
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-05
+USA,United States,North America,Public health measures,Awareness campaigns,2020-05
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-05
+USA,United States,North America,Public health measures,Testing policy,2020-05
+USA,United States,North America,Public health measures,General recommendations,2020-05
+USA,United States,North America,Movement restrictions,Surveillance and monitoring,2020-06
+USA,United States,North America,Movement restrictions,Border checks,2020-06
+USA,United States,North America,Public health measures,Other public health measures enforced,2020-06
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-06
+USA,United States,North America,Governance and socio-economic measures,Economic measures,2020-06
+USA,United States,North America,Public health measures,Awareness campaigns,2020-06
+USA,United States,North America,Public health measures,Testing policy,2020-06
+USA,United States,North America,Public health measures,General recommendations,2020-06
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-06
+USA,United States,North America,Public health measures,Psychological assistance and medical social work,2020-06
+USA,United States,North America,Movement restrictions,Visa restrictions,2020-06
+USA,United States,North America,Governance and socio-economic measures,Economic measures,2020-07
+USA,United States,North America,Social distancing,Closure of businesses and public services,2020-07
+USA,United States,North America,Movement restrictions,Border closure,2020-07
+USA,United States,North America,Public health measures,Testing policy,2020-07
+USA,United States,North America,Public health measures,Isolation and quarantine policies,2020-07
+USA,United States,North America,Governance and socio-economic measures,Military deployment,2020-08
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-08
+USA,United States,North America,Public health measures,Isolation and quarantine policies,2020-08
+USA,United States,North America,Movement restrictions,Surveillance and monitoring,2020-08
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-08
+USA,United States,North America,Movement restrictions,Visa restrictions,2020-08
+USA,United States,North America,Movement restrictions,Border closure,2020-08
+USA,United States,North America,Public health measures,General recommendations,2020-08
+USA,United States,North America,Public health measures,Psychological assistance and medical social work,2020-08
+USA,United States,North America,Public health measures,Awareness campaigns,2020-08
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-09
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-09
+USA,United States,North America,Public health measures,General recommendations,2020-09
+USA,United States,North America,Movement restrictions,Surveillance and monitoring,2020-09
+USA,United States,North America,Movement restrictions,Visa restrictions,2020-09
+USA,United States,North America,Public health measures,Psychological assistance and medical social work,2020-09
+USA,United States,North America,Governance and socio-economic measures,Economic measures,2020-09
+USA,United States,North America,Movement restrictions,Border closure,2020-09
+USA,United States,North America,Governance and socio-economic measures,Economic measures,2020-10
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-10
+USA,United States,North America,Movement restrictions,Visa restrictions,2020-10
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-10
+USA,United States,North America,Public health measures,Awareness campaigns,2020-10
+USA,United States,North America,Public health measures,General recommendations,2020-10
+USA,United States,North America,Social distancing,Limit public gatherings,2020-10
+USA,United States,North America,Public health measures,Isolation and quarantine policies,2020-10
+USA,United States,North America,Public health measures,Mass population testing,2020-10
+USA,United States,North America,Movement restrictions,Border closure,2020-10
+USA,United States,North America,Public health measures,General recommendations,2020-11
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-11
+USA,United States,North America,Social distancing,Closure of businesses and public services,2020-11
+USA,United States,North America,Public health measures,Awareness campaigns,2020-11
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-11
+USA,United States,North America,Governance and socio-economic measures,Economic measures,2020-11
+USA,United States,North America,Public health measures,Other public health measures enforced,2020-11
+USA,United States,North America,Public health measures,Strengthening the public health system,2020-12
+USA,United States,North America,Public health measures,General recommendations,2020-12
+USA,United States,North America,Governance and socio-economic measures,Economic measures,2020-12
+USA,United States,North America,Governance and socio-economic measures,Emergency administrative structures activated or established,2020-12
