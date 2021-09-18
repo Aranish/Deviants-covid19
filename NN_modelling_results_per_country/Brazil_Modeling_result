@@ -1,0 +1,3297 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 500 -V 20 -S 0 -E 20 -H a
+Relation:     integrated_data-weka.filters.unsupervised.instance.SubsetByExpression-EATT1 is 'Brazil'
+Instances:    54
+Attributes:   13
+              COUNTRY
+              MAIN_MEASURES
+              STEPS_TAKEN
+              month_year
+              population
+              stringency_index
+              total_cases
+              total_deaths
+              total_tests
+              new_cases
+              new_deaths
+              partially_vaccinated
+              fully_vaccinated
+Test mode:    split 60.0% train, remainder test
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    -0.5517810463453798
+    Node 6    1.1442211411236558
+    Node 7    0.28845644390730396
+    Node 8    -0.024075508634690403
+    Node 9    1.7339545880032148
+    Node 10    0.9608143822582533
+    Node 11    0.802422176675459
+    Node 12    0.1711636000209855
+    Node 13    -0.1976884198405588
+    Node 14    -1.6963062698223483
+    Node 15    -0.18794816521043226
+    Node 16    1.1140199884891882
+    Node 17    -0.15826902825077874
+    Node 18    0.08548182233385128
+    Node 19    0.08784465025482568
+    Node 20    1.2973181886091605
+    Node 21    0.09106859410634534
+    Node 22    -1.133533079938815
+    Node 23    -0.9184855552710558
+    Node 24    -1.9057907479448006
+    Node 25    -0.7120024902609978
+    Node 26    -0.9652385812963176
+    Node 27    -0.3366848919581034
+    Node 28    -1.1856918113600927
+    Node 29    -1.6342121296358982
+    Node 30    -2.194629260119662
+    Node 31    -0.8592678425923275
+    Node 32    -0.022505076665858437
+    Node 33    0.2585487562995806
+    Node 34    -0.9502517981841822
+    Node 35    0.5190198717966814
+    Node 36    -1.381899741774261
+    Node 37    -0.8192347644929985
+    Node 38    2.0192258380481087
+    Node 39    0.4722893089851309
+    Node 40    -0.5786750808766334
+    Node 41    1.5973149982069461
+    Node 42    -0.2606321966208263
+    Node 43    -0.3742255783484874
+    Node 44    0.15350722134952352
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -0.8797690310173806
+    Node 6    -1.1771686210481713
+    Node 7    -1.8428313039596786
+    Node 8    -0.4158805092632833
+    Node 9    0.7106212833964045
+    Node 10    0.8192780268413147
+    Node 11    -2.432061312108755
+    Node 12    -0.20747302519129826
+    Node 13    -0.1857154748565665
+    Node 14    1.5867091511160185
+    Node 15    0.9408039838641326
+    Node 16    -1.9386357338485274
+    Node 17    -1.6618615827325254
+    Node 18    -0.4804667592160878
+    Node 19    -0.18946585676181146
+    Node 20    0.6493533190410978
+    Node 21    -0.1881594261906143
+    Node 22    0.8244069141060363
+    Node 23    0.04349426062331982
+    Node 24    0.4895946606530465
+    Node 25    0.20050588600237668
+    Node 26    0.8169223209331501
+    Node 27    0.4359215871519457
+    Node 28    0.31788658298737565
+    Node 29    1.2124161949969279
+    Node 30    -0.08738301393351917
+    Node 31    -0.8856109785464201
+    Node 32    -1.3741778472235102
+    Node 33    -0.9287240294783217
+    Node 34    0.20152989618429787
+    Node 35    0.41767068992403383
+    Node 36    1.8721915114787309
+    Node 37    0.8319059715802258
+    Node 38    -1.429672662511256
+    Node 39    0.4031348942001704
+    Node 40    0.9521786366835381
+    Node 41    -0.9261473208411662
+    Node 42    0.354292595762986
+    Node 43    -0.4115089347836152
+    Node 44    -0.357921738313582
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    0.20778241079921464
+    Node 6    -0.07512237082425857
+    Node 7    2.282131846566068
+    Node 8    -1.125460013336562
+    Node 9    -1.81098424041399
+    Node 10    -0.6094470396221342
+    Node 11    0.49123897574578157
+    Node 12    -0.3061467206278171
+    Node 13    -0.29465908962565945
+    Node 14    0.4801819173019212
+    Node 15    -0.6103107669322372
+    Node 16    -0.23711247497422525
+    Node 17    0.4546119312467884
+    Node 18    1.172805543972519
+    Node 19    -1.3755969630905973
+    Node 20    -1.2547370672514937
+    Node 21    -0.14260851543529146
+    Node 22    -0.1912143926894442
+    Node 23    -0.16199421889429222
+    Node 24    1.8765200812472598
+    Node 25    -0.050639319347677965
+    Node 26    -0.7016449507672784
+    Node 27    -0.5036664852367618
+    Node 28    0.0034100861005931606
+    Node 29    0.8846996089259941
+    Node 30    0.9858640873947911
+    Node 31    1.8591187933030058
+    Node 32    0.40322783065444917
+    Node 33    -0.8625687623474328
+    Node 34    -1.1087242786164209
+    Node 35    -0.9785992566039143
+    Node 36    -0.8130505951491747
+    Node 37    -0.7725513280288482
+    Node 38    -0.14943701901291123
+    Node 39    -0.6206229824169736
+    Node 40    -1.1914824078180275
+    Node 41    0.022471816179993845
+    Node 42    -0.6731471391013509
+    Node 43    0.1782775474247446
+    Node 44    -1.5967757171343187
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -0.11674202249372975
+    Node 6    0.12622690587314048
+    Node 7    -1.0363777185997227
+    Node 8    0.6414578216340902
+    Node 9    -0.7246220948930867
+    Node 10    -1.0448527308880162
+    Node 11    0.6099216816608672
+    Node 12    0.2325040226231261
+    Node 13    -0.07389724402768981
+    Node 14    -0.43191786854747793
+    Node 15    -0.14265808764396104
+    Node 16    -0.5480848409694153
+    Node 17    0.3243520629804669
+    Node 18    -0.9858371296009851
+    Node 19    1.8503740568454683
+    Node 20    -0.35783957457651006
+    Node 21    -0.1265254820608566
+    Node 22    -0.4146929251047371
+    Node 23    1.2803419289215434
+    Node 24    0.08885078237079574
+    Node 25    0.27315434913237674
+    Node 26    -0.5638126905517867
+    Node 27    -0.9718134926625206
+    Node 28    1.0135237330665021
+    Node 29    -0.6725869258105265
+    Node 30    -0.9294847001656791
+    Node 31    -0.5597860104126939
+    Node 32    0.559863629146819
+    Node 33    -0.8837731149221699
+    Node 34    -0.2592162110137115
+    Node 35    0.3592261386037505
+    Node 36    -0.362593799300209
+    Node 37    0.4668728231242713
+    Node 38    -0.6672868203420439
+    Node 39    -1.1759648839937022
+    Node 40    -0.5877897009078813
+    Node 41    -1.286693631654094
+    Node 42    -1.0607482568735376
+    Node 43    0.45277539258698285
+    Node 44    0.19662749482178332
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    0.07683615306354459
+    Node 6    -0.9987792733856392
+    Node 7    -0.7700588983918761
+    Node 8    0.35847660200975145
+    Node 9    -1.3616518469573409
+    Node 10    -1.528994993402182
+    Node 11    -0.07018615287004554
+    Node 12    -0.6284093049085749
+    Node 13    0.06802704280584701
+    Node 14    -0.9776693961427287
+    Node 15    -0.9614360273103297
+    Node 16    1.0159482384635619
+    Node 17    0.6077847826776466
+    Node 18    -1.1006095783233325
+    Node 19    -0.5913278486225619
+    Node 20    -1.4443007974702962
+    Node 21    -0.4612970018519398
+    Node 22    0.07042493236260125
+    Node 23    -0.4780888672187966
+    Node 24    -1.0965021278004405
+    Node 25    -0.339791647081732
+    Node 26    0.540724520851239
+    Node 27    0.4915351442570979
+    Node 28    -0.6771427633302951
+    Node 29    -0.6610850627558391
+    Node 30    1.3801531568776582
+    Node 31    -0.1540264825574211
+    Node 32    -0.12411173379694006
+    Node 33    1.6267133884117386
+    Node 34    1.5561009922071338
+    Node 35    -1.2638025602622491
+    Node 36    -0.10173179093637953
+    Node 37    -0.37009738304471057
+    Node 38    -0.852036369455822
+    Node 39    -0.024964949519350275
+    Node 40    0.46594392751893265
+    Node 41    -0.585838057009367
+    Node 42    0.6768707381279138
+    Node 43    -0.4102542519254187
+    Node 44    0.9435516029614686
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -0.6708945552050802
+    Node 6    -0.3620928031106558
+    Node 7    -0.29445559743472005
+    Node 8    -0.3611901744874775
+    Node 9    -0.3245215923748822
+    Node 10    -0.2778042850253571
+    Node 11    -0.3823152593013234
+    Node 12    -0.2730212694617302
+    Node 13    -0.24936954307842907
+    Node 14    -0.3808403140118105
+    Node 15    -0.2475563061421466
+    Node 16    -0.29332213869978624
+    Node 17    -0.32375223790984897
+    Node 18    -0.3194812979570521
+    Node 19    -0.26105566462815677
+    Node 20    -0.2760609282437706
+    Node 21    -0.24635784487333617
+    Node 22    -0.36383489337950786
+    Node 23    -0.2787589358008356
+    Node 24    -0.32532899075348826
+    Node 25    -0.2300421656895845
+    Node 26    -0.22536388983321937
+    Node 27    -0.23696088898224002
+    Node 28    -0.26115749501515306
+    Node 29    -0.251568462455195
+    Node 30    -0.35559812520115724
+    Node 31    -0.3153706777762945
+    Node 32    -0.28974985722004937
+    Node 33    -0.32390261252751396
+    Node 34    -0.30914038107795183
+    Node 35    -0.3087479434646796
+    Node 36    -0.2477293890614053
+    Node 37    -0.2878775771050785
+    Node 38    -0.2509948244001566
+    Node 39    -0.20252783477483913
+    Node 40    -0.30039759611076405
+    Node 41    -0.2956301452353914
+    Node 42    -0.23161667728894592
+    Node 43    -0.22490173355233065
+    Node 44    -0.3757247430654457
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -0.03065581843052759
+    Attrib COUNTRY=Argentina    0.02877248387280648
+    Attrib COUNTRY=Australia    -0.016477627802805483
+    Attrib COUNTRY=Brazil    -0.04563132641584472
+    Attrib COUNTRY=Canada    -0.02737484354173595
+    Attrib COUNTRY=China    0.0456187407994518
+    Attrib COUNTRY=France    0.009528663339770184
+    Attrib COUNTRY=Germany    -0.04696606932834255
+    Attrib COUNTRY=India    0.04745544012290427
+    Attrib COUNTRY=Indonesia    0.01699262206586752
+    Attrib COUNTRY=Italy    -0.01175208791269812
+    Attrib COUNTRY=Japan    0.03619812028523482
+    Attrib COUNTRY=Mexico    -0.02288184029933096
+    Attrib COUNTRY=Russia    0.04660287398503703
+    Attrib COUNTRY=Saudi Arabia    0.03950051032827058
+    Attrib COUNTRY=South Africa    -0.02461000256716711
+    Attrib COUNTRY=Turkey    0.017144153957052155
+    Attrib COUNTRY=United Kingdom    0.037241670190069576
+    Attrib COUNTRY=United States    0.04637282428674676
+    Attrib STEPS_TAKEN=Awareness campaigns    0.4217802137688644
+    Attrib STEPS_TAKEN=International flights suspension    -0.40109623338102296
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.34239058853057186
+    Attrib STEPS_TAKEN=Visa restrictions    -0.40860903408554183
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.06303650230755724
+    Attrib STEPS_TAKEN=Schools closure    0.012499170840998854
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.6152736498913698
+    Attrib STEPS_TAKEN=Limit public gatherings    0.010236943017165469
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.4526175568516777
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.01996576102307221
+    Attrib STEPS_TAKEN=Border closure    -0.4440202037221629
+    Attrib STEPS_TAKEN=Partial lockdown    0.152462342826693
+    Attrib STEPS_TAKEN=State of emergency declared    -0.0029161920039584427
+    Attrib STEPS_TAKEN=Economic measures    -0.594799551065504
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.4104679428324827
+    Attrib STEPS_TAKEN=General recommendations    0.01710942946836129
+    Attrib STEPS_TAKEN=Testing policy    -0.028310510385371346
+    Attrib STEPS_TAKEN=Mass population testing    -0.033697738321069606
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.7367212596105934
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.4890030490901032
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.11951932326563793
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.02768173478555047
+    Attrib STEPS_TAKEN=Curfews    0.0010650829697352523
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.040633950888000786
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.338034596551879
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.5731123886943491
+    Attrib STEPS_TAKEN=Military deployment    3.472426456323091E-4
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.02641705240137586
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.558426412155345
+    Attrib STEPS_TAKEN=Border checks    -0.14204697812931494
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.03137775910348327
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.016473673066109466
+    Attrib STEPS_TAKEN=Full lockdown    0.009192367097369827
+    Attrib month_year=2020-02    0.004914116815281588
+    Attrib month_year=2020-03    -0.005742577129565201
+    Attrib month_year=2020-04    -0.04165287943769042
+    Attrib month_year=2020-05    -0.047460530731516216
+    Attrib month_year=2020-06    0.09743297939723612
+    Attrib month_year=2020-07    0.006328569627993942
+    Attrib month_year=2020-08    -0.07698270836301024
+    Attrib month_year=2020-09    0.011050711024408591
+    Attrib month_year=2020-10    -0.17896793962731253
+    Attrib month_year=2020-11    0.17121340575856847
+    Attrib month_year=2020-12    -0.07544901311314288
+    Attrib month_year=2021-01    0.04805061035866488
+    Attrib month_year=2020-01    0.0120745219513946
+    Attrib population    0.02488526355786072
+    Attrib stringency_index    -0.039395351859991455
+    Attrib total_cases    -0.06104009615809544
+    Attrib total_deaths    0.02862911289975973
+    Attrib total_tests    0.030397655524440313
+    Attrib new_cases    0.012352831118833285
+    Attrib new_deaths    -0.03868052184638704
+    Attrib partially_vaccinated    -0.04101761149154756
+    Attrib fully_vaccinated    -0.012664325932262646
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    -0.025155432874224115
+    Attrib COUNTRY=Argentina    -0.04968676115705444
+    Attrib COUNTRY=Australia    0.008089491730799557
+    Attrib COUNTRY=Brazil    0.012089947363331424
+    Attrib COUNTRY=Canada    -0.02503529326219822
+    Attrib COUNTRY=China    0.004763651403067316
+    Attrib COUNTRY=France    0.025172518818819184
+    Attrib COUNTRY=Germany    0.022879267506905346
+    Attrib COUNTRY=India    -0.009342342570663645
+    Attrib COUNTRY=Indonesia    0.02113706735260136
+    Attrib COUNTRY=Italy    -0.015383983819698376
+    Attrib COUNTRY=Japan    -7.723764987817988E-5
+    Attrib COUNTRY=Mexico    -0.0026793461407886993
+    Attrib COUNTRY=Russia    -0.019288310286839985
+    Attrib COUNTRY=Saudi Arabia    0.017872980387439313
+    Attrib COUNTRY=South Africa    -0.043885455547618836
+    Attrib COUNTRY=Turkey    0.0024621773511414383
+    Attrib COUNTRY=United Kingdom    0.03127059235849937
+    Attrib COUNTRY=United States    0.03972265819260852
+    Attrib STEPS_TAKEN=Awareness campaigns    0.09350589582975367
+    Attrib STEPS_TAKEN=International flights suspension    -0.6085546816248057
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.1322867553475735
+    Attrib STEPS_TAKEN=Visa restrictions    -0.6920052657590547
+    Attrib STEPS_TAKEN=Closure of businesses and public services    1.125653286059631
+    Attrib STEPS_TAKEN=Schools closure    1.0876132145572692
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.3294455949068539
+    Attrib STEPS_TAKEN=Limit public gatherings    1.0441383605214678
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.657533752748393
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.0331844559676851
+    Attrib STEPS_TAKEN=Border closure    -0.6861855915203258
+    Attrib STEPS_TAKEN=Partial lockdown    -0.7848072141213158
+    Attrib STEPS_TAKEN=State of emergency declared    -0.024397961439188143
+    Attrib STEPS_TAKEN=Economic measures    -0.30358679251617443
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.12718272201938605
+    Attrib STEPS_TAKEN=General recommendations    0.026114134504992254
+    Attrib STEPS_TAKEN=Testing policy    -0.007517723476057489
+    Attrib STEPS_TAKEN=Mass population testing    -0.04933195790362221
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.5966390723892333
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.19141068315143953
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.8438294414284823
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.0397684839059428
+    Attrib STEPS_TAKEN=Curfews    -0.03819198318484725
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.021376783571561225
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.600754155239135
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.29647724810533643
+    Attrib STEPS_TAKEN=Military deployment    -0.03394788874638867
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.047439648766858904
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.2069537642871803
+    Attrib STEPS_TAKEN=Border checks    -0.23635990246380562
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.019779254252614883
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.020343850680237877
+    Attrib STEPS_TAKEN=Full lockdown    0.033398891438140274
+    Attrib month_year=2020-02    0.035345551591629484
+    Attrib month_year=2020-03    0.190052602254446
+    Attrib month_year=2020-04    -0.045717758653517473
+    Attrib month_year=2020-05    -0.26391866203528525
+    Attrib month_year=2020-06    0.12179311932534344
+    Attrib month_year=2020-07    0.13381738726917566
+    Attrib month_year=2020-08    0.08264049521831
+    Attrib month_year=2020-09    -0.041167528522268404
+    Attrib month_year=2020-10    -0.2472026372951495
+    Attrib month_year=2020-11    0.12609009188661555
+    Attrib month_year=2020-12    -0.08684009766193049
+    Attrib month_year=2021-01    0.017482419165962687
+    Attrib month_year=2020-01    -0.029334866319784294
+    Attrib population    0.022716607444737663
+    Attrib stringency_index    0.017457143132762795
+    Attrib total_cases    -0.0984248357035014
+    Attrib total_deaths    -0.027712658345152033
+    Attrib total_tests    0.12116047157407085
+    Attrib new_cases    0.0022854400188640042
+    Attrib new_deaths    -0.057568744325777264
+    Attrib partially_vaccinated    0.02848156596572564
+    Attrib fully_vaccinated    -0.03268900798817324
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    -0.03420292928094378
+    Attrib COUNTRY=Argentina    -0.03873854654480489
+    Attrib COUNTRY=Australia    0.009395091630363207
+    Attrib COUNTRY=Brazil    0.0018944177784564684
+    Attrib COUNTRY=Canada    -0.04607516719307534
+    Attrib COUNTRY=China    0.01689377734624735
+    Attrib COUNTRY=France    -0.03102320687353092
+    Attrib COUNTRY=Germany    -0.0023757695994812353
+    Attrib COUNTRY=India    0.025828190926983435
+    Attrib COUNTRY=Indonesia    -0.03596684282814645
+    Attrib COUNTRY=Italy    0.021694662921011895
+    Attrib COUNTRY=Japan    -0.019387230183849826
+    Attrib COUNTRY=Mexico    -0.03597123205737001
+    Attrib COUNTRY=Russia    -0.04123277601226935
+    Attrib COUNTRY=Saudi Arabia    0.04232681109808774
+    Attrib COUNTRY=South Africa    7.406786633749468E-4
+    Attrib COUNTRY=Turkey    -0.008771536998619121
+    Attrib COUNTRY=United Kingdom    -0.04349427551828559
+    Attrib COUNTRY=United States    0.016789371599333663
+    Attrib STEPS_TAKEN=Awareness campaigns    0.17018862503491863
+    Attrib STEPS_TAKEN=International flights suspension    -0.0017990013127144443
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.1024444898057401
+    Attrib STEPS_TAKEN=Visa restrictions    -0.01337896275072445
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.5349397957149646
+    Attrib STEPS_TAKEN=Schools closure    -0.4367961040698079
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.1069630553512673
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.48616328303681783
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.047752958711903375
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.016027558150030513
+    Attrib STEPS_TAKEN=Border closure    -7.824108710184479E-4
+    Attrib STEPS_TAKEN=Partial lockdown    0.620009289544094
+    Attrib STEPS_TAKEN=State of emergency declared    -0.0021726034598059246
+    Attrib STEPS_TAKEN=Economic measures    0.19174859095412844
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.07203130382262173
+    Attrib STEPS_TAKEN=General recommendations    0.04116755748923445
+    Attrib STEPS_TAKEN=Testing policy    -0.043086126839354116
+    Attrib STEPS_TAKEN=Mass population testing    -0.03160327663654071
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.41880482209060255
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.1501430138867448
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.4315561167843432
+    Attrib STEPS_TAKEN=Checkpoints within the country    -2.953050816230443E-4
+    Attrib STEPS_TAKEN=Curfews    -0.0037023599870621426
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.04797619501669617
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.016236253675925565
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.07548744618742853
+    Attrib STEPS_TAKEN=Military deployment    0.030619850988835975
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.011097827854624195
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.1743326718478367
+    Attrib STEPS_TAKEN=Border checks    -0.0066734518657855625
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.02463248316619436
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.014441772690693702
+    Attrib STEPS_TAKEN=Full lockdown    0.02464183814470272
+    Attrib month_year=2020-02    -0.02364038035123002
+    Attrib month_year=2020-03    -0.12651125303103067
+    Attrib month_year=2020-04    0.02167589054292207
+    Attrib month_year=2020-05    0.23288338494620245
+    Attrib month_year=2020-06    0.06432234012572903
+    Attrib month_year=2020-07    -0.03856918400145621
+    Attrib month_year=2020-08    -0.0706033840598567
+    Attrib month_year=2020-09    -0.015248746406781692
+    Attrib month_year=2020-10    -0.019231186886115696
+    Attrib month_year=2020-11    0.0469711931291022
+    Attrib month_year=2020-12    0.0042814040444754805
+    Attrib month_year=2021-01    0.021890614110079268
+    Attrib month_year=2020-01    0.02807928936174224
+    Attrib population    -0.004137755723496082
+    Attrib stringency_index    0.06410908336316554
+    Attrib total_cases    -0.05721110118560162
+    Attrib total_deaths    -0.05141666371313017
+    Attrib total_tests    -0.10675538239572856
+    Attrib new_cases    -0.05309499127235521
+    Attrib new_deaths    0.06938648472622787
+    Attrib partially_vaccinated    0.04288192941992948
+    Attrib fully_vaccinated    -0.008839366242473702
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    0.04290589076959028
+    Attrib COUNTRY=Argentina    -0.0491382673800735
+    Attrib COUNTRY=Australia    -0.04413246081349708
+    Attrib COUNTRY=Brazil    -0.0304943818814451
+    Attrib COUNTRY=Canada    0.041787638417097844
+    Attrib COUNTRY=China    0.028691191001661093
+    Attrib COUNTRY=France    -0.03514889889216099
+    Attrib COUNTRY=Germany    -0.03177518077905532
+    Attrib COUNTRY=India    -0.03510761352354953
+    Attrib COUNTRY=Indonesia    0.04606175146829307
+    Attrib COUNTRY=Italy    -0.006714860088407118
+    Attrib COUNTRY=Japan    0.0010752354741755399
+    Attrib COUNTRY=Mexico    0.009241069401754301
+    Attrib COUNTRY=Russia    0.03189484540107039
+    Attrib COUNTRY=Saudi Arabia    -0.04228963210137946
+    Attrib COUNTRY=South Africa    0.03259756278873953
+    Attrib COUNTRY=Turkey    -0.03557845940689
+    Attrib COUNTRY=United Kingdom    0.014596061814100253
+    Attrib COUNTRY=United States    -0.041149482826099607
+    Attrib STEPS_TAKEN=Awareness campaigns    0.5752523353159954
+    Attrib STEPS_TAKEN=International flights suspension    0.3661777932813239
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.39515526148581487
+    Attrib STEPS_TAKEN=Visa restrictions    0.3480724617173792
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -1.0623765305800021
+    Attrib STEPS_TAKEN=Schools closure    -0.9030619651947243
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.7294403930663547
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.8405742367481542
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.3043756959700951
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.027871310581289346
+    Attrib STEPS_TAKEN=Border closure    0.43483977424191383
+    Attrib STEPS_TAKEN=Partial lockdown    -0.7004732013614802
+    Attrib STEPS_TAKEN=State of emergency declared    -0.01621634031840713
+    Attrib STEPS_TAKEN=Economic measures    -0.8595302799540387
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.4870408897297585
+    Attrib STEPS_TAKEN=General recommendations    0.0296289394980713
+    Attrib STEPS_TAKEN=Testing policy    0.005526693337172914
+    Attrib STEPS_TAKEN=Mass population testing    -0.039398489704149955
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -1.046064080195307
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.5837183975971112
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.9629234343169698
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.00811520530427741
+    Attrib STEPS_TAKEN=Curfews    -0.01322002973133881
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.03870742256200341
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.22759639161743322
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.6458338689465761
+    Attrib STEPS_TAKEN=Military deployment    0.0366133601747573
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.0014520155145369001
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.6532234436585634
+    Attrib STEPS_TAKEN=Border checks    -0.009465100805645416
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.010891073240159185
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.011272856468462392
+    Attrib STEPS_TAKEN=Full lockdown    0.0480327648010722
+    Attrib month_year=2020-02    0.030776873257405704
+    Attrib month_year=2020-03    -0.023697023032897318
+    Attrib month_year=2020-04    -0.11592788866901658
+    Attrib month_year=2020-05    -0.1359229718089372
+    Attrib month_year=2020-06    0.02875806648060012
+    Attrib month_year=2020-07    -0.10150754402514324
+    Attrib month_year=2020-08    -0.11051654545494484
+    Attrib month_year=2020-09    -0.006994226478617936
+    Attrib month_year=2020-10    0.07248698733450665
+    Attrib month_year=2020-11    0.18552462703797784
+    Attrib month_year=2020-12    -0.035432607823951794
+    Attrib month_year=2021-01    -0.030675928458706616
+    Attrib month_year=2020-01    -0.010563040188301273
+    Attrib population    -0.03528022340142603
+    Attrib stringency_index    -0.27785895887718787
+    Attrib total_cases    0.23269706760615094
+    Attrib total_deaths    0.18131832935619968
+    Attrib total_tests    -0.14744086513088075
+    Attrib new_cases    0.050075170162821654
+    Attrib new_deaths    -0.0036337444707813574
+    Attrib partially_vaccinated    0.04895868328308088
+    Attrib fully_vaccinated    0.02165730830161773
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    0.07088498157836745
+    Attrib COUNTRY=Argentina    -0.001813155428890656
+    Attrib COUNTRY=Australia    0.025468825247240465
+    Attrib COUNTRY=Brazil    -0.017997106773932937
+    Attrib COUNTRY=Canada    -0.038969156415242706
+    Attrib COUNTRY=China    -0.020210554419612406
+    Attrib COUNTRY=France    -0.012820960394685776
+    Attrib COUNTRY=Germany    0.021303339082304765
+    Attrib COUNTRY=India    0.013527754945994647
+    Attrib COUNTRY=Indonesia    0.02834654090474374
+    Attrib COUNTRY=Italy    0.011786181646625996
+    Attrib COUNTRY=Japan    -0.024070573579570532
+    Attrib COUNTRY=Mexico    0.03835386464147446
+    Attrib COUNTRY=Russia    -2.911278989893157E-4
+    Attrib COUNTRY=Saudi Arabia    -0.027999476233965016
+    Attrib COUNTRY=South Africa    -0.01207889112971846
+    Attrib COUNTRY=Turkey    0.024843907903064844
+    Attrib COUNTRY=United Kingdom    0.010740587583638314
+    Attrib COUNTRY=United States    0.031823060946671075
+    Attrib STEPS_TAKEN=Awareness campaigns    0.2997187248536103
+    Attrib STEPS_TAKEN=International flights suspension    0.3616309043312251
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.1757078994107447
+    Attrib STEPS_TAKEN=Visa restrictions    0.46849769400745256
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.40572622883952836
+    Attrib STEPS_TAKEN=Schools closure    -0.45749222453761756
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.47450073844280816
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.3723182746956551
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.2624959788547233
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.034649692835826154
+    Attrib STEPS_TAKEN=Border closure    0.5141071074497454
+    Attrib STEPS_TAKEN=Partial lockdown    -0.9868157059827924
+    Attrib STEPS_TAKEN=State of emergency declared    0.04901302282723734
+    Attrib STEPS_TAKEN=Economic measures    -0.9041190305579974
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.2402288574501288
+    Attrib STEPS_TAKEN=General recommendations    -0.035307256440101825
+    Attrib STEPS_TAKEN=Testing policy    0.027935657681103898
+    Attrib STEPS_TAKEN=Mass population testing    0.008383510502559664
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -1.1660072056430282
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.26902291677984935
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.4095818181667204
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.021813754628730947
+    Attrib STEPS_TAKEN=Curfews    0.03622920836878574
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.04286026826556542
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.11327169333280634
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.3764040734752937
+    Attrib STEPS_TAKEN=Military deployment    0.01946316164520731
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.0316005287182063
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.3191598144992213
+    Attrib STEPS_TAKEN=Border checks    0.015213311855092372
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.002556593363839732
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.01865212878362918
+    Attrib STEPS_TAKEN=Full lockdown    -0.014177327171764856
+    Attrib month_year=2020-02    0.01119077048849585
+    Attrib month_year=2020-03    -0.041200793661167176
+    Attrib month_year=2020-04    -0.10180235652583944
+    Attrib month_year=2020-05    -0.25272841617640723
+    Attrib month_year=2020-06    -0.02568508814956364
+    Attrib month_year=2020-07    -0.08312027152947327
+    Attrib month_year=2020-08    -0.006794407216292144
+    Attrib month_year=2020-09    -0.021225279124290064
+    Attrib month_year=2020-10    0.07173975535213752
+    Attrib month_year=2020-11    0.15384410033455287
+    Attrib month_year=2020-12    -0.03858064237000946
+    Attrib month_year=2021-01    -0.009953244440308852
+    Attrib month_year=2020-01    0.04768536601245117
+    Attrib population    -0.04209449689687165
+    Attrib stringency_index    -0.15809638614803126
+    Attrib total_cases    0.19039805481120814
+    Attrib total_deaths    0.19450061526553086
+    Attrib total_tests    -0.07533867783522805
+    Attrib new_cases    0.11970751347056692
+    Attrib new_deaths    -0.0525200146882483
+    Attrib partially_vaccinated    -0.0017841768042331507
+    Attrib fully_vaccinated    0.005392933930796727
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    0.040276259196443245
+    Attrib COUNTRY=Argentina    -0.015015642691489917
+    Attrib COUNTRY=Australia    -0.027938639478527795
+    Attrib COUNTRY=Brazil    -0.027164537810463643
+    Attrib COUNTRY=Canada    0.008416652090130837
+    Attrib COUNTRY=China    0.030305325919849566
+    Attrib COUNTRY=France    0.040187981946309986
+    Attrib COUNTRY=Germany    -0.012053049723794618
+    Attrib COUNTRY=India    0.03991458805227409
+    Attrib COUNTRY=Indonesia    0.04982533132034382
+    Attrib COUNTRY=Italy    -0.0031954705454386584
+    Attrib COUNTRY=Japan    0.045383880409784555
+    Attrib COUNTRY=Mexico    -0.022331064821682414
+    Attrib COUNTRY=Russia    6.247552711210677E-4
+    Attrib COUNTRY=Saudi Arabia    0.009480590194872261
+    Attrib COUNTRY=South Africa    0.03464965463768831
+    Attrib COUNTRY=Turkey    -0.02696741164715132
+    Attrib COUNTRY=United Kingdom    -0.006564670877557889
+    Attrib COUNTRY=United States    0.008783561465389444
+    Attrib STEPS_TAKEN=Awareness campaigns    0.30498792662825724
+    Attrib STEPS_TAKEN=International flights suspension    -0.902122758801827
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.3516344503847152
+    Attrib STEPS_TAKEN=Visa restrictions    -0.9461412224805964
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.23838466976353065
+    Attrib STEPS_TAKEN=Schools closure    0.4485686515706794
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.4949079865430887
+    Attrib STEPS_TAKEN=Limit public gatherings    0.2995592363979617
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.8503177314778986
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.014176600927757237
+    Attrib STEPS_TAKEN=Border closure    -0.9699786816479262
+    Attrib STEPS_TAKEN=Partial lockdown    0.515043781177993
+    Attrib STEPS_TAKEN=State of emergency declared    0.024370292337233534
+    Attrib STEPS_TAKEN=Economic measures    -0.06935929963520229
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.3350021961729459
+    Attrib STEPS_TAKEN=General recommendations    -0.02464371847117174
+    Attrib STEPS_TAKEN=Testing policy    -0.0016075009891995604
+    Attrib STEPS_TAKEN=Mass population testing    0.04660490217024482
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.02996561203766085
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.49627574604599506
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.08582449653560505
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.04927613751566813
+    Attrib STEPS_TAKEN=Curfews    0.00535156582580807
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.0348682696049733
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.6084920119130816
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.495839613227935
+    Attrib STEPS_TAKEN=Military deployment    0.03528113111772602
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.04229603570198246
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.462891997300328
+    Attrib STEPS_TAKEN=Border checks    -0.3369398448735294
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.015110728984008594
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.0343144547187952
+    Attrib STEPS_TAKEN=Full lockdown    0.011227080392106945
+    Attrib month_year=2020-02    0.033732163176979135
+    Attrib month_year=2020-03    -0.014137271503297492
+    Attrib month_year=2020-04    0.002246685469288356
+    Attrib month_year=2020-05    0.04552980098858419
+    Attrib month_year=2020-06    0.08594812170676862
+    Attrib month_year=2020-07    0.07932423331572942
+    Attrib month_year=2020-08    -0.0983087614366264
+    Attrib month_year=2020-09    -0.012548193791880193
+    Attrib month_year=2020-10    -0.37584899858216203
+    Attrib month_year=2020-11    0.17038062691097983
+    Attrib month_year=2020-12    -0.10069423499280429
+    Attrib month_year=2021-01    -0.014130267680218314
+    Attrib month_year=2020-01    0.044907492687461636
+    Attrib population    0.030369982617290722
+    Attrib stringency_index    0.03464391539010149
+    Attrib total_cases    -0.13357804184260602
+    Attrib total_deaths    -0.09590341556909616
+    Attrib total_tests    -0.020177167537578138
+    Attrib new_cases    -0.06045032691594199
+    Attrib new_deaths    0.04099690809454592
+    Attrib partially_vaccinated    -0.039134390699370095
+    Attrib fully_vaccinated    -0.04679542217208271
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    0.0190711558554661
+    Attrib COUNTRY=Argentina    0.021914050730164863
+    Attrib COUNTRY=Australia    -0.012766983080578387
+    Attrib COUNTRY=Brazil    -0.005295157151418553
+    Attrib COUNTRY=Canada    0.03338452826774849
+    Attrib COUNTRY=China    -0.021435818533571294
+    Attrib COUNTRY=France    0.014358184244615435
+    Attrib COUNTRY=Germany    -0.02765457448569584
+    Attrib COUNTRY=India    -0.02239145153571185
+    Attrib COUNTRY=Indonesia    0.04225486020937279
+    Attrib COUNTRY=Italy    -0.031413807563125035
+    Attrib COUNTRY=Japan    -0.019551122810319423
+    Attrib COUNTRY=Mexico    0.034736910378721675
+    Attrib COUNTRY=Russia    0.007058092627799738
+    Attrib COUNTRY=Saudi Arabia    -0.04470998985673476
+    Attrib COUNTRY=South Africa    -0.020286122855518673
+    Attrib COUNTRY=Turkey    -4.152100889766447E-4
+    Attrib COUNTRY=United Kingdom    0.005508069625856371
+    Attrib COUNTRY=United States    -0.04054945343589178
+    Attrib STEPS_TAKEN=Awareness campaigns    0.12984204778647238
+    Attrib STEPS_TAKEN=International flights suspension    0.05044429662691128
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.0783523162820158
+    Attrib STEPS_TAKEN=Visa restrictions    0.024096939215006247
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.1495313632502551
+    Attrib STEPS_TAKEN=Schools closure    -0.07055595324273141
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.1985635803521726
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.16232081983959087
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.039104957587501904
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.03221891960822498
+    Attrib STEPS_TAKEN=Border closure    0.033916764057363526
+    Attrib STEPS_TAKEN=Partial lockdown    0.27666937976496175
+    Attrib STEPS_TAKEN=State of emergency declared    0.02205790976104774
+    Attrib STEPS_TAKEN=Economic measures    -0.3713008589637372
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.1041643744243453
+    Attrib STEPS_TAKEN=General recommendations    -0.03774592085211897
+    Attrib STEPS_TAKEN=Testing policy    -0.00952608942311426
+    Attrib STEPS_TAKEN=Mass population testing    -0.016282102070285444
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.3953239242666806
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.09323638579554254
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.14771903590319277
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.04183988514819803
+    Attrib STEPS_TAKEN=Curfews    0.018130980280535294
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.03837426734829047
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.04442797458214856
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.08884220646465656
+    Attrib STEPS_TAKEN=Military deployment    0.017968261071610522
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.049132438596894715
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.17221119884810762
+    Attrib STEPS_TAKEN=Border checks    -0.05130472937395035
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.01917780424642221
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.025656074951042274
+    Attrib STEPS_TAKEN=Full lockdown    0.040657508845067664
+    Attrib month_year=2020-02    0.03120250463776468
+    Attrib month_year=2020-03    -0.0665477445851276
+    Attrib month_year=2020-04    0.026268318480637515
+    Attrib month_year=2020-05    -0.00555686539280437
+    Attrib month_year=2020-06    0.01723652103607119
+    Attrib month_year=2020-07    0.030886666436941875
+    Attrib month_year=2020-08    0.005031025074194559
+    Attrib month_year=2020-09    0.03333605225497692
+    Attrib month_year=2020-10    -0.05073346210325709
+    Attrib month_year=2020-11    0.10041866674645342
+    Attrib month_year=2020-12    0.0149541250691191
+    Attrib month_year=2021-01    0.009725623641390922
+    Attrib month_year=2020-01    -0.025616115910078133
+    Attrib population    -0.02804137290409835
+    Attrib stringency_index    -0.01015632754222992
+    Attrib total_cases    0.03658136563525377
+    Attrib total_deaths    0.03732008506949468
+    Attrib total_tests    -0.06759905060744713
+    Attrib new_cases    0.019644894110653087
+    Attrib new_deaths    -0.03318115592322215
+    Attrib partially_vaccinated    0.02927323069558274
+    Attrib fully_vaccinated    0.035966748462953085
+Sigmoid Node 13
+    Inputs    Weights
+    Threshold    0.008593134369119489
+    Attrib COUNTRY=Argentina    0.01390399970937567
+    Attrib COUNTRY=Australia    -0.012014187263702715
+    Attrib COUNTRY=Brazil    -0.004822352084873048
+    Attrib COUNTRY=Canada    -0.014551878794926747
+    Attrib COUNTRY=China    -0.013488264200658608
+    Attrib COUNTRY=France    0.00879442369575769
+    Attrib COUNTRY=Germany    -0.030599400189594162
+    Attrib COUNTRY=India    0.01422805695856387
+    Attrib COUNTRY=Indonesia    0.018903449776471376
+    Attrib COUNTRY=Italy    0.021306641151812133
+    Attrib COUNTRY=Japan    -0.004943026509929262
+    Attrib COUNTRY=Mexico    -0.03207196942760579
+    Attrib COUNTRY=Russia    0.013858339450818755
+    Attrib COUNTRY=Saudi Arabia    -0.034948742229733334
+    Attrib COUNTRY=South Africa    0.009136703209288041
+    Attrib COUNTRY=Turkey    0.027592194568012582
+    Attrib COUNTRY=United Kingdom    0.02568287880951302
+    Attrib COUNTRY=United States    0.029828888195752898
+    Attrib STEPS_TAKEN=Awareness campaigns    0.07937760352192202
+    Attrib STEPS_TAKEN=International flights suspension    0.11592038368173554
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.05274431931082669
+    Attrib STEPS_TAKEN=Visa restrictions    0.09200278901411503
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.05065032509820266
+    Attrib STEPS_TAKEN=Schools closure    -0.03353190387160782
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.05029836675213091
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.039218217307860764
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.06390208133136084
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.03455948643403568
+    Attrib STEPS_TAKEN=Border closure    0.06385832452216521
+    Attrib STEPS_TAKEN=Partial lockdown    0.040624290957238664
+    Attrib STEPS_TAKEN=State of emergency declared    -0.014690365288572281
+    Attrib STEPS_TAKEN=Economic measures    0.0625335955030945
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.002240991073888709
+    Attrib STEPS_TAKEN=General recommendations    -0.009477735904825112
+    Attrib STEPS_TAKEN=Testing policy    0.02268280997874203
+    Attrib STEPS_TAKEN=Mass population testing    0.021932866082492147
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.24606446524175662
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.00878628075174008
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.09193491255233228
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.039369139494367
+    Attrib STEPS_TAKEN=Curfews    0.024809153060984662
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.037518024955639856
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.009325871903216081
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.035147663169382164
+    Attrib STEPS_TAKEN=Military deployment    -0.01271776442202549
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.04262810316355202
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.011074543097609113
+    Attrib STEPS_TAKEN=Border checks    -0.018648962539539952
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.003620352993198718
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.01615123949181832
+    Attrib STEPS_TAKEN=Full lockdown    -0.03873507875530661
+    Attrib month_year=2020-02    -0.04833308365026393
+    Attrib month_year=2020-03    0.01666091954379519
+    Attrib month_year=2020-04    -0.03099107781521434
+    Attrib month_year=2020-05    0.10321955301165323
+    Attrib month_year=2020-06    0.030750045822468153
+    Attrib month_year=2020-07    0.033281327516499676
+    Attrib month_year=2020-08    0.01479562859867329
+    Attrib month_year=2020-09    -0.03318089596328529
+    Attrib month_year=2020-10    0.0030259699344046907
+    Attrib month_year=2020-11    0.09941898379507404
+    Attrib month_year=2020-12    0.06809549626721682
+    Attrib month_year=2021-01    0.005800704536677234
+    Attrib month_year=2020-01    0.012817905325720289
+    Attrib population    0.029667860413076383
+    Attrib stringency_index    0.02151377904290286
+    Attrib total_cases    -0.015604520879999305
+    Attrib total_deaths    0.05812151655800265
+    Attrib total_tests    -0.043341537383890315
+    Attrib new_cases    0.017895143059681984
+    Attrib new_deaths    0.01899766762754947
+    Attrib partially_vaccinated    0.02180920845785657
+    Attrib fully_vaccinated    0.03753895649295612
+Sigmoid Node 14
+    Inputs    Weights
+    Threshold    0.025827430368170874
+    Attrib COUNTRY=Argentina    -0.016249285177650778
+    Attrib COUNTRY=Australia    0.018083602716106914
+    Attrib COUNTRY=Brazil    -0.042298606398
+    Attrib COUNTRY=Canada    -0.004442597412227432
+    Attrib COUNTRY=China    0.04807912633621149
+    Attrib COUNTRY=France    0.019876651234459225
+    Attrib COUNTRY=Germany    0.007515035288161387
+    Attrib COUNTRY=India    -0.02155461759136007
+    Attrib COUNTRY=Indonesia    0.001425815228831541
+    Attrib COUNTRY=Italy    0.03569322567495736
+    Attrib COUNTRY=Japan    -0.039714823352317144
+    Attrib COUNTRY=Mexico    -0.03695808517523128
+    Attrib COUNTRY=Russia    0.008908026278318958
+    Attrib COUNTRY=Saudi Arabia    0.009472087138097128
+    Attrib COUNTRY=South Africa    -0.014549175962098829
+    Attrib COUNTRY=Turkey    -0.02540705991349366
+    Attrib COUNTRY=United Kingdom    -0.014681263082179229
+    Attrib COUNTRY=United States    0.046872855741778255
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.4802406690256944
+    Attrib STEPS_TAKEN=International flights suspension    0.8522893798121481
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.4053126715658698
+    Attrib STEPS_TAKEN=Visa restrictions    0.878751097073938
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.3628187516437014
+    Attrib STEPS_TAKEN=Schools closure    0.19332617518880155
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.6257286784762982
+    Attrib STEPS_TAKEN=Limit public gatherings    0.18825226774661025
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.6622869640728948
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -8.598190235778874E-4
+    Attrib STEPS_TAKEN=Border closure    0.9664834366051785
+    Attrib STEPS_TAKEN=Partial lockdown    -0.3192839111961845
+    Attrib STEPS_TAKEN=State of emergency declared    -0.013238692945726764
+    Attrib STEPS_TAKEN=Economic measures    -0.4680497580696564
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.5233498152519592
+    Attrib STEPS_TAKEN=General recommendations    -0.03282448333633507
+    Attrib STEPS_TAKEN=Testing policy    -0.010933529402567456
+    Attrib STEPS_TAKEN=Mass population testing    0.03160068258334327
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.6535490579019037
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.662042487023
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.34429384343794983
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.0415321001825293
+    Attrib STEPS_TAKEN=Curfews    -3.2890888517135564E-5
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.040294518753003244
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.3968454869160847
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.6788335941717304
+    Attrib STEPS_TAKEN=Military deployment    -0.011001666539504573
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.02072475631950331
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.5838304574026196
+    Attrib STEPS_TAKEN=Border checks    0.2707913835693897
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.0442687594015857
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.021707000491815773
+    Attrib STEPS_TAKEN=Full lockdown    -0.02740155250756663
+    Attrib month_year=2020-02    0.014269156624372573
+    Attrib month_year=2020-03    -0.047714856795345255
+    Attrib month_year=2020-04    0.03665427805125024
+    Attrib month_year=2020-05    -0.21823123780720177
+    Attrib month_year=2020-06    -0.2692685198664685
+    Attrib month_year=2020-07    0.020881186989615167
+    Attrib month_year=2020-08    0.1626321945426083
+    Attrib month_year=2020-09    -0.0029521637799611172
+    Attrib month_year=2020-10    0.300689706388864
+    Attrib month_year=2020-11    -0.26224171153102216
+    Attrib month_year=2020-12    0.09801889106091652
+    Attrib month_year=2021-01    -0.026820663681737092
+    Attrib month_year=2020-01    -0.013037384874189241
+    Attrib population    -0.039441577121107324
+    Attrib stringency_index    -0.058095124470329655
+    Attrib total_cases    0.14769801590183912
+    Attrib total_deaths    0.13487837935143582
+    Attrib total_tests    0.11044500575393738
+    Attrib new_cases    0.07909096305535437
+    Attrib new_deaths    -0.00787246855217429
+    Attrib partially_vaccinated    2.690366830121055E-4
+    Attrib fully_vaccinated    0.011580151474848546
+Sigmoid Node 15
+    Inputs    Weights
+    Threshold    0.014807884414863743
+    Attrib COUNTRY=Argentina    0.0242525172953017
+    Attrib COUNTRY=Australia    -0.03300048906839107
+    Attrib COUNTRY=Brazil    -0.03691290014000531
+    Attrib COUNTRY=Canada    0.02306953261702474
+    Attrib COUNTRY=China    -0.04985548570553947
+    Attrib COUNTRY=France    0.031409685702682474
+    Attrib COUNTRY=Germany    0.004485929483577178
+    Attrib COUNTRY=India    -0.018649069530998742
+    Attrib COUNTRY=Indonesia    -0.011550757920288833
+    Attrib COUNTRY=Italy    -0.01857299315280945
+    Attrib COUNTRY=Japan    -0.030976939814757853
+    Attrib COUNTRY=Mexico    0.02028810918837022
+    Attrib COUNTRY=Russia    0.015103603181758171
+    Attrib COUNTRY=Saudi Arabia    0.04934023441720228
+    Attrib COUNTRY=South Africa    0.03518187082057832
+    Attrib COUNTRY=Turkey    0.007270596182657796
+    Attrib COUNTRY=United Kingdom    -0.011446523319015522
+    Attrib COUNTRY=United States    0.020537368503054557
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.020076663622597257
+    Attrib STEPS_TAKEN=International flights suspension    0.49050141302443595
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.021381292526414856
+    Attrib STEPS_TAKEN=Visa restrictions    0.5659044631700862
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.3329377333045007
+    Attrib STEPS_TAKEN=Schools closure    -0.38761322683930427
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.02248690449059213
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.2781398280155089
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.4480759148862191
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.018920507594898463
+    Attrib STEPS_TAKEN=Border closure    0.6766303215176065
+    Attrib STEPS_TAKEN=Partial lockdown    -0.08504512864254674
+    Attrib STEPS_TAKEN=State of emergency declared    -0.0272861937758632
+    Attrib STEPS_TAKEN=Economic measures    -0.5108182453041107
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.025154549850924336
+    Attrib STEPS_TAKEN=General recommendations    -0.026612178378220164
+    Attrib STEPS_TAKEN=Testing policy    -0.006272080856213967
+    Attrib STEPS_TAKEN=Mass population testing    -0.03257561244863336
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.6668570662514177
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.06306308118554234
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.25178086032182684
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.04842684471054465
+    Attrib STEPS_TAKEN=Curfews    -0.015077503612680974
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.0028983087604470895
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.29788480242392756
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.10679511796483118
+    Attrib STEPS_TAKEN=Military deployment    -0.023395112319762646
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.013682832736633968
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.05861077803209337
+    Attrib STEPS_TAKEN=Border checks    0.09740777771016615
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.007390905911245339
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.028157860761548956
+    Attrib STEPS_TAKEN=Full lockdown    0.03570818226944915
+    Attrib month_year=2020-02    0.028474399620047317
+    Attrib month_year=2020-03    -0.06805875389665245
+    Attrib month_year=2020-04    -0.025869163693067358
+    Attrib month_year=2020-05    -0.07774497229123394
+    Attrib month_year=2020-06    -0.14000554634069945
+    Attrib month_year=2020-07    0.017665084612574756
+    Attrib month_year=2020-08    0.030203905123164565
+    Attrib month_year=2020-09    -0.02544060726465568
+    Attrib month_year=2020-10    0.13180145265353455
+    Attrib month_year=2020-11    -0.03372079230962572
+    Attrib month_year=2020-12    0.0029089953624513755
+    Attrib month_year=2021-01    -0.0026822103456526705
+    Attrib month_year=2020-01    0.017345231997671004
+    Attrib population    0.019110249518505734
+    Attrib stringency_index    -0.15563811842078834
+    Attrib total_cases    0.2005832447515874
+    Attrib total_deaths    0.13600999269190917
+    Attrib total_tests    -0.02731996414898235
+    Attrib new_cases    0.044837707183750866
+    Attrib new_deaths    -0.03594038890765583
+    Attrib partially_vaccinated    0.043887682681878856
+    Attrib fully_vaccinated    -0.04510461216349013
+Sigmoid Node 16
+    Inputs    Weights
+    Threshold    -0.04348470070469773
+    Attrib COUNTRY=Argentina    0.022662858742601488
+    Attrib COUNTRY=Australia    -0.015283875554178393
+    Attrib COUNTRY=Brazil    0.02076858592937672
+    Attrib COUNTRY=Canada    0.005871466912548473
+    Attrib COUNTRY=China    0.011153570066666216
+    Attrib COUNTRY=France    0.006284412175770505
+    Attrib COUNTRY=Germany    0.026152155604939914
+    Attrib COUNTRY=India    0.007209453189824244
+    Attrib COUNTRY=Indonesia    0.01931185606341608
+    Attrib COUNTRY=Italy    -0.04763159073537361
+    Attrib COUNTRY=Japan    0.017913736374224512
+    Attrib COUNTRY=Mexico    -0.0366103103725032
+    Attrib COUNTRY=Russia    -0.02470992917212489
+    Attrib COUNTRY=Saudi Arabia    -0.008924508707079615
+    Attrib COUNTRY=South Africa    -0.008289231966252184
+    Attrib COUNTRY=Turkey    0.03986988621055658
+    Attrib COUNTRY=United Kingdom    0.04503006711825018
+    Attrib COUNTRY=United States    0.034165559570877455
+    Attrib STEPS_TAKEN=Awareness campaigns    0.37928628480518106
+    Attrib STEPS_TAKEN=International flights suspension    -0.7226004544219058
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.37940128251810923
+    Attrib STEPS_TAKEN=Visa restrictions    -0.7952418059668143
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.22413762225702932
+    Attrib STEPS_TAKEN=Schools closure    -0.0439511020235543
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.5904803711057043
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.039147584182183455
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.6327753882956383
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.01811815023675921
+    Attrib STEPS_TAKEN=Border closure    -0.7947526791589581
+    Attrib STEPS_TAKEN=Partial lockdown    -0.5157600810124965
+    Attrib STEPS_TAKEN=State of emergency declared    0.04679081839991987
+    Attrib STEPS_TAKEN=Economic measures    0.5956332985216479
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.43248663465910003
+    Attrib STEPS_TAKEN=General recommendations    0.02038674571747899
+    Attrib STEPS_TAKEN=Testing policy    -9.081675783004922E-4
+    Attrib STEPS_TAKEN=Mass population testing    0.028035709068001277
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.7060004343877007
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.5647432149687714
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.21932874234527416
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.008624914377075209
+    Attrib STEPS_TAKEN=Curfews    -0.021603269457545007
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.01418070999205421
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.4947974036002035
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.5561796188379162
+    Attrib STEPS_TAKEN=Military deployment    0.005985621451994973
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.04095183777074597
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.5383126487130742
+    Attrib STEPS_TAKEN=Border checks    -0.281443282710012
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.009050293867574687
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.02264072568818519
+    Attrib STEPS_TAKEN=Full lockdown    0.005136290061462136
+    Attrib month_year=2020-02    -0.026967307208240667
+    Attrib month_year=2020-03    0.05297618545319919
+    Attrib month_year=2020-04    -0.11394936620231988
+    Attrib month_year=2020-05    0.026445129030234858
+    Attrib month_year=2020-06    0.1871305766371468
+    Attrib month_year=2020-07    0.04120410120854815
+    Attrib month_year=2020-08    -0.06588537238817124
+    Attrib month_year=2020-09    -0.001954019761904721
+    Attrib month_year=2020-10    -0.30826241392433723
+    Attrib month_year=2020-11    0.2003054075447632
+    Attrib month_year=2020-12    -0.04975564553035559
+    Attrib month_year=2021-01    -0.004083032366258919
+    Attrib month_year=2020-01    -0.031158652622800057
+    Attrib population    -0.012391907581979125
+    Attrib stringency_index    -0.0243664187998952
+    Attrib total_cases    -0.08374667886341394
+    Attrib total_deaths    -0.05045547771305908
+    Attrib total_tests    -0.045112730398168994
+    Attrib new_cases    -0.03511813906151167
+    Attrib new_deaths    0.007516540172048248
+    Attrib partially_vaccinated    0.018617738292300096
+    Attrib fully_vaccinated    -0.0015258733441780858
+Sigmoid Node 17
+    Inputs    Weights
+    Threshold    -0.01346645905865951
+    Attrib COUNTRY=Argentina    -0.031117935463524673
+    Attrib COUNTRY=Australia    0.03472506090169433
+    Attrib COUNTRY=Brazil    0.031776203054523014
+    Attrib COUNTRY=Canada    0.044912335583811885
+    Attrib COUNTRY=China    -0.029233604148977424
+    Attrib COUNTRY=France    -0.02655163632225667
+    Attrib COUNTRY=Germany    -0.026908662144245143
+    Attrib COUNTRY=India    0.02037147050724958
+    Attrib COUNTRY=Indonesia    -0.0026300729498196646
+    Attrib COUNTRY=Italy    -0.029015375109684938
+    Attrib COUNTRY=Japan    -0.023481814179526085
+    Attrib COUNTRY=Mexico    -0.005156269801430635
+    Attrib COUNTRY=Russia    0.027356286302918517
+    Attrib COUNTRY=Saudi Arabia    -0.002002110159697111
+    Attrib COUNTRY=South Africa    -0.00722319139187555
+    Attrib COUNTRY=Turkey    -0.02246276541848885
+    Attrib COUNTRY=United Kingdom    0.04196586116642466
+    Attrib COUNTRY=United States    0.04799524535562079
+    Attrib STEPS_TAKEN=Awareness campaigns    0.05856864200573295
+    Attrib STEPS_TAKEN=International flights suspension    -0.5737500260326539
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.019880382318346903
+    Attrib STEPS_TAKEN=Visa restrictions    -0.5981324280291191
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.2986355624686283
+    Attrib STEPS_TAKEN=Schools closure    0.4030148395768623
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.1174406422752268
+    Attrib STEPS_TAKEN=Limit public gatherings    0.23772524928083194
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.5659257920621646
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.03745269702081654
+    Attrib STEPS_TAKEN=Border closure    -0.5935861041649203
+    Attrib STEPS_TAKEN=Partial lockdown    0.3433944785596672
+    Attrib STEPS_TAKEN=State of emergency declared    -0.0338939896392938
+    Attrib STEPS_TAKEN=Economic measures    0.34793832655206625
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.07658598012235196
+    Attrib STEPS_TAKEN=General recommendations    0.038477738534958617
+    Attrib STEPS_TAKEN=Testing policy    0.019356987499089442
+    Attrib STEPS_TAKEN=Mass population testing    0.030589119397553696
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.5187160218867929
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.10373755805107293
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.18332633530349624
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.012338691962059556
+    Attrib STEPS_TAKEN=Curfews    -0.04189188591579962
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.045185596000356154
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.36263707682466256
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.08480713255731363
+    Attrib STEPS_TAKEN=Military deployment    -0.029049027287141618
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.01675023347274498
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.10480409480422032
+    Attrib STEPS_TAKEN=Border checks    -0.13384310619675913
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.023775248677799857
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.04089485316097879
+    Attrib STEPS_TAKEN=Full lockdown    0.00396208031044519
+    Attrib month_year=2020-02    -0.015621110218352885
+    Attrib month_year=2020-03    -0.01072326377225988
+    Attrib month_year=2020-04    -0.03827704732161771
+    Attrib month_year=2020-05    0.09686820219209878
+    Attrib month_year=2020-06    0.09081269516159116
+    Attrib month_year=2020-07    0.023265854585315868
+    Attrib month_year=2020-08    -0.023674346213079234
+    Attrib month_year=2020-09    -0.04927521229943669
+    Attrib month_year=2020-10    -0.2454365692846451
+    Attrib month_year=2020-11    0.02147592372035346
+    Attrib month_year=2020-12    -0.06843512947708771
+    Attrib month_year=2021-01    -0.024219175550095496
+    Attrib month_year=2020-01    0.0143804652900614
+    Attrib population    -0.04047868927746739
+    Attrib stringency_index    0.10194997757671836
+    Attrib total_cases    -0.1629262552640815
+    Attrib total_deaths    -0.1586474806435232
+    Attrib total_tests    0.03527609150026909
+    Attrib new_cases    -0.03480127157974897
+    Attrib new_deaths    0.03704490640133123
+    Attrib partially_vaccinated    0.035576655285673164
+    Attrib fully_vaccinated    -0.048985626275367046
+Sigmoid Node 18
+    Inputs    Weights
+    Threshold    -0.006323328751918139
+    Attrib COUNTRY=Argentina    -0.0305390009971664
+    Attrib COUNTRY=Australia    0.033820565909084374
+    Attrib COUNTRY=Brazil    0.020737374625561772
+    Attrib COUNTRY=Canada    -0.04784473754535462
+    Attrib COUNTRY=China    0.009466750465566345
+    Attrib COUNTRY=France    0.03898322197099305
+    Attrib COUNTRY=Germany    0.047211565890874205
+    Attrib COUNTRY=India    0.0011901134134639016
+    Attrib COUNTRY=Indonesia    -0.03922172443126948
+    Attrib COUNTRY=Italy    0.029046586440755834
+    Attrib COUNTRY=Japan    -0.04023436628053656
+    Attrib COUNTRY=Mexico    -0.001372906860151693
+    Attrib COUNTRY=Russia    -0.04491583342823105
+    Attrib COUNTRY=Saudi Arabia    0.0376548669728992
+    Attrib COUNTRY=South Africa    0.025082005025317225
+    Attrib COUNTRY=Turkey    0.03782048375920043
+    Attrib COUNTRY=United Kingdom    0.014378407087783124
+    Attrib COUNTRY=United States    0.006227085114319367
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.03871827667857602
+    Attrib STEPS_TAKEN=International flights suspension    -0.12188633052901694
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.01299156441338639
+    Attrib STEPS_TAKEN=Visa restrictions    -0.12228874166351512
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.5891988725803184
+    Attrib STEPS_TAKEN=Schools closure    0.541178890025446
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.17567460327736673
+    Attrib STEPS_TAKEN=Limit public gatherings    0.5167961157483364
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.19352387029606175
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.022148767762991475
+    Attrib STEPS_TAKEN=Border closure    -0.05684526174351033
+    Attrib STEPS_TAKEN=Partial lockdown    -0.8636434702877426
+    Attrib STEPS_TAKEN=State of emergency declared    0.010878192251576158
+    Attrib STEPS_TAKEN=Economic measures    -0.6055902271102274
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.06222734855110122
+    Attrib STEPS_TAKEN=General recommendations    -0.04441080785617686
+    Attrib STEPS_TAKEN=Testing policy    -0.0015101627195274192
+    Attrib STEPS_TAKEN=Mass population testing    -0.019155618310651837
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.8398422066494915
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.030765370069478826
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.4352929362167598
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.011674496854348168
+    Attrib STEPS_TAKEN=Curfews    0.028568008051125957
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.03613939496387085
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.17733324026706476
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.09310814176710616
+    Attrib STEPS_TAKEN=Military deployment    0.011428975630356018
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.03610500588144623
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.05633527404290398
+    Attrib STEPS_TAKEN=Border checks    -0.11616554511023461
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.0065197479997549865
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.014812253777540509
+    Attrib STEPS_TAKEN=Full lockdown    0.0063292706637658736
+    Attrib month_year=2020-02    0.023309592128567633
+    Attrib month_year=2020-03    0.10900175738922191
+    Attrib month_year=2020-04    -0.06159290195052232
+    Attrib month_year=2020-05    -0.28841903986524264
+    Attrib month_year=2020-06    0.021770077026456558
+    Attrib month_year=2020-07    0.08892795911919857
+    Attrib month_year=2020-08    0.08639717660552568
+    Attrib month_year=2020-09    0.006151505020774474
+    Attrib month_year=2020-10    -0.04095142366700377
+    Attrib month_year=2020-11    0.0793715263264895
+    Attrib month_year=2020-12    -0.04343064632134331
+    Attrib month_year=2021-01    0.014921624607766582
+    Attrib month_year=2020-01    0.015830259327759513
+    Attrib population    0.020320672011936727
+    Attrib stringency_index    -0.05118781063490638
+    Attrib total_cases    0.03659584128976155
+    Attrib total_deaths    5.095951769731019E-4
+    Attrib total_tests    0.12778980427566355
+    Attrib new_cases    0.07258937414106421
+    Attrib new_deaths    2.6624960411813267E-4
+    Attrib partially_vaccinated    0.04557926987716428
+    Attrib fully_vaccinated    0.03821996703336433
+Sigmoid Node 19
+    Inputs    Weights
+    Threshold    -0.09416343969234123
+    Attrib COUNTRY=Argentina    0.03201780630162036
+    Attrib COUNTRY=Australia    -0.04968815369791466
+    Attrib COUNTRY=Brazil    0.04411108208543406
+    Attrib COUNTRY=Canada    0.020564001679975102
+    Attrib COUNTRY=China    -0.036607010614223105
+    Attrib COUNTRY=France    -0.004092258431772557
+    Attrib COUNTRY=Germany    -0.0035448679800280866
+    Attrib COUNTRY=India    -0.03273513452540262
+    Attrib COUNTRY=Indonesia    0.02889466558510355
+    Attrib COUNTRY=Italy    -0.007871258294006103
+    Attrib COUNTRY=Japan    0.005733662092497885
+    Attrib COUNTRY=Mexico    -0.002850718213064693
+    Attrib COUNTRY=Russia    0.04697621097119899
+    Attrib COUNTRY=Saudi Arabia    0.03336311922240877
+    Attrib COUNTRY=South Africa    -0.01908310176152819
+    Attrib COUNTRY=Turkey    -0.0447002704523983
+    Attrib COUNTRY=United Kingdom    0.040404714640001296
+    Attrib COUNTRY=United States    -0.005377532394287357
+    Attrib STEPS_TAKEN=Awareness campaigns    0.29472200708206586
+    Attrib STEPS_TAKEN=International flights suspension    0.06738310988977701
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.14952442071123623
+    Attrib STEPS_TAKEN=Visa restrictions    0.0977014724522288
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.631562961787228
+    Attrib STEPS_TAKEN=Schools closure    -0.48099753424758246
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.2700720516973216
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.5306084051424861
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.1270892256595454
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -2.6734838172960684E-4
+    Attrib STEPS_TAKEN=Border closure    0.12638933577481626
+    Attrib STEPS_TAKEN=Partial lockdown    1.5915987122707214
+    Attrib STEPS_TAKEN=State of emergency declared    0.03625329191079084
+    Attrib STEPS_TAKEN=Economic measures    -0.34896577701193426
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.2415514001351418
+    Attrib STEPS_TAKEN=General recommendations    0.013433848869896597
+    Attrib STEPS_TAKEN=Testing policy    0.022805860780884007
+    Attrib STEPS_TAKEN=Mass population testing    0.041884973742506756
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.27693205239168567
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.1341263757217064
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.4069938983713126
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.015281169812558226
+    Attrib STEPS_TAKEN=Curfews    -0.02772626527079817
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.0016863089687374072
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.11699534401239182
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.1442225837870701
+    Attrib STEPS_TAKEN=Military deployment    -0.0043594021537056715
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.03304327109957016
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.1916571467051128
+    Attrib STEPS_TAKEN=Border checks    0.04777129795462065
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.03134136510145176
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.02875549737935247
+    Attrib STEPS_TAKEN=Full lockdown    0.04864551459968579
+    Attrib month_year=2020-02    -0.02210103957424119
+    Attrib month_year=2020-03    -0.15673262500725899
+    Attrib month_year=2020-04    0.16943076467451304
+    Attrib month_year=2020-05    0.21268723903345246
+    Attrib month_year=2020-06    -0.003574560915468477
+    Attrib month_year=2020-07    0.017747390866110643
+    Attrib month_year=2020-08    -0.07673366073373458
+    Attrib month_year=2020-09    0.018007164303934925
+    Attrib month_year=2020-10    0.04214662702256764
+    Attrib month_year=2020-11    0.10321616379471399
+    Attrib month_year=2020-12    0.0871818668903864
+    Attrib month_year=2021-01    -0.016723727687006307
+    Attrib month_year=2020-01    -0.006036942013643021
+    Attrib population    0.004489518722922595
+    Attrib stringency_index    -0.002706887134211816
+    Attrib total_cases    0.0579072547993321
+    Attrib total_deaths    0.09219322894421071
+    Attrib total_tests    -0.11434672232133777
+    Attrib new_cases    -0.01729404354369277
+    Attrib new_deaths    -0.012715770944885395
+    Attrib partially_vaccinated    0.011738228543129135
+    Attrib fully_vaccinated    -0.03773574384795192
+Sigmoid Node 20
+    Inputs    Weights
+    Threshold    0.020722035725849523
+    Attrib COUNTRY=Argentina    0.04259685106621908
+    Attrib COUNTRY=Australia    -0.04588975114826899
+    Attrib COUNTRY=Brazil    0.023597828345526067
+    Attrib COUNTRY=Canada    -0.02879730658576836
+    Attrib COUNTRY=China    -0.026296628624148912
+    Attrib COUNTRY=France    -0.03269068178517874
+    Attrib COUNTRY=Germany    -0.008679133436964068
+    Attrib COUNTRY=India    -0.015850700617513425
+    Attrib COUNTRY=Indonesia    0.0317808316420915
+    Attrib COUNTRY=Italy    -0.017286045258175668
+    Attrib COUNTRY=Japan    -0.028003310293400877
+    Attrib COUNTRY=Mexico    -0.041005822628912794
+    Attrib COUNTRY=Russia    -0.010912052040010965
+    Attrib COUNTRY=Saudi Arabia    -0.04398563352529236
+    Attrib COUNTRY=South Africa    -0.03169573602071672
+    Attrib COUNTRY=Turkey    -0.04782731810694411
+    Attrib COUNTRY=United Kingdom    -0.04097400982237681
+    Attrib COUNTRY=United States    -0.01802119701741456
+    Attrib STEPS_TAKEN=Awareness campaigns    0.42549311413663804
+    Attrib STEPS_TAKEN=International flights suspension    0.38656487097324355
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.3283733309269239
+    Attrib STEPS_TAKEN=Visa restrictions    0.3156972588460451
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.746134713829864
+    Attrib STEPS_TAKEN=Schools closure    -0.7097618994286552
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.5991630036762877
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.652250577779074
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.23505773350583084
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.013382912638126687
+    Attrib STEPS_TAKEN=Border closure    0.3644455830349649
+    Attrib STEPS_TAKEN=Partial lockdown    -0.39031384138964303
+    Attrib STEPS_TAKEN=State of emergency declared    0.027879445166745995
+    Attrib STEPS_TAKEN=Economic measures    -0.8749311976281864
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.36931415838001475
+    Attrib STEPS_TAKEN=General recommendations    0.009690048296548917
+    Attrib STEPS_TAKEN=Testing policy    -0.01596128445515016
+    Attrib STEPS_TAKEN=Mass population testing    0.034238089059583046
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -1.089785674270007
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.36101896272909717
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.7381275734481038
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.034398651500771794
+    Attrib STEPS_TAKEN=Curfews    0.010952247371371682
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.0054284688482976184
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.12683868385717173
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.4943132373306532
+    Attrib STEPS_TAKEN=Military deployment    -0.04482006306228922
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.0292297025774658
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.49492192704906396
+    Attrib STEPS_TAKEN=Border checks    0.02818389214651535
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.019930551039740618
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.036725752678212556
+    Attrib STEPS_TAKEN=Full lockdown    0.03280299430180941
+    Attrib month_year=2020-02    -0.03392352062396303
+    Attrib month_year=2020-03    -0.037914333009611306
+    Attrib month_year=2020-04    -0.11184834787582235
+    Attrib month_year=2020-05    -0.12712493497175786
+    Attrib month_year=2020-06    -0.03427734390022225
+    Attrib month_year=2020-07    -0.08227948462854417
+    Attrib month_year=2020-08    -0.03350094262013464
+    Attrib month_year=2020-09    0.03229973862225759
+    Attrib month_year=2020-10    0.059413225079517885
+    Attrib month_year=2020-11    0.19937689312149517
+    Attrib month_year=2020-12    5.178575606359346E-4
+    Attrib month_year=2021-01    -0.0029321538686682275
+    Attrib month_year=2020-01    -0.00732516275504911
+    Attrib population    -0.022345484972473018
+    Attrib stringency_index    -0.2492640137812559
+    Attrib total_cases    0.17867970423112464
+    Attrib total_deaths    0.13586448697058567
+    Attrib total_tests    -0.14418597780495998
+    Attrib new_cases    0.09965556267192191
+    Attrib new_deaths    -0.03771044891017261
+    Attrib partially_vaccinated    -0.04857774231489347
+    Attrib fully_vaccinated    -0.025036953485230273
+Sigmoid Node 21
+    Inputs    Weights
+    Threshold    -0.0456754560834261
+    Attrib COUNTRY=Argentina    0.03355062157463565
+    Attrib COUNTRY=Australia    0.014800559789284157
+    Attrib COUNTRY=Brazil    0.02250812064616467
+    Attrib COUNTRY=Canada    -0.022189399724151584
+    Attrib COUNTRY=China    -0.041369130514676104
+    Attrib COUNTRY=France    -0.0016102059934921947
+    Attrib COUNTRY=Germany    0.012287080612358468
+    Attrib COUNTRY=India    -0.02975196913322954
+    Attrib COUNTRY=Indonesia    0.01999157334807175
+    Attrib COUNTRY=Italy    -0.04942903506889647
+    Attrib COUNTRY=Japan    0.04507592179788271
+    Attrib COUNTRY=Mexico    -0.0168163377939946
+    Attrib COUNTRY=Russia    -0.0022502391144373773
+    Attrib COUNTRY=Saudi Arabia    -0.04956091631294676
+    Attrib COUNTRY=South Africa    0.038839757424906834
+    Attrib COUNTRY=Turkey    0.0033104520122814313
+    Attrib COUNTRY=United Kingdom    -0.045739824780372806
+    Attrib COUNTRY=United States    0.0027071547624750517
+    Attrib STEPS_TAKEN=Awareness campaigns    0.05265981999688491
+    Attrib STEPS_TAKEN=International flights suspension    0.08198280983618378
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.07190661157484002
+    Attrib STEPS_TAKEN=Visa restrictions    0.08905643314443572
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.06935561784762638
+    Attrib STEPS_TAKEN=Schools closure    -0.015388983837830184
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.2058877916212374
+    Attrib STEPS_TAKEN=Limit public gatherings    0.012815552242768279
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.010399286210319696
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.04625187896546373
+    Attrib STEPS_TAKEN=Border closure    0.034880353130352156
+    Attrib STEPS_TAKEN=Partial lockdown    -0.022267646682921492
+    Attrib STEPS_TAKEN=State of emergency declared    0.008324221345764417
+    Attrib STEPS_TAKEN=Economic measures    -0.19938389720162683
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.10377700278002606
+    Attrib STEPS_TAKEN=General recommendations    -0.002904759637058607
+    Attrib STEPS_TAKEN=Testing policy    -0.04472940590495993
+    Attrib STEPS_TAKEN=Mass population testing    0.004696479340053919
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.2871325184160855
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.045438591818538925
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.019539810638020946
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.03084657831737836
+    Attrib STEPS_TAKEN=Curfews    -0.007740843593278167
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.03127347060816886
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.055188205378600044
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.1691668267784816
+    Attrib STEPS_TAKEN=Military deployment    0.040811868111004665
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.021016373633490487
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.09503339354142978
+    Attrib STEPS_TAKEN=Border checks    0.026465697438629116
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.023099313270579083
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.04836584556116509
+    Attrib STEPS_TAKEN=Full lockdown    -0.015403375669268304
+    Attrib month_year=2020-02    0.027039161861760364
+    Attrib month_year=2020-03    0.01753255196257593
+    Attrib month_year=2020-04    -0.023684917543029035
+    Attrib month_year=2020-05    -0.0025361276735686453
+    Attrib month_year=2020-06    0.05727802138963083
+    Attrib month_year=2020-07    0.038102739586414205
+    Attrib month_year=2020-08    -0.0015731214090924078
+    Attrib month_year=2020-09    0.03216321849301572
+    Attrib month_year=2020-10    -0.04013333980860829
+    Attrib month_year=2020-11    0.11164724781633133
+    Attrib month_year=2020-12    0.013436577543951002
+    Attrib month_year=2021-01    -0.0010948060702300685
+    Attrib month_year=2020-01    -0.029279567011996833
+    Attrib population    -0.013019826534555648
+    Attrib stringency_index    -0.006742795336137746
+    Attrib total_cases    0.06338307144206236
+    Attrib total_deaths    0.0214274644822245
+    Attrib total_tests    0.047282989548281994
+    Attrib new_cases    0.0874777712097214
+    Attrib new_deaths    0.05975185521961902
+    Attrib partially_vaccinated    0.01442200047758288
+    Attrib fully_vaccinated    0.03881417969277655
+Sigmoid Node 22
+    Inputs    Weights
+    Threshold    0.04382561085547931
+    Attrib COUNTRY=Argentina    0.02401299820526416
+    Attrib COUNTRY=Australia    0.011334085424404818
+    Attrib COUNTRY=Brazil    -0.03246273223047101
+    Attrib COUNTRY=Canada    -0.0030876799890300136
+    Attrib COUNTRY=China    0.033576234290618054
+    Attrib COUNTRY=France    0.027935706468437363
+    Attrib COUNTRY=Germany    -0.025123965179842847
+    Attrib COUNTRY=India    0.014764887886011324
+    Attrib COUNTRY=Indonesia    0.023976837911998727
+    Attrib COUNTRY=Italy    -0.013455659074546357
+    Attrib COUNTRY=Japan    0.029390607163941193
+    Attrib COUNTRY=Mexico    0.027160060615980072
+    Attrib COUNTRY=Russia    -0.008967445598980626
+    Attrib COUNTRY=Saudi Arabia    0.009847048744263051
+    Attrib COUNTRY=South Africa    -0.03148486727699898
+    Attrib COUNTRY=Turkey    0.04193866536935452
+    Attrib COUNTRY=United Kingdom    0.011061799865803613
+    Attrib COUNTRY=United States    -0.03271614163740261
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.26744161133013994
+    Attrib STEPS_TAKEN=International flights suspension    0.5338906300023162
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.3048989785024288
+    Attrib STEPS_TAKEN=Visa restrictions    0.5413252193309199
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.04005886085406702
+    Attrib STEPS_TAKEN=Schools closure    -0.10476887700176427
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.39758239237809034
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.03634045317850744
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.46327228826024336
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.04092844258591294
+    Attrib STEPS_TAKEN=Border closure    0.6389113554340526
+    Attrib STEPS_TAKEN=Partial lockdown    -0.3183312940015052
+    Attrib STEPS_TAKEN=State of emergency declared    0.034614149308698924
+    Attrib STEPS_TAKEN=Economic measures    0.05317398905957794
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.32659898643834745
+    Attrib STEPS_TAKEN=General recommendations    1.1730245100628756E-4
+    Attrib STEPS_TAKEN=Testing policy    0.015401340948510839
+    Attrib STEPS_TAKEN=Mass population testing    0.03281564163067613
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.20549822209353572
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.3840022873063216
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.019745383645570352
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.022026974863748702
+    Attrib STEPS_TAKEN=Curfews    0.009501149007555464
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.048480575855634964
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.2964381696035957
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.4185085732555393
+    Attrib STEPS_TAKEN=Military deployment    0.036305899637075964
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.0497795723224345
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.3206796634005291
+    Attrib STEPS_TAKEN=Border checks    0.12034836057840606
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.005680358539629296
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.010995832702911379
+    Attrib STEPS_TAKEN=Full lockdown    -0.006559422476631438
+    Attrib month_year=2020-02    -0.040036485695973005
+    Attrib month_year=2020-03    -0.05429924689863134
+    Attrib month_year=2020-04    -0.04070818031614471
+    Attrib month_year=2020-05    -0.002966582457127232
+    Attrib month_year=2020-06    -0.10284226107054487
+    Attrib month_year=2020-07    -0.023122262474067318
+    Attrib month_year=2020-08    0.06441796571202858
+    Attrib month_year=2020-09    0.03766011844615584
+    Attrib month_year=2020-10    0.17565071404895524
+    Attrib month_year=2020-11    -0.17016030656471462
+    Attrib month_year=2020-12    0.06490073712050544
+    Attrib month_year=2021-01    0.03914316010296068
+    Attrib month_year=2020-01    -0.030257847187593757
+    Attrib population    -0.011612248920408338
+    Attrib stringency_index    -0.018756431055072468
+    Attrib total_cases    0.12028026259199003
+    Attrib total_deaths    0.07632227201028376
+    Attrib total_tests    0.02212237501044398
+    Attrib new_cases    0.08004587046603052
+    Attrib new_deaths    0.03209338682749584
+    Attrib partially_vaccinated    -0.021919700307604408
+    Attrib fully_vaccinated    -0.040382307738599126
+Sigmoid Node 23
+    Inputs    Weights
+    Threshold    -0.024759631876253952
+    Attrib COUNTRY=Argentina    0.02133110393823469
+    Attrib COUNTRY=Australia    -0.04799401966685414
+    Attrib COUNTRY=Brazil    0.04659389240067864
+    Attrib COUNTRY=Canada    -0.02974783302075005
+    Attrib COUNTRY=China    -0.027868836841775782
+    Attrib COUNTRY=France    0.015702749550373957
+    Attrib COUNTRY=Germany    0.026700493563649133
+    Attrib COUNTRY=India    0.023912399563463707
+    Attrib COUNTRY=Indonesia    0.015330804177526677
+    Attrib COUNTRY=Italy    0.022038172484341464
+    Attrib COUNTRY=Japan    0.003578187489315564
+    Attrib COUNTRY=Mexico    -0.03122369046726674
+    Attrib COUNTRY=Russia    0.009729280473527058
+    Attrib COUNTRY=Saudi Arabia    0.017910443057474704
+    Attrib COUNTRY=South Africa    0.02254133012536011
+    Attrib COUNTRY=Turkey    -0.018248170450006117
+    Attrib COUNTRY=United Kingdom    0.03257187767230556
+    Attrib COUNTRY=United States    0.001393891697756125
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.13645590885195505
+    Attrib STEPS_TAKEN=International flights suspension    0.168979424538584
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.16268272303064785
+    Attrib STEPS_TAKEN=Visa restrictions    0.25960610120026417
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.07090286094354158
+    Attrib STEPS_TAKEN=Schools closure    -0.036431689088690045
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.25293353769558263
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.002966810097295328
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.1475775229405964
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.0353531568547575
+    Attrib STEPS_TAKEN=Border closure    0.2885070062521237
+    Attrib STEPS_TAKEN=Partial lockdown    1.2355624806016212
+    Attrib STEPS_TAKEN=State of emergency declared    -0.021585668911060753
+    Attrib STEPS_TAKEN=Economic measures    -0.23412796468348473
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.13374628462207258
+    Attrib STEPS_TAKEN=General recommendations    0.027277442165671947
+    Attrib STEPS_TAKEN=Testing policy    0.010167971594787252
+    Attrib STEPS_TAKEN=Mass population testing    -0.025081371932412423
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.18161310137429415
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.21699097022795277
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.12867887939453218
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.01608167347798617
+    Attrib STEPS_TAKEN=Curfews    0.024358256678802537
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.004364732102304557
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.1484083687868989
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.2220673034656987
+    Attrib STEPS_TAKEN=Military deployment    0.048458508281872745
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.017712279696134287
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.18609834564408403
+    Attrib STEPS_TAKEN=Border checks    0.06669520747395166
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.011587871878576739
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.008058066320570031
+    Attrib STEPS_TAKEN=Full lockdown    0.04916598033262731
+    Attrib month_year=2020-02    -0.044449272410408996
+    Attrib month_year=2020-03    -0.11287572796977444
+    Attrib month_year=2020-04    0.0926790889293258
+    Attrib month_year=2020-05    0.164722879934702
+    Attrib month_year=2020-06    -0.13008664251419114
+    Attrib month_year=2020-07    0.017789220490222735
+    Attrib month_year=2020-08    0.08675826121136752
+    Attrib month_year=2020-09    -0.04510376284559042
+    Attrib month_year=2020-10    0.1266647026774131
+    Attrib month_year=2020-11    -0.02159188138090042
+    Attrib month_year=2020-12    0.0498276793767883
+    Attrib month_year=2021-01    -0.028944178864581407
+    Attrib month_year=2020-01    -0.027058543085320654
+    Attrib population    0.040716593012603025
+    Attrib stringency_index    -0.017086039437873735
+    Attrib total_cases    -0.00736885048480405
+    Attrib total_deaths    0.031133732526330306
+    Attrib total_tests    0.0524309643835916
+    Attrib new_cases    0.015686842923875854
+    Attrib new_deaths    0.04710332023187257
+    Attrib partially_vaccinated    0.02448863513052585
+    Attrib fully_vaccinated    -0.01055719394615813
+Sigmoid Node 24
+    Inputs    Weights
+    Threshold    -0.02852592230503131
+    Attrib COUNTRY=Argentina    -0.019746308149674242
+    Attrib COUNTRY=Australia    -0.008671213645981182
+    Attrib COUNTRY=Brazil    0.03744754396443489
+    Attrib COUNTRY=Canada    -0.026202378308763232
+    Attrib COUNTRY=China    0.025532831688982904
+    Attrib COUNTRY=France    -0.015279660480365623
+    Attrib COUNTRY=Germany    -0.0240094399917968
+    Attrib COUNTRY=India    -0.024648719142686827
+    Attrib COUNTRY=Indonesia    -0.0035619935489685783
+    Attrib COUNTRY=Italy    -0.03019249231639123
+    Attrib COUNTRY=Japan    0.015677681830194704
+    Attrib COUNTRY=Mexico    0.0296779650371701
+    Attrib COUNTRY=Russia    -0.019068677697315763
+    Attrib COUNTRY=Saudi Arabia    0.03985164753018654
+    Attrib COUNTRY=South Africa    0.032126212019157455
+    Attrib COUNTRY=Turkey    -0.046461942580771756
+    Attrib COUNTRY=United Kingdom    -0.03548945796446861
+    Attrib COUNTRY=United States    -0.005800566725498092
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.5890664234222865
+    Attrib STEPS_TAKEN=International flights suspension    0.38727107959425694
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.4881780158794387
+    Attrib STEPS_TAKEN=Visa restrictions    0.43827259312589345
+    Attrib STEPS_TAKEN=Closure of businesses and public services    1.0167131553041207
+    Attrib STEPS_TAKEN=Schools closure    0.7839865234959701
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.6293452020905532
+    Attrib STEPS_TAKEN=Limit public gatherings    0.7915030657246945
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.2096072021433417
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.0018960228854277839
+    Attrib STEPS_TAKEN=Border closure    0.4870516188632434
+    Attrib STEPS_TAKEN=Partial lockdown    0.1737239484852699
+    Attrib STEPS_TAKEN=State of emergency declared    6.423593006211967E-4
+    Attrib STEPS_TAKEN=Economic measures    -0.5083397500072364
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.5348477048461576
+    Attrib STEPS_TAKEN=General recommendations    -0.0032335501511861695
+    Attrib STEPS_TAKEN=Testing policy    -0.019859346827685878
+    Attrib STEPS_TAKEN=Mass population testing    -0.018891394838539178
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.7793259039150828
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.759742404062278
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.8677236646751221
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.03628144895377157
+    Attrib STEPS_TAKEN=Curfews    0.0028939290518020383
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.005060187178466027
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.08851169799230214
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.6863737178199422
+    Attrib STEPS_TAKEN=Military deployment    0.03474152436955552
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.0403983575162344
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.6817912998537602
+    Attrib STEPS_TAKEN=Border checks    0.1500413822115098
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.024962591845709693
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.004509286991595432
+    Attrib STEPS_TAKEN=Full lockdown    -0.0335248658086295
+    Attrib month_year=2020-02    -4.132442184692081E-4
+    Attrib month_year=2020-03    0.02673357149829104
+    Attrib month_year=2020-04    0.04009942189236727
+    Attrib month_year=2020-05    -0.1270670506238894
+    Attrib month_year=2020-06    -0.274613944341138
+    Attrib month_year=2020-07    0.1680147560773496
+    Attrib month_year=2020-08    0.1461427336201747
+    Attrib month_year=2020-09    -0.038165231610418515
+    Attrib month_year=2020-10    0.18317077274994176
+    Attrib month_year=2020-11    -0.25292607539133416
+    Attrib month_year=2020-12    0.004348338290083717
+    Attrib month_year=2021-01    0.0287580031717954
+    Attrib month_year=2020-01    0.016160725004944976
+    Attrib population    0.029642943040219014
+    Attrib stringency_index    0.09433158546383595
+    Attrib total_cases    0.11009311818350961
+    Attrib total_deaths    0.12026708453769261
+    Attrib total_tests    0.1571607301547868
+    Attrib new_cases    0.062941450476245
+    Attrib new_deaths    0.026678636794982998
+    Attrib partially_vaccinated    0.04074501888101635
+    Attrib fully_vaccinated    0.03519081877585899
+Sigmoid Node 25
+    Inputs    Weights
+    Threshold    -0.0012850796919291274
+    Attrib COUNTRY=Argentina    -0.018754663650378568
+    Attrib COUNTRY=Australia    0.03779666973504053
+    Attrib COUNTRY=Brazil    0.043056333044031
+    Attrib COUNTRY=Canada    0.030339363165177033
+    Attrib COUNTRY=China    -0.0012603885296753048
+    Attrib COUNTRY=France    -0.03540423998060589
+    Attrib COUNTRY=Germany    0.0028565136717726564
+    Attrib COUNTRY=India    0.014071506168087458
+    Attrib COUNTRY=Indonesia    -0.005641947295646134
+    Attrib COUNTRY=Italy    0.015499816970196742
+    Attrib COUNTRY=Japan    7.195092830844865E-4
+    Attrib COUNTRY=Mexico    0.01806673914461429
+    Attrib COUNTRY=Russia    -0.03797605275815086
+    Attrib COUNTRY=Saudi Arabia    -0.04682523728978238
+    Attrib COUNTRY=South Africa    -0.00359736068693748
+    Attrib COUNTRY=Turkey    -0.026451364617603047
+    Attrib COUNTRY=United Kingdom    0.009232847042777916
+    Attrib COUNTRY=United States    0.03403026910757505
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.12653274614692794
+    Attrib STEPS_TAKEN=International flights suspension    0.21008834158209955
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.1839653612234766
+    Attrib STEPS_TAKEN=Visa restrictions    0.29576535828616685
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.0710088535315912
+    Attrib STEPS_TAKEN=Schools closure    -0.013246366828412562
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.21406874858050953
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.022141918536878434
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.16978285893378067
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.04988291142107335
+    Attrib STEPS_TAKEN=Border closure    0.26741944696823555
+    Attrib STEPS_TAKEN=Partial lockdown    0.36293204511251825
+    Attrib STEPS_TAKEN=State of emergency declared    0.015693638141923233
+    Attrib STEPS_TAKEN=Economic measures    -0.12753945764300545
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.20794472390856186
+    Attrib STEPS_TAKEN=General recommendations    -0.03611614879260388
+    Attrib STEPS_TAKEN=Testing policy    -0.032790757941066985
+    Attrib STEPS_TAKEN=Mass population testing    0.047468925056265224
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.1730109992813209
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.22653197867488373
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.06505232289657081
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.009109049725372832
+    Attrib STEPS_TAKEN=Curfews    0.00219231110405492
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.046783390006759976
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.08844264332349533
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.1964372086484946
+    Attrib STEPS_TAKEN=Military deployment    -0.01802518349139067
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.025689570827838737
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.1510979864890481
+    Attrib STEPS_TAKEN=Border checks    0.09426594405390418
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.007733972698726298
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.04285871854805623
+    Attrib STEPS_TAKEN=Full lockdown    -0.043389935977969724
+    Attrib month_year=2020-02    -0.028099263908516848
+    Attrib month_year=2020-03    -0.09057593438872648
+    Attrib month_year=2020-04    -0.016430328877212876
+    Attrib month_year=2020-05    0.003184285438489509
+    Attrib month_year=2020-06    -0.11415183145581956
+    Attrib month_year=2020-07    0.03828086082028796
+    Attrib month_year=2020-08    0.02844929574749076
+    Attrib month_year=2020-09    0.018452297072155954
+    Attrib month_year=2020-10    0.0896235757932555
+    Attrib month_year=2020-11    -0.10595406309047836
+    Attrib month_year=2020-12    0.004264003749894449
+    Attrib month_year=2021-01    -0.036008006793019125
+    Attrib month_year=2020-01    -0.047744832716636945
+    Attrib population    0.018178401405307604
+    Attrib stringency_index    -0.029229735412106758
+    Attrib total_cases    0.0836608554772972
+    Attrib total_deaths    0.006523623827660523
+    Attrib total_tests    -0.00823660151737642
+    Attrib new_cases    0.03373212149879063
+    Attrib new_deaths    0.031772241156603306
+    Attrib partially_vaccinated    0.011556675106026829
+    Attrib fully_vaccinated    0.031271258081854825
+Sigmoid Node 26
+    Inputs    Weights
+    Threshold    0.03601127110345703
+    Attrib COUNTRY=Argentina    0.04388816188910931
+    Attrib COUNTRY=Australia    0.01769729499561977
+    Attrib COUNTRY=Brazil    -0.04909236196295539
+    Attrib COUNTRY=Canada    -0.03490714232362499
+    Attrib COUNTRY=China    -0.011647800850181876
+    Attrib COUNTRY=France    -0.02981513161012156
+    Attrib COUNTRY=Germany    -0.0395695989541109
+    Attrib COUNTRY=India    -0.03766480777690661
+    Attrib COUNTRY=Indonesia    -0.03145793735395867
+    Attrib COUNTRY=Italy    0.01847814689315483
+    Attrib COUNTRY=Japan    0.0364150951605831
+    Attrib COUNTRY=Mexico    -0.04046690630705856
+    Attrib COUNTRY=Russia    0.02101854445705373
+    Attrib COUNTRY=Saudi Arabia    0.02848861674720185
+    Attrib COUNTRY=South Africa    0.011470171487391968
+    Attrib COUNTRY=Turkey    -0.037761434020059916
+    Attrib COUNTRY=United Kingdom    -0.03680947824125788
+    Attrib COUNTRY=United States    0.01179056759608247
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.21244304703296385
+    Attrib STEPS_TAKEN=International flights suspension    0.5203682626328915
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.242897146707723
+    Attrib STEPS_TAKEN=Visa restrictions    0.5886530083094628
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.30129978095395654
+    Attrib STEPS_TAKEN=Schools closure    -0.3636198320851025
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.3042842599764709
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.2643677611285226
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.4817313409760708
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.04385206645911753
+    Attrib STEPS_TAKEN=Border closure    0.637172159014941
+    Attrib STEPS_TAKEN=Partial lockdown    -0.44899145731711515
+    Attrib STEPS_TAKEN=State of emergency declared    -0.022209402873123896
+    Attrib STEPS_TAKEN=Economic measures    0.32493378749123814
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.2538193039674548
+    Attrib STEPS_TAKEN=General recommendations    -0.04872280693157804
+    Attrib STEPS_TAKEN=Testing policy    0.032824469226996264
+    Attrib STEPS_TAKEN=Mass population testing    0.0135620149564918
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.605175587076911
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.26411397255778174
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.22672849249785462
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.021030336464172697
+    Attrib STEPS_TAKEN=Curfews    0.008936359797053914
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.01616660171504556
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.2722302123757681
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.3604265228735386
+    Attrib STEPS_TAKEN=Military deployment    -0.0031777305757137025
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.012564504592269848
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.2698557198784558
+    Attrib STEPS_TAKEN=Border checks    0.14483154650721655
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.00917816943394506
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.010024367719279961
+    Attrib STEPS_TAKEN=Full lockdown    -0.03428355304852061
+    Attrib month_year=2020-02    0.00880562042758097
+    Attrib month_year=2020-03    -0.05409839858651348
+    Attrib month_year=2020-04    -0.0654843657520768
+    Attrib month_year=2020-05    0.05446422301942035
+    Attrib month_year=2020-06    -0.11537108228964085
+    Attrib month_year=2020-07    -0.03402419382926598
+    Attrib month_year=2020-08    -0.013718666185723741
+    Attrib month_year=2020-09    -0.00818783482942366
+    Attrib month_year=2020-10    0.1825480755828758
+    Attrib month_year=2020-11    -0.07840068459801834
+    Attrib month_year=2020-12    0.024877658944086254
+    Attrib month_year=2021-01    -0.021094607783748234
+    Attrib month_year=2020-01    -0.04720596489050338
+    Attrib population    0.021789775373968395
+    Attrib stringency_index    -0.02802167955877959
+    Attrib total_cases    0.10125154187000385
+    Attrib total_deaths    0.12549974952060597
+    Attrib total_tests    -0.032111349742451216
+    Attrib new_cases    0.08232076266913098
+    Attrib new_deaths    0.009700955199580677
+    Attrib partially_vaccinated    0.007840126003118245
+    Attrib fully_vaccinated    0.017093920733160295
+Sigmoid Node 27
+    Inputs    Weights
+    Threshold    0.03451053048003326
+    Attrib COUNTRY=Argentina    0.027023429587306844
+    Attrib COUNTRY=Australia    -0.019919659468773766
+    Attrib COUNTRY=Brazil    -0.04593262135349594
+    Attrib COUNTRY=Canada    0.0416720705303444
+    Attrib COUNTRY=China    -0.018959551495702623
+    Attrib COUNTRY=France    0.007885285157943803
+    Attrib COUNTRY=Germany    0.008672430362227881
+    Attrib COUNTRY=India    -0.037883740576908256
+    Attrib COUNTRY=Indonesia    0.03658348483622094
+    Attrib COUNTRY=Italy    -0.02434362810487957
+    Attrib COUNTRY=Japan    0.029682515518316452
+    Attrib COUNTRY=Mexico    0.0161928729932017
+    Attrib COUNTRY=Russia    -0.024940425857497606
+    Attrib COUNTRY=Saudi Arabia    0.032974978072039474
+    Attrib COUNTRY=South Africa    -0.00881022195138511
+    Attrib COUNTRY=Turkey    -0.03745098764568995
+    Attrib COUNTRY=United Kingdom    -0.03406827542334065
+    Attrib COUNTRY=United States    -0.03097546018805013
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.11242078337385222
+    Attrib STEPS_TAKEN=International flights suspension    0.2608834747701661
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.15168200437981372
+    Attrib STEPS_TAKEN=Visa restrictions    0.35178583557802356
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.3142256536062285
+    Attrib STEPS_TAKEN=Schools closure    -0.25737232592608994
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.05093852912513046
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.19984511206151825
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.25004900701745875
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.007495744709950979
+    Attrib STEPS_TAKEN=Border closure    0.34908260405540714
+    Attrib STEPS_TAKEN=Partial lockdown    -0.881723059824866
+    Attrib STEPS_TAKEN=State of emergency declared    0.017756610120416266
+    Attrib STEPS_TAKEN=Economic measures    0.3247889404218248
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.09649428850262672
+    Attrib STEPS_TAKEN=General recommendations    0.02829955918545643
+    Attrib STEPS_TAKEN=Testing policy    -0.01848628088109268
+    Attrib STEPS_TAKEN=Mass population testing    -0.02495837077114356
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.3940353709334266
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.10188745331257817
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.25586289068959156
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.03801596965706759
+    Attrib STEPS_TAKEN=Curfews    -0.030649093051288625
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.02188391739462189
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.11530518865301946
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.11680133424004961
+    Attrib STEPS_TAKEN=Military deployment    0.03845070621732043
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.02991703990460705
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.09712131001944665
+    Attrib STEPS_TAKEN=Border checks    0.06037022324401974
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.03171284886080823
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.017499438391701108
+    Attrib STEPS_TAKEN=Full lockdown    -0.008022903447331517
+    Attrib month_year=2020-02    0.045555194289122705
+    Attrib month_year=2020-03    -0.018335872894170862
+    Attrib month_year=2020-04    -0.12152800807263052
+    Attrib month_year=2020-05    -0.002427402873950408
+    Attrib month_year=2020-06    0.018684193272720234
+    Attrib month_year=2020-07    -0.04646799646728704
+    Attrib month_year=2020-08    -0.02611042310535943
+    Attrib month_year=2020-09    -5.338310271376309E-4
+    Attrib month_year=2020-10    0.11831204964555506
+    Attrib month_year=2020-11    -0.05971499934339597
+    Attrib month_year=2020-12    0.057408826756843036
+    Attrib month_year=2021-01    -0.022042322280061467
+    Attrib month_year=2020-01    -0.02803423254261336
+    Attrib population    0.002946676054210076
+    Attrib stringency_index    -0.05077522378740189
+    Attrib total_cases    0.0854671859919617
+    Attrib total_deaths    0.04048262057419143
+    Attrib total_tests    -0.032105229308060944
+    Attrib new_cases    0.039260231781618714
+    Attrib new_deaths    -0.00154950001425199
+    Attrib partially_vaccinated    -0.008722026037604011
+    Attrib fully_vaccinated    0.030460367003129124
+Sigmoid Node 28
+    Inputs    Weights
+    Threshold    -0.00632220959571373
+    Attrib COUNTRY=Argentina    0.004644222421406531
+    Attrib COUNTRY=Australia    0.046996093900678076
+    Attrib COUNTRY=Brazil    0.008977252651912918
+    Attrib COUNTRY=Canada    -0.00913286343619013
+    Attrib COUNTRY=China    0.040264274529589084
+    Attrib COUNTRY=France    0.022719906245417587
+    Attrib COUNTRY=Germany    -0.015009833250607063
+    Attrib COUNTRY=India    -0.03838124546857024
+    Attrib COUNTRY=Indonesia    -0.021171269036363995
+    Attrib COUNTRY=Italy    -0.04642161702893776
+    Attrib COUNTRY=Japan    0.017844701183725914
+    Attrib COUNTRY=Mexico    -0.03459450461534187
+    Attrib COUNTRY=Russia    0.008230110115005171
+    Attrib COUNTRY=Saudi Arabia    -0.011587479527129699
+    Attrib COUNTRY=South Africa    0.048029825074629745
+    Attrib COUNTRY=Turkey    0.005640582384138469
+    Attrib COUNTRY=United Kingdom    0.018144776482131225
+    Attrib COUNTRY=United States    -0.019042020462893786
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.21915012987128135
+    Attrib STEPS_TAKEN=International flights suspension    0.3161246897960863
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.19016054501484964
+    Attrib STEPS_TAKEN=Visa restrictions    0.3706877341498677
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.17340688850995942
+    Attrib STEPS_TAKEN=Schools closure    0.06822251099573745
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.36279165571195354
+    Attrib STEPS_TAKEN=Limit public gatherings    0.04398041199228122
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.24616609458557298
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.03860219247135681
+    Attrib STEPS_TAKEN=Border closure    0.4174940507732295
+    Attrib STEPS_TAKEN=Partial lockdown    0.9918363609417714
+    Attrib STEPS_TAKEN=State of emergency declared    0.00603916937679113
+    Attrib STEPS_TAKEN=Economic measures    -0.35794146451741304
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.3033610966360721
+    Attrib STEPS_TAKEN=General recommendations    -0.03425965713663546
+    Attrib STEPS_TAKEN=Testing policy    0.037306083051367026
+    Attrib STEPS_TAKEN=Mass population testing    -0.013056142248427716
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.3365180399268829
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.35099185260629095
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.1048311940944642
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.047103720696552484
+    Attrib STEPS_TAKEN=Curfews    0.03645674036629086
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.04029117127927167
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.24064139081930885
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.38549994880186894
+    Attrib STEPS_TAKEN=Military deployment    -0.02831229584822269
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.00458885174308301
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.3212736236516539
+    Attrib STEPS_TAKEN=Border checks    0.0723013811547925
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.005366047744806798
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.011399113857443091
+    Attrib STEPS_TAKEN=Full lockdown    0.025803302102443998
+    Attrib month_year=2020-02    -0.027568587547231772
+    Attrib month_year=2020-03    -0.1435977097263176
+    Attrib month_year=2020-04    0.07212998463721675
+    Attrib month_year=2020-05    0.04103293973059422
+    Attrib month_year=2020-06    -0.212975446523339
+    Attrib month_year=2020-07    0.09061184776932335
+    Attrib month_year=2020-08    0.10726588092656118
+    Attrib month_year=2020-09    -0.046672645339463525
+    Attrib month_year=2020-10    0.17315653075550202
+    Attrib month_year=2020-11    -0.1162599168134963
+    Attrib month_year=2020-12    0.09472319745327594
+    Attrib month_year=2021-01    -0.045255737997773604
+    Attrib month_year=2020-01    0.0210634740330419
+    Attrib population    -0.02035153964261014
+    Attrib stringency_index    0.036120051852377114
+    Attrib total_cases    0.09273119206422675
+    Attrib total_deaths    0.09629902085493007
+    Attrib total_tests    0.056034813074814414
+    Attrib new_cases    -0.009628422281283794
+    Attrib new_deaths    0.04657607093393214
+    Attrib partially_vaccinated    0.00856087869947135
+    Attrib fully_vaccinated    0.015160313126886996
+Sigmoid Node 29
+    Inputs    Weights
+    Threshold    -0.015089318752379807
+    Attrib COUNTRY=Argentina    -0.03513942801283209
+    Attrib COUNTRY=Australia    -0.018122397912397857
+    Attrib COUNTRY=Brazil    -0.026107782850881146
+    Attrib COUNTRY=Canada    -0.04505786773608095
+    Attrib COUNTRY=China    0.0322272860086376
+    Attrib COUNTRY=France    -0.048396015421225395
+    Attrib COUNTRY=Germany    -0.007735813158731807
+    Attrib COUNTRY=India    -0.03407529680061616
+    Attrib COUNTRY=Indonesia    -0.021138204909890268
+    Attrib COUNTRY=Italy    -0.032950724705474145
+    Attrib COUNTRY=Japan    -0.0024388211832891
+    Attrib COUNTRY=Mexico    0.009322990324618252
+    Attrib COUNTRY=Russia    -0.016241324327899875
+    Attrib COUNTRY=Saudi Arabia    0.023298103976995152
+    Attrib COUNTRY=South Africa    -9.045207438240777E-5
+    Attrib COUNTRY=Turkey    -0.019245996805923305
+    Attrib COUNTRY=United Kingdom    0.004637108058942553
+    Attrib COUNTRY=United States    0.029853314068690726
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.5164590742260722
+    Attrib STEPS_TAKEN=International flights suspension    0.6583709534943866
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.46710936165344963
+    Attrib STEPS_TAKEN=Visa restrictions    0.7160587687036156
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.5371145179007888
+    Attrib STEPS_TAKEN=Schools closure    0.37926375390016837
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.615753023577604
+    Attrib STEPS_TAKEN=Limit public gatherings    0.363587918380318
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.5241960193278585
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.0028239871244351913
+    Attrib STEPS_TAKEN=Border closure    0.7607112879354653
+    Attrib STEPS_TAKEN=Partial lockdown    -0.5623225282099426
+    Attrib STEPS_TAKEN=State of emergency declared    0.01571493804396261
+    Attrib STEPS_TAKEN=Economic measures    -0.33742067926989205
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.5172778379655445
+    Attrib STEPS_TAKEN=General recommendations    0.04616582824979669
+    Attrib STEPS_TAKEN=Testing policy    -0.0169206135972201
+    Attrib STEPS_TAKEN=Mass population testing    0.031346504448720044
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.465792962123175
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.6883075830782991
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.4354505290304346
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.012718277591468728
+    Attrib STEPS_TAKEN=Curfews    0.038180398656015024
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.012248743194835113
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.32794739039626847
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.6033003321970899
+    Attrib STEPS_TAKEN=Military deployment    0.02581149482724296
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.007457338320270769
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.6072949816779358
+    Attrib STEPS_TAKEN=Border checks    0.2022175805201937
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.0285286019645392
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.03234790732609305
+    Attrib STEPS_TAKEN=Full lockdown    -0.04472952397367297
+    Attrib month_year=2020-02    0.02717800642998719
+    Attrib month_year=2020-03    0.014160490328819414
+    Attrib month_year=2020-04    0.016262090334523728
+    Attrib month_year=2020-05    -0.24379041741624238
+    Attrib month_year=2020-06    -0.1696302177101925
+    Attrib month_year=2020-07    0.08298568861520798
+    Attrib month_year=2020-08    0.11053035560746914
+    Attrib month_year=2020-09    -0.04689443245122565
+    Attrib month_year=2020-10    0.2625135675783598
+    Attrib month_year=2020-11    -0.2548411773420782
+    Attrib month_year=2020-12    0.05592324848679415
+    Attrib month_year=2021-01    -0.00781171011606413
+    Attrib month_year=2020-01    0.005900560878137243
+    Attrib population    -0.03965953847704883
+    Attrib stringency_index    -0.05826423130938851
+    Attrib total_cases    0.13490915428654204
+    Attrib total_deaths    0.12837564476793892
+    Attrib total_tests    0.15183894979771945
+    Attrib new_cases    0.134082737849143
+    Attrib new_deaths    -0.03748934534580921
+    Attrib partially_vaccinated    0.016224308222130265
+    Attrib fully_vaccinated    -0.015831082369625826
+Sigmoid Node 30
+    Inputs    Weights
+    Threshold    0.034651312920647874
+    Attrib COUNTRY=Argentina    0.047737802038675406
+    Attrib COUNTRY=Australia    -0.008665531404476859
+    Attrib COUNTRY=Brazil    -0.013748930476992952
+    Attrib COUNTRY=Canada    0.02454507301736117
+    Attrib COUNTRY=China    0.00928984933338202
+    Attrib COUNTRY=France    0.02570874507895181
+    Attrib COUNTRY=Germany    0.034396976255898576
+    Attrib COUNTRY=India    -0.011499806269411203
+    Attrib COUNTRY=Indonesia    -0.027897193592281613
+    Attrib COUNTRY=Italy    0.02778636444564811
+    Attrib COUNTRY=Japan    -5.044276800167738E-4
+    Attrib COUNTRY=Mexico    -0.04156135423747766
+    Attrib COUNTRY=Russia    -0.0089409492637774
+    Attrib COUNTRY=Saudi Arabia    -0.00765049390211512
+    Attrib COUNTRY=South Africa    0.02283482147545511
+    Attrib COUNTRY=Turkey    -0.02169067272708826
+    Attrib COUNTRY=United Kingdom    0.02658842818175708
+    Attrib COUNTRY=United States    0.001024105725686307
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.6444261203318242
+    Attrib STEPS_TAKEN=International flights suspension    0.1780111180097136
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.567195920123271
+    Attrib STEPS_TAKEN=Visa restrictions    0.26634412063209884
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.6919766623330712
+    Attrib STEPS_TAKEN=Schools closure    0.5962938912188652
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.7035227643388365
+    Attrib STEPS_TAKEN=Limit public gatherings    0.5074521508188127
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.09860897635094984
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.04198725254351794
+    Attrib STEPS_TAKEN=Border closure    0.3119971228826367
+    Attrib STEPS_TAKEN=Partial lockdown    -0.6741368278361328
+    Attrib STEPS_TAKEN=State of emergency declared    0.0058821861281287205
+    Attrib STEPS_TAKEN=Economic measures    0.8687150424712794
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.5995239816721928
+    Attrib STEPS_TAKEN=General recommendations    -0.03225151668186689
+    Attrib STEPS_TAKEN=Testing policy    0.03220525954558598
+    Attrib STEPS_TAKEN=Mass population testing    -0.029231993534367784
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    1.086319530138659
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.6757545648345887
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.54330765090472
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.030879227070788818
+    Attrib STEPS_TAKEN=Curfews    0.0423024878326287
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.04095944142386691
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.0841335384360928
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.7019124173910809
+    Attrib STEPS_TAKEN=Military deployment    0.030810276046668028
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.03600176035672677
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.6654790876687154
+    Attrib STEPS_TAKEN=Border checks    0.08881372871320878
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.028403415961043676
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.048298153777575084
+    Attrib STEPS_TAKEN=Full lockdown    -9.017273413505222E-4
+    Attrib month_year=2020-02    -0.049318054692892827
+    Attrib month_year=2020-03    0.01856400786923151
+    Attrib month_year=2020-04    -0.028159442773710724
+    Attrib month_year=2020-05    -0.07897855918993597
+    Attrib month_year=2020-06    -0.11334413000174477
+    Attrib month_year=2020-07    0.09733691501595446
+    Attrib month_year=2020-08    0.07294231981272861
+    Attrib month_year=2020-09    0.019117721297423562
+    Attrib month_year=2020-10    0.09970635872909706
+    Attrib month_year=2020-11    -0.19940316216625584
+    Attrib month_year=2020-12    0.017355050270862215
+    Attrib month_year=2021-01    -0.031121231515416837
+    Attrib month_year=2020-01    0.015609087246074113
+    Attrib population    -0.017972178112401295
+    Attrib stringency_index    0.12478882025135647
+    Attrib total_cases    -0.015740271215951143
+    Attrib total_deaths    -0.028924281161952302
+    Attrib total_tests    0.10190375619781769
+    Attrib new_cases    0.09858331453395759
+    Attrib new_deaths    6.923001057900451E-4
+    Attrib partially_vaccinated    -0.03883764105803013
+    Attrib fully_vaccinated    -0.011895174860602507
+Sigmoid Node 31
+    Inputs    Weights
+    Threshold    -0.04625920189058035
+    Attrib COUNTRY=Argentina    -0.017963170264953733
+    Attrib COUNTRY=Australia    0.029072808847355316
+    Attrib COUNTRY=Brazil    0.012024811234698361
+    Attrib COUNTRY=Canada    -0.020631200926173023
+    Attrib COUNTRY=China    0.03878340320298827
+    Attrib COUNTRY=France    0.026705775207044577
+    Attrib COUNTRY=Germany    0.00556216264496899
+    Attrib COUNTRY=India    0.0085753585571504
+    Attrib COUNTRY=Indonesia    -0.0019904964524137675
+    Attrib COUNTRY=Italy    0.009205561163884178
+    Attrib COUNTRY=Japan    -0.007828561332701524
+    Attrib COUNTRY=Mexico    0.01928726786898148
+    Attrib COUNTRY=Russia    0.0167616393841718
+    Attrib COUNTRY=Saudi Arabia    0.03236112282171552
+    Attrib COUNTRY=South Africa    -0.027654739127078855
+    Attrib COUNTRY=Turkey    0.03555877741480895
+    Attrib COUNTRY=United Kingdom    0.0077744087684571556
+    Attrib COUNTRY=United States    0.03257011099883006
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.23663302146445148
+    Attrib STEPS_TAKEN=International flights suspension    -0.2419182478156643
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.1801629544999465
+    Attrib STEPS_TAKEN=Visa restrictions    -0.23686033131591647
+    Attrib STEPS_TAKEN=Closure of businesses and public services    1.0151775035321406
+    Attrib STEPS_TAKEN=Schools closure    0.9163033183289768
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.24139661014724964
+    Attrib STEPS_TAKEN=Limit public gatherings    0.9193705679415966
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.31421198875492334
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.03826714501271714
+    Attrib STEPS_TAKEN=Border closure    -0.19994271912367795
+    Attrib STEPS_TAKEN=Partial lockdown    -0.4250212884982769
+    Attrib STEPS_TAKEN=State of emergency declared    0.025999600806449974
+    Attrib STEPS_TAKEN=Economic measures    0.01783938597103876
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.16701836517107657
+    Attrib STEPS_TAKEN=General recommendations    -0.03189875235879179
+    Attrib STEPS_TAKEN=Testing policy    0.0021949378048870746
+    Attrib STEPS_TAKEN=Mass population testing    0.0021150068104174857
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.044109283430622426
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.2705480346768775
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.8274870061039146
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.040470933233096806
+    Attrib STEPS_TAKEN=Curfews    -0.011349243571236435
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.024586963461876235
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.26036554404568235
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.1673264993910553
+    Attrib STEPS_TAKEN=Military deployment    0.016172065165017985
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.03348887023500763
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.26977090705047735
+    Attrib STEPS_TAKEN=Border checks    0.0039039003600896374
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.03882722531132349
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.030661736469227777
+    Attrib STEPS_TAKEN=Full lockdown    0.029588893739736388
+    Attrib month_year=2020-02    0.009050681199849177
+    Attrib month_year=2020-03    0.14297585508205712
+    Attrib month_year=2020-04    0.0514367546290815
+    Attrib month_year=2020-05    -0.15882007451799895
+    Attrib month_year=2020-06    0.004507675377676218
+    Attrib month_year=2020-07    0.16718093389152414
+    Attrib month_year=2020-08    0.14133906257005857
+    Attrib month_year=2020-09    -0.02923182892273939
+    Attrib month_year=2020-10    -0.06827956881232942
+    Attrib month_year=2020-11    -0.05500719064930289
+    Attrib month_year=2020-12    -0.016379343152900114
+    Attrib month_year=2021-01    0.046563600226543336
+    Attrib month_year=2020-01    -0.013040314215500205
+    Attrib population    -0.0031434336829586074
+    Attrib stringency_index    0.08970303224985414
+    Attrib total_cases    -0.073045876311374
+    Attrib total_deaths    -0.07320864569922034
+    Attrib total_tests    0.1632642913905024
+    Attrib new_cases    0.03346187501180419
+    Attrib new_deaths    -0.008891125882990658
+    Attrib partially_vaccinated    -0.015731371999395873
+    Attrib fully_vaccinated    0.00860092133090129
+Sigmoid Node 32
+    Inputs    Weights
+    Threshold    0.0017676435031078943
+    Attrib COUNTRY=Argentina    -0.02923590167358281
+    Attrib COUNTRY=Australia    -0.0476975274231736
+    Attrib COUNTRY=Brazil    -0.01474001719084124
+    Attrib COUNTRY=Canada    -0.02552645432957086
+    Attrib COUNTRY=China    -0.022369186822392265
+    Attrib COUNTRY=France    0.03568685525115767
+    Attrib COUNTRY=Germany    0.0118806999074648
+    Attrib COUNTRY=India    0.02107655993435867
+    Attrib COUNTRY=Indonesia    0.03215312919094414
+    Attrib COUNTRY=Italy    -0.023741320435640513
+    Attrib COUNTRY=Japan    -0.004780660310035115
+    Attrib COUNTRY=Mexico    0.023899991032318962
+    Attrib COUNTRY=Russia    0.007862927689236021
+    Attrib COUNTRY=Saudi Arabia    -0.02282832899532481
+    Attrib COUNTRY=South Africa    -0.038645669359208684
+    Attrib COUNTRY=Turkey    -0.04557700054646348
+    Attrib COUNTRY=United Kingdom    0.013420039279535362
+    Attrib COUNTRY=United States    -0.02704947272303191
+    Attrib STEPS_TAKEN=Awareness campaigns    0.06076869885561922
+    Attrib STEPS_TAKEN=International flights suspension    -0.4681009937084234
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.09293068064313437
+    Attrib STEPS_TAKEN=Visa restrictions    -0.4355427227643054
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.2899191685949679
+    Attrib STEPS_TAKEN=Schools closure    0.3405507719276239
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.20110912573343992
+    Attrib STEPS_TAKEN=Limit public gatherings    0.21290651878206177
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.459498226634551
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.04345416717749749
+    Attrib STEPS_TAKEN=Border closure    -0.5026143883630384
+    Attrib STEPS_TAKEN=Partial lockdown    0.5369629212597096
+    Attrib STEPS_TAKEN=State of emergency declared    0.02283277585517403
+    Attrib STEPS_TAKEN=Economic measures    0.0012220497993719603
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.12271226879887931
+    Attrib STEPS_TAKEN=General recommendations    -0.039801911155521265
+    Attrib STEPS_TAKEN=Testing policy    0.0022626309066038144
+    Attrib STEPS_TAKEN=Mass population testing    0.034849368176976064
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.07045078100379344
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.11477286165570873
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.1424125754724052
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.009930598525885848
+    Attrib STEPS_TAKEN=Curfews    0.019076457659485985
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.006642096745127037
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.35443591742018743
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.08902879743381853
+    Attrib STEPS_TAKEN=Military deployment    0.02072328991977626
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.037094763726616
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.08441924378364764
+    Attrib STEPS_TAKEN=Border checks    -0.12048589024562661
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.023816702409305748
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.031687652046837586
+    Attrib STEPS_TAKEN=Full lockdown    0.02237096172549305
+    Attrib month_year=2020-02    -0.021267217071912883
+    Attrib month_year=2020-03    -0.00947730046570568
+    Attrib month_year=2020-04    0.05342495942288519
+    Attrib month_year=2020-05    0.06749507459951394
+    Attrib month_year=2020-06    0.028990574578290816
+    Attrib month_year=2020-07    0.0325091633621596
+    Attrib month_year=2020-08    -0.05080229675814667
+    Attrib month_year=2020-09    -0.04274821082735747
+    Attrib month_year=2020-10    -0.17967505979782572
+    Attrib month_year=2020-11    0.09117397659162303
+    Attrib month_year=2020-12    -0.017295541642031856
+    Attrib month_year=2021-01    0.02835359571938363
+    Attrib month_year=2020-01    -0.03083145255333194
+    Attrib population    0.02391056517603135
+    Attrib stringency_index    0.053142467044069774
+    Attrib total_cases    -0.05267483990646083
+    Attrib total_deaths    -0.07887092848781525
+    Attrib total_tests    0.010787025201692642
+    Attrib new_cases    -0.04320298473341873
+    Attrib new_deaths    0.07356054837708982
+    Attrib partially_vaccinated    0.02127019150279756
+    Attrib fully_vaccinated    0.04714784677830684
+Sigmoid Node 33
+    Inputs    Weights
+    Threshold    -0.06679134013780087
+    Attrib COUNTRY=Argentina    -8.617050637471438E-4
+    Attrib COUNTRY=Australia    -0.008930423673240359
+    Attrib COUNTRY=Brazil    -0.012077227205985627
+    Attrib COUNTRY=Canada    -0.006144565597782405
+    Attrib COUNTRY=China    0.004024148986908074
+    Attrib COUNTRY=France    -0.02703023512338745
+    Attrib COUNTRY=Germany    -0.00434681932879024
+    Attrib COUNTRY=India    -0.03137255616581387
+    Attrib COUNTRY=Indonesia    -0.04334231322941739
+    Attrib COUNTRY=Italy    0.013512650500319828
+    Attrib COUNTRY=Japan    -0.030810208193569333
+    Attrib COUNTRY=Mexico    -0.03283344495176324
+    Attrib COUNTRY=Russia    0.04167201385764717
+    Attrib COUNTRY=Saudi Arabia    0.020163861045204
+    Attrib COUNTRY=South Africa    -0.011793835784809234
+    Attrib COUNTRY=Turkey    -0.028389261375575715
+    Attrib COUNTRY=United Kingdom    0.028246131189782947
+    Attrib COUNTRY=United States    -0.03209595453654243
+    Attrib STEPS_TAKEN=Awareness campaigns    0.20002824877115674
+    Attrib STEPS_TAKEN=International flights suspension    -0.2464890078664424
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.16452906509868004
+    Attrib STEPS_TAKEN=Visa restrictions    -0.31121165041373305
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.46080678893219423
+    Attrib STEPS_TAKEN=Schools closure    -0.2578717867956167
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.3561523887691394
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.2927311014124729
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.19033361088011214
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.035102225970715814
+    Attrib STEPS_TAKEN=Border closure    -0.2379368901371148
+    Attrib STEPS_TAKEN=Partial lockdown    -0.699089139370549
+    Attrib STEPS_TAKEN=State of emergency declared    0.01587541250419003
+    Attrib STEPS_TAKEN=Economic measures    0.9520690144297166
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.17826688391763548
+    Attrib STEPS_TAKEN=General recommendations    0.025023650723465643
+    Attrib STEPS_TAKEN=Testing policy    -0.005658276048836751
+    Attrib STEPS_TAKEN=Mass population testing    0.005298458712294327
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    1.2312660108573374
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.2334642160152945
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.34022645506256394
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.040268274277576635
+    Attrib STEPS_TAKEN=Curfews    -0.014548361875766094
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.011876707270633814
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.13562608201835719
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.2563590783973397
+    Attrib STEPS_TAKEN=Military deployment    -0.028069828500753083
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.035086585211566865
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.22625604422372692
+    Attrib STEPS_TAKEN=Border checks    -0.06718406606192034
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.02720871624278062
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.048055222532576485
+    Attrib STEPS_TAKEN=Full lockdown    -0.017603533688149424
+    Attrib month_year=2020-02    0.039914987659377746
+    Attrib month_year=2020-03    0.03019907565966688
+    Attrib month_year=2020-04    -0.1110309935478775
+    Attrib month_year=2020-05    0.10060378710040155
+    Attrib month_year=2020-06    0.2206722563171432
+    Attrib month_year=2020-07    -0.08931308199534108
+    Attrib month_year=2020-08    -0.12007737676867973
+    Attrib month_year=2020-09    -0.02074603109557621
+    Attrib month_year=2020-10    -0.10011517527478278
+    Attrib month_year=2020-11    0.14795642016482957
+    Attrib month_year=2020-12    0.0081757331353572
+    Attrib month_year=2021-01    -0.006720808663470509
+    Attrib month_year=2020-01    -0.010971296653418228
+    Attrib population    -0.02882313154401125
+    Attrib stringency_index    0.029337525010371287
+    Attrib total_cases    -0.03519145955275254
+    Attrib total_deaths    -0.05778913206243558
+    Attrib total_tests    -0.07962484559803286
+    Attrib new_cases    -0.03328426221409427
+    Attrib new_deaths    0.042446898879580135
+    Attrib partially_vaccinated    -0.02136814073104575
+    Attrib fully_vaccinated    0.04685800484356181
+Sigmoid Node 34
+    Inputs    Weights
+    Threshold    -0.05564445559896731
+    Attrib COUNTRY=Argentina    -0.029948356201707205
+    Attrib COUNTRY=Australia    0.04273358391715437
+    Attrib COUNTRY=Brazil    0.025015822461559437
+    Attrib COUNTRY=Canada    -0.030560254246685205
+    Attrib COUNTRY=China    -0.004624166922161367
+    Attrib COUNTRY=France    -0.032633807879432965
+    Attrib COUNTRY=Germany    0.041948332472986266
+    Attrib COUNTRY=India    -0.04383216706053583
+    Attrib COUNTRY=Indonesia    0.00874478293950727
+    Attrib COUNTRY=Italy    -0.02472322369350323
+    Attrib COUNTRY=Japan    -0.049862343578946616
+    Attrib COUNTRY=Mexico    -0.049338232386800046
+    Attrib COUNTRY=Russia    -0.04870534335039309
+    Attrib COUNTRY=Saudi Arabia    -0.004138670428465663
+    Attrib COUNTRY=South Africa    -0.034399601935864034
+    Attrib COUNTRY=Turkey    0.011352959081568526
+    Attrib COUNTRY=United Kingdom    -0.02280142759567575
+    Attrib COUNTRY=United States    -0.007891783324057752
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.21079889500962787
+    Attrib STEPS_TAKEN=International flights suspension    0.26618586460006627
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.18281063988364668
+    Attrib STEPS_TAKEN=Visa restrictions    0.31157673310816864
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.46179950707815814
+    Attrib STEPS_TAKEN=Schools closure    -0.4325318808965593
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.2970922380848943
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.39024851499076885
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.2899794223621401
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.04977253028172937
+    Attrib STEPS_TAKEN=Border closure    0.38434088540458794
+    Attrib STEPS_TAKEN=Partial lockdown    -0.13767969383164336
+    Attrib STEPS_TAKEN=State of emergency declared    0.03754437380304794
+    Attrib STEPS_TAKEN=Economic measures    0.8755373615240125
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.20089380710674357
+    Attrib STEPS_TAKEN=General recommendations    -0.020991913182833413
+    Attrib STEPS_TAKEN=Testing policy    0.012149880295039418
+    Attrib STEPS_TAKEN=Mass population testing    -0.01964386742305925
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    1.2890946117162099
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.12615530762499313
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.3701409388698136
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.03566492437629141
+    Attrib STEPS_TAKEN=Curfews    0.0356773171305768
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.01408793074547001
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.19861526681947564
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.29138548647394574
+    Attrib STEPS_TAKEN=Military deployment    0.037378211006064185
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.04473685223044343
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.17324043066214198
+    Attrib STEPS_TAKEN=Border checks    0.13328058043457947
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.019042844889254493
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.04750893557107882
+    Attrib STEPS_TAKEN=Full lockdown    -0.003200286575528878
+    Attrib month_year=2020-02    -0.04967289701182514
+    Attrib month_year=2020-03    -0.043858605417603856
+    Attrib month_year=2020-04    -0.04858139590897196
+    Attrib month_year=2020-05    0.20367404291940333
+    Attrib month_year=2020-06    -0.035335938501076164
+    Attrib month_year=2020-07    -0.041211303274798876
+    Attrib month_year=2020-08    0.01695942834868598
+    Attrib month_year=2020-09    0.03304853927018962
+    Attrib month_year=2020-10    0.10011625805064586
+    Attrib month_year=2020-11    -0.03895492187847957
+    Attrib month_year=2020-12    0.09104291823972806
+    Attrib month_year=2021-01    0.002958048535485744
+    Attrib month_year=2020-01    -0.003739702913148471
+    Attrib population    -0.03209280272749061
+    Attrib stringency_index    0.03617166627095327
+    Attrib total_cases    0.05127729694056338
+    Attrib total_deaths    0.04981325087174103
+    Attrib total_tests    -0.09891602447771576
+    Attrib new_cases    0.008973691675911298
+    Attrib new_deaths    0.05295332332500543
+    Attrib partially_vaccinated    -0.03418694316198537
+    Attrib fully_vaccinated    0.012087489012459887
+Sigmoid Node 35
+    Inputs    Weights
+    Threshold    0.0596602625438397
+    Attrib COUNTRY=Argentina    -0.012147148731891946
+    Attrib COUNTRY=Australia    -0.027236424486274825
+    Attrib COUNTRY=Brazil    0.014989210171689804
+    Attrib COUNTRY=Canada    0.010189857459670625
+    Attrib COUNTRY=China    -0.035835540390564184
+    Attrib COUNTRY=France    0.03954942524646854
+    Attrib COUNTRY=Germany    0.0170674493521544
+    Attrib COUNTRY=India    -0.028267181334612014
+    Attrib COUNTRY=Indonesia    0.034166587483641694
+    Attrib COUNTRY=Italy    0.04289431874094886
+    Attrib COUNTRY=Japan    0.041930251337650756
+    Attrib COUNTRY=Mexico    0.009808411686155559
+    Attrib COUNTRY=Russia    -0.023866806192559844
+    Attrib COUNTRY=Saudi Arabia    0.00648900574424871
+    Attrib COUNTRY=South Africa    0.043656831095101614
+    Attrib COUNTRY=Turkey    0.038316263461279906
+    Attrib COUNTRY=United Kingdom    0.027244708111297963
+    Attrib COUNTRY=United States    0.0134162541181638
+    Attrib STEPS_TAKEN=Awareness campaigns    0.21519457642059567
+    Attrib STEPS_TAKEN=International flights suspension    0.2761288584303766
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.1992271719014789
+    Attrib STEPS_TAKEN=Visa restrictions    0.3382758205780121
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.5757986480194007
+    Attrib STEPS_TAKEN=Schools closure    -0.48652669046831937
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.33905632184044476
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.511530572652977
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.17415714267604396
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.003135232949233034
+    Attrib STEPS_TAKEN=Border closure    0.3760465714910362
+    Attrib STEPS_TAKEN=Partial lockdown    0.3180615168864988
+    Attrib STEPS_TAKEN=State of emergency declared    0.0327755344773422
+    Attrib STEPS_TAKEN=Economic measures    -0.8017556380451406
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.1526999602082418
+    Attrib STEPS_TAKEN=General recommendations    -0.04745137384204295
+    Attrib STEPS_TAKEN=Testing policy    0.006626552640211669
+    Attrib STEPS_TAKEN=Mass population testing    -0.047074116859600085
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.8648085555630699
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.16456626184673945
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.4262227978385695
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.016065412941167104
+    Attrib STEPS_TAKEN=Curfews    -0.03524765898554412
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.02996357361913328
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.10153313720683914
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.2456633257390781
+    Attrib STEPS_TAKEN=Military deployment    -0.03907166702337059
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.028278576420363077
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.3134917052853661
+    Attrib STEPS_TAKEN=Border checks    0.016600731681555188
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.036817256713708085
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.042095703797895824
+    Attrib STEPS_TAKEN=Full lockdown    -0.042597355231053007
+    Attrib month_year=2020-02    -0.02216642443941761
+    Attrib month_year=2020-03    -0.1546559685860073
+    Attrib month_year=2020-04    -0.0015494169902646024
+    Attrib month_year=2020-05    0.01126347652497141
+    Attrib month_year=2020-06    -0.08826736178787585
+    Attrib month_year=2020-07    -0.04481068050134559
+    Attrib month_year=2020-08    -0.030314141242427248
+    Attrib month_year=2020-09    -0.04445231360358365
+    Attrib month_year=2020-10    0.02617016876147972
+    Attrib month_year=2020-11    0.10720417549566202
+    Attrib month_year=2020-12    -0.04024802557900759
+    Attrib month_year=2021-01    0.033310716320378936
+    Attrib month_year=2020-01    0.04395278432276167
+    Attrib population    0.0030889462012130137
+    Attrib stringency_index    -0.16235025898834066
+    Attrib total_cases    0.12672752652132643
+    Attrib total_deaths    0.14202682951880347
+    Attrib total_tests    -0.08953460580771516
+    Attrib new_cases    0.014099328376734102
+    Attrib new_deaths    -0.013513678216172794
+    Attrib partially_vaccinated    -0.03808364260095884
+    Attrib fully_vaccinated    -0.0020478446960350075
+Sigmoid Node 36
+    Inputs    Weights
+    Threshold    -0.027399602651304828
+    Attrib COUNTRY=Argentina    0.005247523939564382
+    Attrib COUNTRY=Australia    0.01586717264519448
+    Attrib COUNTRY=Brazil    0.04464297337513683
+    Attrib COUNTRY=Canada    0.03741807728616493
+    Attrib COUNTRY=China    -0.004423119313556753
+    Attrib COUNTRY=France    -0.014878935711561972
+    Attrib COUNTRY=Germany    -0.03661533732355975
+    Attrib COUNTRY=India    0.011234173220386647
+    Attrib COUNTRY=Indonesia    -0.04354140096663305
+    Attrib COUNTRY=Italy    0.0128817867453688
+    Attrib COUNTRY=Japan    7.559040434180209E-4
+    Attrib COUNTRY=Mexico    0.008751065292351187
+    Attrib COUNTRY=Russia    -0.0047253372586356646
+    Attrib COUNTRY=Saudi Arabia    -0.022022797558712538
+    Attrib COUNTRY=South Africa    -0.024324739792378137
+    Attrib COUNTRY=Turkey    0.00362877558503414
+    Attrib COUNTRY=United Kingdom    0.02526668517751887
+    Attrib COUNTRY=United States    -0.008116193062082465
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.3145013727728692
+    Attrib STEPS_TAKEN=International flights suspension    0.9358768883988803
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.33015948836890735
+    Attrib STEPS_TAKEN=Visa restrictions    1.0310639931835468
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.3999707697963004
+    Attrib STEPS_TAKEN=Schools closure    -0.5064720865602946
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.5014649832620591
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.32376749933340176
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.8402033176204706
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.03699523849382373
+    Attrib STEPS_TAKEN=Border closure    1.11832103966603
+    Attrib STEPS_TAKEN=Partial lockdown    -0.21535851146155266
+    Attrib STEPS_TAKEN=State of emergency declared    0.028043470140408824
+    Attrib STEPS_TAKEN=Economic measures    -0.008732279494080512
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.40171995381747927
+    Attrib STEPS_TAKEN=General recommendations    -0.013165690318237722
+    Attrib STEPS_TAKEN=Testing policy    -0.008148269512759002
+    Attrib STEPS_TAKEN=Mass population testing    -0.009235618181402769
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.09241600599685487
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.5126816481364904
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.20700077236959116
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.04635158031393693
+    Attrib STEPS_TAKEN=Curfews    -0.04605079694076575
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.03448947143527262
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.5914045372439563
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.5461742245560529
+    Attrib STEPS_TAKEN=Military deployment    -0.009743032254952433
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.005514379290478766
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.3961832744919493
+    Attrib STEPS_TAKEN=Border checks    0.28392631830779536
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.038950662623900234
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.03156514640730877
+    Attrib STEPS_TAKEN=Full lockdown    0.014923827856519495
+    Attrib month_year=2020-02    0.016155419069067437
+    Attrib month_year=2020-03    -0.037595695109791695
+    Attrib month_year=2020-04    -5.343520468917544E-4
+    Attrib month_year=2020-05    -0.026569007466150405
+    Attrib month_year=2020-06    -0.1922592918400685
+    Attrib month_year=2020-07    -0.0025932079878688155
+    Attrib month_year=2020-08    0.0741225497308589
+    Attrib month_year=2020-09    -0.01629032263030805
+    Attrib month_year=2020-10    0.40752650247087224
+    Attrib month_year=2020-11    -0.2501921246136153
+    Attrib month_year=2020-12    0.04415022043689722
+    Attrib month_year=2021-01    0.038217810394639576
+    Attrib month_year=2020-01    -0.027016693973769115
+    Attrib population    -0.043384489650475755
+    Attrib stringency_index    -0.07006551937242839
+    Attrib total_cases    0.17541427343335603
+    Attrib total_deaths    0.17174122721467489
+    Attrib total_tests    -0.016294417723153605
+    Attrib new_cases    0.05623408482484736
+    Attrib new_deaths    0.007178712946725092
+    Attrib partially_vaccinated    0.04819478130033043
+    Attrib fully_vaccinated    -0.018331158656824387
+Sigmoid Node 37
+    Inputs    Weights
+    Threshold    8.947124707753614E-4
+    Attrib COUNTRY=Argentina    -0.02840410571877987
+    Attrib COUNTRY=Australia    0.008902109458346338
+    Attrib COUNTRY=Brazil    0.03800933221577464
+    Attrib COUNTRY=Canada    -0.03696786109449995
+    Attrib COUNTRY=China    -0.04544266931414564
+    Attrib COUNTRY=France    0.02741242087077428
+    Attrib COUNTRY=Germany    0.04396666903023187
+    Attrib COUNTRY=India    -0.014177903304279392
+    Attrib COUNTRY=Indonesia    0.027440183495305692
+    Attrib COUNTRY=Italy    0.04250305616758841
+    Attrib COUNTRY=Japan    -0.043937128095720125
+    Attrib COUNTRY=Mexico    -0.04727273756130962
+    Attrib COUNTRY=Russia    -0.03158773846969546
+    Attrib COUNTRY=Saudi Arabia    -0.041578011083675294
+    Attrib COUNTRY=South Africa    -0.047180942442446576
+    Attrib COUNTRY=Turkey    0.004976867015155609
+    Attrib COUNTRY=United Kingdom    -0.01613926341035289
+    Attrib COUNTRY=United States    0.04562582468118824
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.15568211007361782
+    Attrib STEPS_TAKEN=International flights suspension    0.4897501692631228
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.19758355774325723
+    Attrib STEPS_TAKEN=Visa restrictions    0.5707789036365224
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.3546177766635739
+    Attrib STEPS_TAKEN=Schools closure    -0.38756268849486614
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.22576239244528176
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.3186235119375155
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.4402453319855611
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.019866768942406493
+    Attrib STEPS_TAKEN=Border closure    0.6568288817395886
+    Attrib STEPS_TAKEN=Partial lockdown    0.5170358945121669
+    Attrib STEPS_TAKEN=State of emergency declared    -0.04249503975430546
+    Attrib STEPS_TAKEN=Economic measures    -0.1790768879288212
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.202077556019147
+    Attrib STEPS_TAKEN=General recommendations    -0.033578385163339955
+    Attrib STEPS_TAKEN=Testing policy    0.029951864082676846
+    Attrib STEPS_TAKEN=Mass population testing    0.024647281835947582
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.17230166249556306
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.22653182198341526
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.24834035354805434
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.04788923647353062
+    Attrib STEPS_TAKEN=Curfews    0.049114798279231306
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.0464044746301501
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.35921649460765276
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.31103739599176733
+    Attrib STEPS_TAKEN=Military deployment    -0.034449663197179674
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.04489538646886315
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.2297817583942226
+    Attrib STEPS_TAKEN=Border checks    0.1827861142740195
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.013900602521985078
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.038107213202771675
+    Attrib STEPS_TAKEN=Full lockdown    0.0363750312184562
+    Attrib month_year=2020-02    -0.023334980721385803
+    Attrib month_year=2020-03    -0.1098538436177689
+    Attrib month_year=2020-04    0.04825843638277605
+    Attrib month_year=2020-05    0.1206386760490987
+    Attrib month_year=2020-06    -0.18262668063279144
+    Attrib month_year=2020-07    -0.028909585530745092
+    Attrib month_year=2020-08    -0.004380201690794557
+    Attrib month_year=2020-09    -0.031503030223834175
+    Attrib month_year=2020-10    0.2432035110317215
+    Attrib month_year=2020-11    -0.06706491719808501
+    Attrib month_year=2020-12    0.06529041551268255
+    Attrib month_year=2021-01    -0.007632831775673164
+    Attrib month_year=2020-01    -0.018886898999721416
+    Attrib population    -0.007466123859877716
+    Attrib stringency_index    -0.014970282513520018
+    Attrib total_cases    0.0744026506692331
+    Attrib total_deaths    0.09569747027001985
+    Attrib total_tests    0.005989612896826554
+    Attrib new_cases    0.04975360108298671
+    Attrib new_deaths    0.006674364010360937
+    Attrib partially_vaccinated    -0.0045520527059081245
+    Attrib fully_vaccinated    0.04443165029831697
+Sigmoid Node 38
+    Inputs    Weights
+    Threshold    -0.018240531579944725
+    Attrib COUNTRY=Argentina    -0.02241162208966191
+    Attrib COUNTRY=Australia    -0.04778790149244973
+    Attrib COUNTRY=Brazil    -0.014200228115525695
+    Attrib COUNTRY=Canada    0.019697101416648363
+    Attrib COUNTRY=China    -0.013239752658615746
+    Attrib COUNTRY=France    0.02993784564516376
+    Attrib COUNTRY=Germany    -0.019378361806208347
+    Attrib COUNTRY=India    -0.0017223505787969037
+    Attrib COUNTRY=Indonesia    0.02873514478557615
+    Attrib COUNTRY=Italy    0.015065368558053877
+    Attrib COUNTRY=Japan    0.026181588432829805
+    Attrib COUNTRY=Mexico    0.03746180212499993
+    Attrib COUNTRY=Russia    0.030433420650848947
+    Attrib COUNTRY=Saudi Arabia    0.007463409459989502
+    Attrib COUNTRY=South Africa    -0.04505279997841787
+    Attrib COUNTRY=Turkey    0.016287078659105628
+    Attrib COUNTRY=United Kingdom    0.015393334187091864
+    Attrib COUNTRY=United States    0.0027878707070357472
+    Attrib STEPS_TAKEN=Awareness campaigns    0.64766102326783
+    Attrib STEPS_TAKEN=International flights suspension    -0.5514799044360689
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.5724158437895376
+    Attrib STEPS_TAKEN=Visa restrictions    -0.6037957385124318
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.16518365139717373
+    Attrib STEPS_TAKEN=Schools closure    0.022908620272688772
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.8886684368323347
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.0758824150563638
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.47504601783356054
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.03324494073945404
+    Attrib STEPS_TAKEN=Border closure    -0.6593756063838085
+    Attrib STEPS_TAKEN=Partial lockdown    -0.581113044614875
+    Attrib STEPS_TAKEN=State of emergency declared    -0.03537987916672112
+    Attrib STEPS_TAKEN=Economic measures    -0.4436431588340682
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.6029149091375856
+    Attrib STEPS_TAKEN=General recommendations    -0.0318614302898788
+    Attrib STEPS_TAKEN=Testing policy    0.034069439242684435
+    Attrib STEPS_TAKEN=Mass population testing    -0.02865057773210692
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.7615928051797928
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.8074284950421385
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.2624939305896719
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.007656183726221934
+    Attrib STEPS_TAKEN=Curfews    0.04504081578592738
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.009269306132084973
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.4163412150619168
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.9134090035441745
+    Attrib STEPS_TAKEN=Military deployment    -0.02598718327411924
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.005544611973595091
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.8305120749279347
+    Attrib STEPS_TAKEN=Border checks    -0.2184109908075657
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.03483052783187002
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.0064651999347313666
+    Attrib STEPS_TAKEN=Full lockdown    -0.019325925545339375
+    Attrib month_year=2020-02    0.011498302753514378
+    Attrib month_year=2020-03    0.09545386262659987
+    Attrib month_year=2020-04    -0.09814384782472498
+    Attrib month_year=2020-05    -0.14848842401889878
+    Attrib month_year=2020-06    0.22658213876143743
+    Attrib month_year=2020-07    0.03299436614716962
+    Attrib month_year=2020-08    -0.03406207091701954
+    Attrib month_year=2020-09    -0.007917104940877162
+    Attrib month_year=2020-10    -0.254475371368399
+    Attrib month_year=2020-11    0.27253396411059105
+    Attrib month_year=2020-12    -0.034898805695475134
+    Attrib month_year=2021-01    0.028453421877274163
+    Attrib month_year=2020-01    -0.0014875103041954163
+    Attrib population    -0.014267651486684518
+    Attrib stringency_index    -0.13060253754977216
+    Attrib total_cases    0.00817245628802351
+    Attrib total_deaths    -0.007897567533760965
+    Attrib total_tests    -0.021726972093987808
+    Attrib new_cases    0.020245280140400015
+    Attrib new_deaths    -0.049986983680954555
+    Attrib partially_vaccinated    0.04780428331501477
+    Attrib fully_vaccinated    -0.020094133278625217
+Sigmoid Node 39
+    Inputs    Weights
+    Threshold    0.012310081848821533
+    Attrib COUNTRY=Argentina    0.045684285016415915
+    Attrib COUNTRY=Australia    0.0037671970037848057
+    Attrib COUNTRY=Brazil    0.04225234708199947
+    Attrib COUNTRY=Canada    0.009608101382119073
+    Attrib COUNTRY=China    -0.014251382085252763
+    Attrib COUNTRY=France    0.014824168067025786
+    Attrib COUNTRY=Germany    0.031830331580935164
+    Attrib COUNTRY=India    -0.023138593227037874
+    Attrib COUNTRY=Indonesia    0.018593051647210423
+    Attrib COUNTRY=Italy    -9.546396305391419E-4
+    Attrib COUNTRY=Japan    -0.04481576484078928
+    Attrib COUNTRY=Mexico    0.032382351268538015
+    Attrib COUNTRY=Russia    -0.0015260240281349535
+    Attrib COUNTRY=Saudi Arabia    -0.031688411929990425
+    Attrib COUNTRY=South Africa    0.016240519733025996
+    Attrib COUNTRY=Turkey    -0.04444163120048358
+    Attrib COUNTRY=United Kingdom    0.025567510129502827
+    Attrib COUNTRY=United States    0.03676485153950233
+    Attrib STEPS_TAKEN=Awareness campaigns    0.16681359541444835
+    Attrib STEPS_TAKEN=International flights suspension    0.23116835812637754
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.10475595745831855
+    Attrib STEPS_TAKEN=Visa restrictions    0.20358411451421346
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.4226673155505573
+    Attrib STEPS_TAKEN=Schools closure    -0.39852365402943857
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.22902491438095615
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.3615507714014095
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.14710719153593418
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.02916567309469152
+    Attrib STEPS_TAKEN=Border closure    0.2839475177928661
+    Attrib STEPS_TAKEN=Partial lockdown    -1.1039041980634352
+    Attrib STEPS_TAKEN=State of emergency declared    -0.012777384105857215
+    Attrib STEPS_TAKEN=Economic measures    -0.0353950955045168
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.08398127088649698
+    Attrib STEPS_TAKEN=General recommendations    0.019819400184479502
+    Attrib STEPS_TAKEN=Testing policy    -0.014574421441407005
+    Attrib STEPS_TAKEN=Mass population testing    0.013486812398078044
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.0934291125013961
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.13724164851990714
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.40371826139027467
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.042033978470515376
+    Attrib STEPS_TAKEN=Curfews    0.034893561119876765
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.02072826790592082
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.08032144264410129
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.1500303659894424
+    Attrib STEPS_TAKEN=Military deployment    0.0022809352477512687
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.03163816663431389
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.14448972774627078
+    Attrib STEPS_TAKEN=Border checks    0.004283220157291033
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.03957385808024601
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -3.7884936130262725E-4
+    Attrib STEPS_TAKEN=Full lockdown    -0.048474546803614654
+    Attrib month_year=2020-02    -0.019714475827522428
+    Attrib month_year=2020-03    0.023339936653124647
+    Attrib month_year=2020-04    -0.15943707324208864
+    Attrib month_year=2020-05    -0.13922116459348416
+    Attrib month_year=2020-06    0.042034048798254085
+    Attrib month_year=2020-07    -0.050000161244265456
+    Attrib month_year=2020-08    -0.03666082022434173
+    Attrib month_year=2020-09    0.0014687939531434352
+    Attrib month_year=2020-10    -0.032998471943614154
+    Attrib month_year=2020-11    0.06114068730753455
+    Attrib month_year=2020-12    0.017960021064723268
+    Attrib month_year=2021-01    -0.028442023791978178
+    Attrib month_year=2020-01    0.007842435980842069
+    Attrib population    -0.009581083264751232
+    Attrib stringency_index    -0.10779488688328995
+    Attrib total_cases    0.09798461606242029
+    Attrib total_deaths    0.046783692988931806
+    Attrib total_tests    -0.024522266328018662
+    Attrib new_cases    0.02073669848854626
+    Attrib new_deaths    -0.04562777539190921
+    Attrib partially_vaccinated    -0.009098859111959193
+    Attrib fully_vaccinated    0.04064819157567594
+Sigmoid Node 40
+    Inputs    Weights
+    Threshold    0.01892247110984602
+    Attrib COUNTRY=Argentina    0.026118740059961162
+    Attrib COUNTRY=Australia    -0.01965463953622978
+    Attrib COUNTRY=Brazil    0.03495291263409073
+    Attrib COUNTRY=Canada    0.047619606127958555
+    Attrib COUNTRY=China    0.027837783882402906
+    Attrib COUNTRY=France    0.004768918399228238
+    Attrib COUNTRY=Germany    -2.6152131398301387E-4
+    Attrib COUNTRY=India    0.015408654142104267
+    Attrib COUNTRY=Indonesia    -0.044819185601476456
+    Attrib COUNTRY=Italy    0.025605695014502786
+    Attrib COUNTRY=Japan    -0.008282173457854328
+    Attrib COUNTRY=Mexico    0.022145145880596753
+    Attrib COUNTRY=Russia    0.0276553460908998
+    Attrib COUNTRY=Saudi Arabia    -0.028174679327285092
+    Attrib COUNTRY=South Africa    0.01353708838686915
+    Attrib COUNTRY=Turkey    0.03699007094865918
+    Attrib COUNTRY=United Kingdom    -0.04528482803350953
+    Attrib COUNTRY=United States    -0.004846020996845127
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.08166655867129013
+    Attrib STEPS_TAKEN=International flights suspension    0.5908298509172816
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.13321971267018567
+    Attrib STEPS_TAKEN=Visa restrictions    0.6069120532736477
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.5659938073024929
+    Attrib STEPS_TAKEN=Schools closure    -0.6393978339780055
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.13119518535587846
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.5051274249086045
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.4590129952173564
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.023062134830644884
+    Attrib STEPS_TAKEN=Border closure    0.6824249110824336
+    Attrib STEPS_TAKEN=Partial lockdown    -0.4825722418592001
+    Attrib STEPS_TAKEN=State of emergency declared    0.03661336442493485
+    Attrib STEPS_TAKEN=Economic measures    0.2924160859749788
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.1630881457352317
+    Attrib STEPS_TAKEN=General recommendations    -0.04686585484023786
+    Attrib STEPS_TAKEN=Testing policy    0.012217600223219327
+    Attrib STEPS_TAKEN=Mass population testing    0.024972997956779597
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.49478535724290706
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.16797410753452316
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.4544200734905411
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.018471830316320673
+    Attrib STEPS_TAKEN=Curfews    0.005473662292957426
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.03424005379459262
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.34828957337848215
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.1901462494914147
+    Attrib STEPS_TAKEN=Military deployment    0.04643937301136386
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.028918599429402378
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.11863549264136217
+    Attrib STEPS_TAKEN=Border checks    0.10492048964592485
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.01135360290108707
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.009402383635259012
+    Attrib STEPS_TAKEN=Full lockdown    -0.02101277806193086
+    Attrib month_year=2020-02    0.025646528574821734
+    Attrib month_year=2020-03    -0.07912951739015468
+    Attrib month_year=2020-04    -0.10742520296970631
+    Attrib month_year=2020-05    0.0015409044561421874
+    Attrib month_year=2020-06    -0.10293420308124834
+    Attrib month_year=2020-07    -0.107060206398863
+    Attrib month_year=2020-08    -0.009729628691749495
+    Attrib month_year=2020-09    0.03919874277296548
+    Attrib month_year=2020-10    0.22911934230081504
+    Attrib month_year=2020-11    -0.09148409648124248
+    Attrib month_year=2020-12    0.05677742258421958
+    Attrib month_year=2021-01    -0.0258878331349212
+    Attrib month_year=2020-01    -0.009992127849934099
+    Attrib population    -0.047530257437267145
+    Attrib stringency_index    -0.10250527050430079
+    Attrib total_cases    0.11139374437819671
+    Attrib total_deaths    0.09387648769254824
+    Attrib total_tests    -0.0591245972933859
+    Attrib new_cases    0.057506439956404594
+    Attrib new_deaths    0.034296463034297696
+    Attrib partially_vaccinated    -0.049013587432722966
+    Attrib fully_vaccinated    0.033110300531209655
+Sigmoid Node 41
+    Inputs    Weights
+    Threshold    0.04211933148186172
+    Attrib COUNTRY=Argentina    0.02400275857342518
+    Attrib COUNTRY=Australia    0.029746905534341964
+    Attrib COUNTRY=Brazil    0.017664071511846485
+    Attrib COUNTRY=Canada    -0.03480721552782278
+    Attrib COUNTRY=China    0.01296702772977
+    Attrib COUNTRY=France    -0.04802972345084459
+    Attrib COUNTRY=Germany    -0.033073622989327735
+    Attrib COUNTRY=India    0.01282029030913756
+    Attrib COUNTRY=Indonesia    0.032971038076208284
+    Attrib COUNTRY=Italy    -0.01368430410995445
+    Attrib COUNTRY=Japan    -0.027108384118115947
+    Attrib COUNTRY=Mexico    -0.0015976991828963935
+    Attrib COUNTRY=Russia    -0.03401916517585302
+    Attrib COUNTRY=Saudi Arabia    0.046271464782326424
+    Attrib COUNTRY=South Africa    0.03419613034900147
+    Attrib COUNTRY=Turkey    -0.02344401413395544
+    Attrib COUNTRY=United Kingdom    -0.04315223124692341
+    Attrib COUNTRY=United States    0.04292512305893399
+    Attrib STEPS_TAKEN=Awareness campaigns    0.43483275639830443
+    Attrib STEPS_TAKEN=International flights suspension    -0.3284350147855614
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.4030145904265928
+    Attrib STEPS_TAKEN=Visa restrictions    -0.41815188811403686
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.08882190818885619
+    Attrib STEPS_TAKEN=Schools closure    0.02753386046702382
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.7440338203908345
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.05198456240903629
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.3516068070865623
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.020186333829427416
+    Attrib STEPS_TAKEN=Border closure    -0.41040503749805235
+    Attrib STEPS_TAKEN=Partial lockdown    -1.1344238038654624
+    Attrib STEPS_TAKEN=State of emergency declared    -0.03471387890868288
+    Attrib STEPS_TAKEN=Economic measures    -0.3073535936417854
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.47018678792396895
+    Attrib STEPS_TAKEN=General recommendations    0.038184240126407684
+    Attrib STEPS_TAKEN=Testing policy    0.03870829889478099
+    Attrib STEPS_TAKEN=Mass population testing    -0.027991936309662603
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.6009703094023182
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.5931669250289462
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.1775070614279481
+    Attrib STEPS_TAKEN=Checkpoints within the country    0.00570258255340543
+    Attrib STEPS_TAKEN=Curfews    0.001423841161238358
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.022065869744154334
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.32991571933225466
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.7044136351020066
+    Attrib STEPS_TAKEN=Military deployment    0.002753305767683803
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    0.03902979486451601
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.6090675018934436
+    Attrib STEPS_TAKEN=Border checks    -0.19074890758863855
+    Attrib STEPS_TAKEN=Limit product imports/exports    -0.02784231877274095
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.016382661777319875
+    Attrib STEPS_TAKEN=Full lockdown    -0.013829763108761904
+    Attrib month_year=2020-02    0.025498146377445213
+    Attrib month_year=2020-03    0.13517965136139187
+    Attrib month_year=2020-04    -0.10392888466611279
+    Attrib month_year=2020-05    -0.22613393790946176
+    Attrib month_year=2020-06    0.13110153817265122
+    Attrib month_year=2020-07    -0.033405790454564675
+    Attrib month_year=2020-08    -0.025086566331769405
+    Attrib month_year=2020-09    -0.0464715473747825
+    Attrib month_year=2020-10    -0.20634183748641052
+    Attrib month_year=2020-11    0.24534302433840866
+    Attrib month_year=2020-12    -0.04577776009289159
+    Attrib month_year=2021-01    0.03352866502760331
+    Attrib month_year=2020-01    0.009331568950510002
+    Attrib population    -0.047605352282173656
+    Attrib stringency_index    -0.09071836786436262
+    Attrib total_cases    0.022437372778644216
+    Attrib total_deaths    0.021496675599689652
+    Attrib total_tests    0.015898930922934807
+    Attrib new_cases    0.014772213206163813
+    Attrib new_deaths    -0.0293921034065654
+    Attrib partially_vaccinated    -0.022900558836125386
+    Attrib fully_vaccinated    0.03207838030541521
+Sigmoid Node 42
+    Inputs    Weights
+    Threshold    0.032965131452241885
+    Attrib COUNTRY=Argentina    -0.0018413093163345481
+    Attrib COUNTRY=Australia    0.03184110759560621
+    Attrib COUNTRY=Brazil    0.0043299366591334695
+    Attrib COUNTRY=Canada    0.04647843763733185
+    Attrib COUNTRY=China    -0.020331819303920362
+    Attrib COUNTRY=France    0.011908782901326666
+    Attrib COUNTRY=Germany    0.03164917913468719
+    Attrib COUNTRY=India    -0.03199034637856847
+    Attrib COUNTRY=Indonesia    -0.01632549501038697
+    Attrib COUNTRY=Italy    0.02885975015077917
+    Attrib COUNTRY=Japan    0.04663281234310307
+    Attrib COUNTRY=Mexico    -0.024431555634081836
+    Attrib COUNTRY=Russia    0.031485750263621506
+    Attrib COUNTRY=Saudi Arabia    -0.04020913605044091
+    Attrib COUNTRY=South Africa    0.032767153261078166
+    Attrib COUNTRY=Turkey    -0.024327696752670904
+    Attrib COUNTRY=United Kingdom    0.01949003575765501
+    Attrib COUNTRY=United States    -0.02268732054756836
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.029391485401175834
+    Attrib STEPS_TAKEN=International flights suspension    0.29870365651576164
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    -0.064320890579333
+    Attrib STEPS_TAKEN=Visa restrictions    0.2530580725293388
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.3780230974924867
+    Attrib STEPS_TAKEN=Schools closure    -0.3417323749642903
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.061940270782963006
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.2939079575633387
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.19545867957814317
+    Attrib STEPS_TAKEN=Surveillance and monitoring    -0.023307687245066266
+    Attrib STEPS_TAKEN=Border closure    0.30766252021157736
+    Attrib STEPS_TAKEN=Partial lockdown    -0.9445513854173057
+    Attrib STEPS_TAKEN=State of emergency declared    -0.00991469515965504
+    Attrib STEPS_TAKEN=Economic measures    0.37343993188836877
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.12427659500238748
+    Attrib STEPS_TAKEN=General recommendations    -0.03699126707456031
+    Attrib STEPS_TAKEN=Testing policy    -0.026702949137972998
+    Attrib STEPS_TAKEN=Mass population testing    -0.027034322783481703
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.5761243296089036
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.044121060111171326
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.3535819987082275
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.03779608688118599
+    Attrib STEPS_TAKEN=Curfews    0.01028684460334256
+    Attrib STEPS_TAKEN=Humanitarian exemptions    0.03550601262332402
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.161868964087874
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.07578642244482409
+    Attrib STEPS_TAKEN=Military deployment    0.043210009373024647
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.049869661664012056
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.04339309815990477
+    Attrib STEPS_TAKEN=Border checks    0.08798366617653476
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.023691863589569692
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -0.03011823602320515
+    Attrib STEPS_TAKEN=Full lockdown    0.01807104611058649
+    Attrib month_year=2020-02    -0.029606613100606128
+    Attrib month_year=2020-03    0.02271871583973069
+    Attrib month_year=2020-04    -0.10672604721767134
+    Attrib month_year=2020-05    -0.024050255253814747
+    Attrib month_year=2020-06    0.012516142122948486
+    Attrib month_year=2020-07    -0.002414900091840664
+    Attrib month_year=2020-08    -0.032939863862181944
+    Attrib month_year=2020-09    0.04142800338117479
+    Attrib month_year=2020-10    0.05590749612490372
+    Attrib month_year=2020-11    -0.03349412913343385
+    Attrib month_year=2020-12    0.037314476174486286
+    Attrib month_year=2021-01    -0.015339237509584061
+    Attrib month_year=2020-01    -0.03268861126986011
+    Attrib population    -0.02385866106676402
+    Attrib stringency_index    -0.017900187569836672
+    Attrib total_cases    0.01854334770832034
+    Attrib total_deaths    0.08863660047301042
+    Attrib total_tests    -0.012015404892188428
+    Attrib new_cases    0.05060183829960102
+    Attrib new_deaths    0.03465332178565568
+    Attrib partially_vaccinated    0.020560198652980158
+    Attrib fully_vaccinated    -0.021363718996473546
+Sigmoid Node 43
+    Inputs    Weights
+    Threshold    0.0038004123417323256
+    Attrib COUNTRY=Argentina    0.0069903603032874795
+    Attrib COUNTRY=Australia    -0.04488784083633235
+    Attrib COUNTRY=Brazil    -0.002915148995275743
+    Attrib COUNTRY=Canada    0.03067637784982695
+    Attrib COUNTRY=China    0.024885019342352127
+    Attrib COUNTRY=France    -0.033472141554108756
+    Attrib COUNTRY=Germany    -0.03295346444768951
+    Attrib COUNTRY=India    -0.03354904496744762
+    Attrib COUNTRY=Indonesia    0.03765577890544096
+    Attrib COUNTRY=Italy    -0.03885484954852865
+    Attrib COUNTRY=Japan    7.198841319274868E-4
+    Attrib COUNTRY=Mexico    -0.007260673838520769
+    Attrib COUNTRY=Russia    0.010273386019766628
+    Attrib COUNTRY=Saudi Arabia    -0.0016781368665409122
+    Attrib COUNTRY=South Africa    -0.018763381220042553
+    Attrib COUNTRY=Turkey    0.029490277530014042
+    Attrib COUNTRY=United Kingdom    -0.0010854014222522745
+    Attrib COUNTRY=United States    0.004679551466225486
+    Attrib STEPS_TAKEN=Awareness campaigns    -0.03102825100117829
+    Attrib STEPS_TAKEN=International flights suspension    -0.08466520161336819
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.010937656591805551
+    Attrib STEPS_TAKEN=Visa restrictions    -0.07411477129399381
+    Attrib STEPS_TAKEN=Closure of businesses and public services    0.2202028636288095
+    Attrib STEPS_TAKEN=Schools closure    0.1396810979885947
+    Attrib STEPS_TAKEN=Strengthening the public health system    -0.005621143363275072
+    Attrib STEPS_TAKEN=Limit public gatherings    0.12160157161766312
+    Attrib STEPS_TAKEN=Domestic travel restrictions    -0.08019373184266415
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.036229721603420736
+    Attrib STEPS_TAKEN=Border closure    -0.012822089882504713
+    Attrib STEPS_TAKEN=Partial lockdown    0.5035726279958591
+    Attrib STEPS_TAKEN=State of emergency declared    0.026238423680707654
+    Attrib STEPS_TAKEN=Economic measures    -0.17797747073964204
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    -0.029419743616166342
+    Attrib STEPS_TAKEN=General recommendations    0.03039288378648003
+    Attrib STEPS_TAKEN=Testing policy    -0.04382743528106336
+    Attrib STEPS_TAKEN=Mass population testing    -0.04099897972495042
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    -0.2198486017013786
+    Attrib STEPS_TAKEN=Other public health measures enforced    -0.07698754993124471
+    Attrib STEPS_TAKEN=Changes in prison-related policies    0.1290141493566421
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.012367239795303311
+    Attrib STEPS_TAKEN=Curfews    -0.023967328737196758
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.04672556662734631
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    -0.029244439362417437
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    -0.0924797928599321
+    Attrib STEPS_TAKEN=Military deployment    0.034657559690977766
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.016932255935380246
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    -0.07781611893419839
+    Attrib STEPS_TAKEN=Border checks    0.005051086155426207
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.04896791246649779
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    0.02416934495392424
+    Attrib STEPS_TAKEN=Full lockdown    -0.014248270000163432
+    Attrib month_year=2020-02    -0.005797632564029417
+    Attrib month_year=2020-03    -0.05496631629366291
+    Attrib month_year=2020-04    0.09237373781024455
+    Attrib month_year=2020-05    0.027955118397448034
+    Attrib month_year=2020-06    -0.0767993308941502
+    Attrib month_year=2020-07    0.08795795424029584
+    Attrib month_year=2020-08    0.02077723526824516
+    Attrib month_year=2020-09    -0.04885510810424735
+    Attrib month_year=2020-10    -0.013050630298908369
+    Attrib month_year=2020-11    -0.02710595661699801
+    Attrib month_year=2020-12    -0.04735903809034595
+    Attrib month_year=2021-01    0.0050578879446607355
+    Attrib month_year=2020-01    -0.045513711415180104
+    Attrib population    -0.026609528380813666
+    Attrib stringency_index    0.046715608456639614
+    Attrib total_cases    -0.007147704863448088
+    Attrib total_deaths    0.004508321301572618
+    Attrib total_tests    0.00605060019576388
+    Attrib new_cases    -0.03288796867201911
+    Attrib new_deaths    0.06499465669596001
+    Attrib partially_vaccinated    -0.032509153529984985
+    Attrib fully_vaccinated    0.04395212558667998
+Sigmoid Node 44
+    Inputs    Weights
+    Threshold    -0.011637251996255758
+    Attrib COUNTRY=Argentina    -0.04047724915822096
+    Attrib COUNTRY=Australia    -0.02434043655671844
+    Attrib COUNTRY=Brazil    -0.037848226672719754
+    Attrib COUNTRY=Canada    0.03598033458115371
+    Attrib COUNTRY=China    0.03548516075507974
+    Attrib COUNTRY=France    0.01594686951090471
+    Attrib COUNTRY=Germany    -0.012508003352619777
+    Attrib COUNTRY=India    0.0189522537739181
+    Attrib COUNTRY=Indonesia    0.03375064130563976
+    Attrib COUNTRY=Italy    -0.025359971159688036
+    Attrib COUNTRY=Japan    -0.03200160856440125
+    Attrib COUNTRY=Mexico    0.03373790148739027
+    Attrib COUNTRY=Russia    0.0027731774393598835
+    Attrib COUNTRY=Saudi Arabia    0.036851388671580554
+    Attrib COUNTRY=South Africa    -0.014596784163396395
+    Attrib COUNTRY=Turkey    0.022289488760942916
+    Attrib COUNTRY=United Kingdom    -0.037337162929259086
+    Attrib COUNTRY=United States    -0.014063470533699045
+    Attrib STEPS_TAKEN=Awareness campaigns    0.14036979110419087
+    Attrib STEPS_TAKEN=International flights suspension    0.03533612217026526
+    Attrib STEPS_TAKEN=Isolation and quarantine policies    0.10907823143768607
+    Attrib STEPS_TAKEN=Visa restrictions    -0.08625513714766106
+    Attrib STEPS_TAKEN=Closure of businesses and public services    -0.7765124013866668
+    Attrib STEPS_TAKEN=Schools closure    -0.6542902014961213
+    Attrib STEPS_TAKEN=Strengthening the public health system    0.22239102583332668
+    Attrib STEPS_TAKEN=Limit public gatherings    -0.6838935492518412
+    Attrib STEPS_TAKEN=Domestic travel restrictions    0.05788386542308717
+    Attrib STEPS_TAKEN=Surveillance and monitoring    0.020674323228505098
+    Attrib STEPS_TAKEN=Border closure    0.005681522808215223
+    Attrib STEPS_TAKEN=Partial lockdown    0.24337912961841718
+    Attrib STEPS_TAKEN=State of emergency declared    -0.009561913080322358
+    Attrib STEPS_TAKEN=Economic measures    0.4925534326122596
+    Attrib STEPS_TAKEN=Requirement to wear protective gear in public    0.1406383517243595
+    Attrib STEPS_TAKEN=General recommendations    0.034565741081710843
+    Attrib STEPS_TAKEN=Testing policy    0.0318403735909641
+    Attrib STEPS_TAKEN=Mass population testing    -0.03680885292629528
+    Attrib STEPS_TAKEN=Emergency administrative structures activated or established    0.7760506303608266
+    Attrib STEPS_TAKEN=Other public health measures enforced    0.1587200469288929
+    Attrib STEPS_TAKEN=Changes in prison-related policies    -0.6952830887187763
+    Attrib STEPS_TAKEN=Checkpoints within the country    -0.016579390253650753
+    Attrib STEPS_TAKEN=Curfews    -0.043362851598739476
+    Attrib STEPS_TAKEN=Humanitarian exemptions    -0.02583828481527587
+    Attrib STEPS_TAKEN=Additional health/documents requirements upon arrival    0.06457965877985371
+    Attrib STEPS_TAKEN=Psychological assistance and medical social work    0.15704153002707255
+    Attrib STEPS_TAKEN=Military deployment    0.044139527340057536
+    Attrib STEPS_TAKEN=Amendments to funeral and burial regulations    -0.04142476987007587
+    Attrib STEPS_TAKEN=Health screenings in airports and border crossings    0.24375011236733837
+    Attrib STEPS_TAKEN=Border checks    -0.08014789193642599
+    Attrib STEPS_TAKEN=Limit product imports/exports    0.01788368527652294
+    Attrib STEPS_TAKEN=Lockdown of refugee/idp camps or other minorities    -1.1365603650129175E-5
+    Attrib STEPS_TAKEN=Full lockdown    -0.04375688343320603
+    Attrib month_year=2020-02    0.02426541192432638
+    Attrib month_year=2020-03    -0.09119749865837214
+    Attrib month_year=2020-04    -0.047710519276124394
+    Attrib month_year=2020-05    0.19104571201661538
+    Attrib month_year=2020-06    0.09224722816558216
+    Attrib month_year=2020-07    -0.10999632932785465
+    Attrib month_year=2020-08    -0.1338486511246743
+    Attrib month_year=2020-09    0.01215378900692976
+    Attrib month_year=2020-10    -0.04117254701007436
+    Attrib month_year=2020-11    0.12069939710211844
+    Attrib month_year=2020-12    -0.016390710382636575
+    Attrib month_year=2021-01    0.022898529578056423
+    Attrib month_year=2020-01    -0.0070650298949138865
+    Attrib population    -0.03836653890122277
+    Attrib stringency_index    0.028393155022443085
+    Attrib total_cases    0.018652357761242643
+    Attrib total_deaths    -5.455456914881053E-4
+    Attrib total_tests    -0.1546452770913836
+    Attrib new_cases    -0.08034278468669279
+    Attrib new_deaths    0.025120222539039637
+    Attrib partially_vaccinated    -0.038419825517508666
+    Attrib fully_vaccinated    -0.001564911904385194
+Class Public health measures
+    Input
+    Node 0
+Class Movement restrictions
+    Input
+    Node 1
+Class Social distancing
+    Input
+    Node 2
+Class Lockdown
+    Input
+    Node 3
+Class Governance and socio-economic measures
+    Input
+    Node 4
+Class Humanitarian exemption
+    Input
+    Node 5
+
+
+Time taken to build model: 0.93 seconds
+
+=== Evaluation on test split ===
+
+Time taken to test model on test split: 0 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          16               72.7273 %
+Incorrectly Classified Instances         6               27.2727 %
+Kappa statistic                          0.6229
+Mean absolute error                      0.1042
+Root mean squared error                  0.2476
+Relative absolute error                 41.7511 %
+Root relative squared error             68.9086 %
+Total Number of Instances               22     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.714    0.133    0.714      0.714    0.714      0.581    0.933     0.869     Public health measures
+                 1.000    0.200    0.700      1.000    0.824      0.748    1.000     1.000     Movement restrictions
+                 1.000    0.053    0.750      1.000    0.857      0.843    1.000     1.000     Social distancing
+                 0.000    0.000    ?          0.000    ?          ?        0.825     0.310     Lockdown
+                 0.333    0.000    1.000      0.333    0.500      0.549    0.807     0.583     Governance and socio-economic measures
+                 ?        0.000    ?          ?        ?          ?        ?         ?         Humanitarian exemption
+Weighted Avg.    0.727    0.113    ?          0.727    ?          ?        0.937     0.839     
+
+=== Confusion Matrix ===
+
+ a b c d e f   <-- classified as
+ 5 1 1 0 0 0 | a = Public health measures
+ 0 7 0 0 0 0 | b = Movement restrictions
+ 0 0 3 0 0 0 | c = Social distancing
+ 1 1 0 0 0 0 | d = Lockdown
+ 1 1 0 0 1 0 | e = Governance and socio-economic measures
+ 0 0 0 0 0 0 | f = Humanitarian exemption
+
