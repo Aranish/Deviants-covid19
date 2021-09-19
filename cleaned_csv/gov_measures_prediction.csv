@@ -1,0 +1,75 @@
+COUNTRY,MAIN_MEASURES,COUNT_OF_INSTANCES
+Argentina,Public health measures,7
+Argentina,Movement restrictions,11
+Argentina,Social distancing,4
+Argentina,Lockdown,2
+Argentina,Governance and socio-economic measures,6
+Australia,Public health measures,26
+Australia,Movement restrictions,15
+Australia,Social distancing,11
+Australia,Lockdown,4
+Australia,Governance and socio-economic measures,9
+Brazil,Public health measures,7
+Brazil,Movement restrictions,10
+Brazil,Social distancing,4
+Brazil,Governance and socio-economic measures,1
+Canada,Public health measures,21
+Canada,Movement restrictions,7
+Canada,Social distancing,1
+Canada,Governance and socio-economic measures,11
+China,Public health measures,18
+China,Movement restrictions,6
+China,Social distancing,2
+China,Governance and socio-economic measures,4
+France,Public health measures,13
+France,Movement restrictions,4
+France,Social distancing,5
+France,Lockdown,1
+France,Governance and socio-economic measures,9
+Germany,Public health measures,19
+Germany,Movement restrictions,6
+Germany,Social distancing,7
+Germany,Governance and socio-economic measures,6
+India,Public health measures,18
+India,Movement restrictions,5
+India,Lockdown,1
+India,Governance and socio-economic measures,4
+Indonesia,Public health measures,14
+Indonesia,Movement restrictions,3
+Indonesia,Social distancing,1
+Italy,Public health measures,18
+Italy,Movement restrictions,4
+Italy,Social distancing,8
+Italy,Governance and socio-economic measures,5
+Japan,Public health measures,13
+Japan,Movement restrictions,7
+Japan,Social distancing,2
+Japan,Governance and socio-economic measures,3
+Mexico,Public health measures,18
+Mexico,Movement restrictions,3
+Mexico,Social distancing,7
+Mexico,Governance and socio-economic measures,2
+Russia,Public health measures,15
+Russia,Movement restrictions,5
+Russia,Social distancing,8
+Russia,Governance and socio-economic measures,2
+South Africa,Public health measures,7
+South Africa,Movement restrictions,2
+South Africa,Social distancing,3
+South Africa,Lockdown,1
+South Africa,Governance and socio-economic measures,5
+Saudi Arabia,Public health measures,9
+Saudi Arabia,Movement restrictions,8
+Saudi Arabia,Social distancing,1
+Turkey,Public health measures,4
+Turkey,Movement restrictions,12
+Turkey,Social distancing,7
+United Kingdom,Public health measures,24
+United Kingdom,Movement restrictions,4
+United Kingdom,Social distancing,11
+United Kingdom,Lockdown,1
+United Kingdom,Governance and socio-economic measures,2
+United States,Public health measures,18
+United States,Movement restrictions,8
+United States,Social distancing,3
+United States,Governance and socio-economic measures,11
